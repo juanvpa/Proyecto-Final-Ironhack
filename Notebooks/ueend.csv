@@ -1,0 +1,669 @@
+,Restaurante,Valoración,Nota,Delivery_Fee,ETA,Tag,Precio,Dirección,Barrio,lat,lon
+0,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores,   Madrid",Centro,4.040.069,-369.925
+1,TUTTO PASTA!,26,2.8,2.5,40–60,Family Meals,€,"Calle De Núñez De Arce, 11,  Madrid",Centro,4.041.538,-370.124
+2,Pizza Central,31,3.8,2.99,35–55,Pizza,€,"Plaza Del Emperador Carlos V, 10,  Madrid",Centro,4.040.861,-369.288
+4,La Tagliatella,15,3.9,0.9,25–35,Pizza,€,"Calle De Toledo 27,   Madrid",Centro,4.041.377,-370.737
+5,Fritz Foods,41,4.5,0.4,30–40,Pizza,€,"Calle De Luchana 17,   Madrid",Centro,40.43,-370.099
+6,Pizzart Luchana,28,3.1,1.9,50–60,Pizza,€,"Paseo De La Virgen Del Puerto, 45,  Madrid",Centro,4.040.922,-372.105
+8,Kahuna,25,4.6,1.4,45–55,Burritos,€,"Calle De La Aduana 25,   Madrid",Centro,4.041.841,-370.073
+9,Wacamole,50,3.9,0.9,40–50,De Latinoamérica,€,"Calle De Arriaza, 6,  Madrid",Centro,4.042.104,-371.579
+10,El Imperio de la Empanada,28,3.1,0.9,45–55,Empanada,€,"Calle De San Andrés, 26,   Madrid",Centro,4.042.735,-370.352
+12,Roost Chicken,28,3.1,1.4,45–55,Pollo,€,"Calle Mayor, 38,  Madrid",Centro,4.041.611,-370.831
+13,Popeyes,200,4.3,0.4,30–40,Pollo,€,"Paseo Del Doctor Vallejo Nágera, 25 ,   Madrid",Centro,4.040.163,-370.811
+14,Papa John's,200,4.3,1.9,30–40,Pizza,€,"Calle De Cáceres 1,  Madrid",Centro,4.039.854,-369.618
+15,Comida china yonghe,50,4.3,2.4,40–50,China,€,"Calle Preciados, 29 ,  Madrid",Centro,4.041.959,-370.641
+17,Taco Bell,145,4.3,0.9,30–40,Hamburguesas,€,"P.º De La Florida, 2,    Madrid",Centro,4.042.149,-371.954
+18,KFC - Principe Pio,28,3.1,1.4,50–60,Pollo,€,"Travesía De La Parada 6,  Madrid",Centro,4.042.286,-370.803
+19,EL LATÓN GRIS,66,3.7,0.9,45–55,Pollo,€€,"Calle De Mira El Sol, 1,   Madrid",Centro,4.040.781,-370.452
+21,TAMCOC,28,3.1,1.4,40–50,Italiana,€€€,"Calle De La Alianza 33,   Madrid",Centro,4.035.775,-368.689
+22,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Dos Hermanas, 22,   Madrid",Centro,4.041.041,-370.607
+23,La Alegría de la Huerta,28,3.1,0.9,25–35,Vegetariano,€,"Calle De Núñez De Arce 11,  Madrid",Centro,4.041.538,-370.124
+25,Empanadas BAIRES,28,3.1,2.99,35–55,Empanada,€,"Atocha, 64,  Madrid",Centro,4.041.154,-36.983
+26,Domino's,89,4.4,1.0,15–25,Pizza,€€,"Calle De Los Donados 2,   Madrid",Centro,4.041.799,-370.834
+27,Cor & Cor,28,3.1,0.4,30–40,Postres,€,"Calle De Carranza 3,   Madrid",Centro,4.042.895,-370.276
+28,Tiendas 7x24,70,4.6,1.9,50–60,Tienda,€,"Calle De Tudescos, 4,  Madrid",Centro,403.747,-365.969
+30,Super naan,28,3.1,0.9,50–60,India,€,"Calle Azabache, 6,   Madrid",Centro,4.039.215,-372.487
+31,Super Dog,25,3.7,0.9,30–50,Hamburguesas,€,"Calle Gran Vía, 16,   Madrid",Centro,4.041.966,-369.894
+32,Steak Burger,168,4.2,1.4,45–55,Americana,€,"Calle De La Cruz, 20,   Madrid",Centro,4.041.553,-370.175
+34,Galipan,23,4.2,0.9,45–55,Halal,€,"Calle Del Dr Cortezo, 7,   Madrid",Centro,4.041.347,-370.389
+35,El Turkito,200,4.1,0.9,30–40,Asiatica,€,"Paseo De Santa María De La Cabeza 14,   Madrid",Centro,4.040.615,-369.478
+36,Arepish,186,4.4,1.9,35–45,Venezolana,€,"Hilarion Eslava 42,   Madrid",Centro,4.043.649,-371.684
+38,CONVEXO,69,4.6,2.4,40–50,Pollo,€,"Calle Del Mesón De Paredes 52,   Madrid",Centro,4.040.597,-370.127
+39,Mandela 100,28,3.1,0.9,40–50,India,€,"Calle Del Espíritu Santo 16,   Madrid",Centro,4.042.557,-370.629
+40,MY Pasta Room,59,4.6,1.4,40–50,Italiana,€,"Calle Cáceres, 34,  Madrid",Centro,4.039.879,-36.959
+41,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle Gran Vía 74,   Madrid",Centro,4.042.146,-37.075
+43,Trek Taco,28,3.1,0.9,40–50,Empanada,€,"Calle De San Bernardino, 20,   Madrid",Centro,4.042.541,-371.112
+44,MILA TOWN,28,3.1,1.4,35–45,Americana,€,"Plaza Del Comandante Las Morenas 3,   Madrid",Centro,4.041.624,-370.883
+45,Pollo Criollo,28,3.1,0.4,45–55,Pollo,€,"Paseo De Los Jesuitas 18,   Madrid",Centro,4.041.054,-373.129
+47,Gourmet Madrid,24,3.3,2.4,60–70,Pizza,€,"Calle De Luchana 13,  Madrid",Centro,40.43,-370.099
+48,Freedom Pizza,53,4.5,1.9,45–55,Pizza,€,"Calle De Mira El Sol 23b,   Madrid",Centro,4.040.763,-370.495
+49,La Cochinita Loca,19,4.3,1.4,40–50,Colombiana,€,"Calle De Lavapiés 34,  Madrid",Centro,4.041.107,-370.275
+51,Sonali Indian Restaurante,58,4.1,1.4,25–35,India,€,"Calle De Ayala 28,   Madrid",Centro,4.042.774,-368.571
+52,SANABRIA,28,3.1,2.4,55–65,Tapas y raciones,€,"Plaza De La Cebada, 10,   Madrid",Centro,4.041.156,-371.008
+53,Taberna La Buha,24,4.2,0.9,45–55,Tapas,€,"Calle De Galería De Vallehermoso 4,  Madrid",Centro,4.043.946,-370.777
+54,Real Fried Chicken,15,4.3,2.4,50–60,Alitas de pollo,€,"Calle De Moncada 122,  Madrid",Centro,4.034.096,-369.201
+56,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle Mayor, 42,   Madrid",Centro,4.041.606,-370.853
+57,Las Muns,28,3.1,0.4,35–45,Panadería,€,"Calle Mayor, 31,   Madrid",Centro,4.041.613,-370.744
+58,Chocolateria Tacita de Plata,13,4.1,0.4,35–45,Postres,€,"Calle Gran Vía, 22,   Madrid",Centro,4.042.011,-37.007
+60,TGB,89,3.9,1.4,50–60,Hamburguesas,€€€,"Calle Vergara 3,   Madrid",Centro,4.041.775,-371.025
+61,Mr. Pizza Madrid,28,3.1,0.9,35–45,Italiana,€,"Calle De Toledo, 63,   Madrid",Centro,4.041.122,-370.801
+62,McDonald's,200,4.3,0.9,25–35,Hamburguesas,€,"Calle Libertad, 9,  Madrid",Centro,4.042.072,-369.767
+64,Puccias Chueca,28,3.1,1.4,30–40,Americana,€,"Paseo De Santa María De La Cabeza, 86,   Madrid",Centro,4.039.875,-370.153
+65,Beiben,14,4.2,1.9,30–40,Tapas,€,"Calle Andrés Mellado 43,  Madrid",Centro,4.044.112,-371.427
+66,La Bruja del Vesuvio,28,3.1,1.9,40–50,Comida rápida,€,"Calle De Cea Bermúdez 49,   Madrid",Centro,4.043.905,-370.972
+67,Cerveceria Riaño,28,3.1,2.9,45–55,Cerveza,€,"Calle De José Calvo 6,   Madrid",Centro,4.045.883,-370.845
+69,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores,   Madrid",Arganzuela,4.040.069,-369.925
+70,TUTTO PASTA!,26,2.8,2.5,40–60,Especialidades,€,"Calle De Cáceres 1,   Madrid",Arganzuela,4.039.854,-369.618
+71,Pizza Central,31,3.8,2.99,35–55,Pizza,€,"Calle Cáceres, 34,  Madrid",Arganzuela,4.039.879,-36.959
+73,Ristorante Pizzería Dante,61,4.1,2.4,40–60,Pizza,€,"Paseo Del Doctor Vallejo Nágera, 25 ,  Madrid",Arganzuela,4.040.163,-370.811
+74,Papa John's,200,4.3,0.9,20–30,Pizza,€,"Paseo Delicias, 65,   Madrid",Arganzuela,4.039.908,-369.435
+75,Domino's,33,4.3,1.0,15–35,Pizza,€,"Calle De Toledo 27,   Madrid",Arganzuela,4.041.377,-370.737
+77,Fritz Foods,41,4.5,1.9,45–55,Pizza,€,"Paseo De La Virgen Del Puerto, 45,  Madrid",Arganzuela,4.040.922,-372.105
+78,Kahuna,25,4.6,2.4,50–60,Burritos,€,"Plaza Emperador Carlos V 11 ,   Madrid",Arganzuela,404.085,-369.295
+79,Taco Bell,200,4.2,1.4,20–30,Hamburguesas,€,"Av. Del Manzanares, 210,  Madrid",Arganzuela,4.039.021,-370.016
+80,La Tagliatella,15,3.9,2.4,25–35,Pizza,€,"Paseo De Santa María De La Cabeza 14,   Madrid",Arganzuela,4.040.615,-369.478
+82,Arepish,186,4.4,1.4,25–35,Venezolana,€,"Paseo De Las Acacias, 22,  Madrid",Arganzuela,4.040.391,-370.708
+83,McDonald's,200,4.4,1.4,15–25,Hamburguesas,€,"Calle Monederos 12,   Madrid",Arganzuela,4.038.776,-370.159
+84,Precio Calidad y sabor,17,4.4,2.0,40–60,Bar Food,€€,"Calle De Mira El Sol, 1,   Madrid",Arganzuela,4.040.781,-370.452
+86,TAMCOC,28,3.1,1.4,45–55,Italiana,€€€,"Calle De La Alianza 33,   Madrid",Arganzuela,4.035.775,-368.689
+87,Chinawokexpress,200,4.2,4.25,30–50,China,€€€,"Calle Azabache, 6,   Madrid",Arganzuela,4.039.215,-372.487
+88,Super Dog,25,3.7,1.4,30–50,Hamburguesas,€,"Calle Del Gral. Ricardos, 92,   Madrid",Arganzuela,4.039.347,-372.325
+90,Autoservicio,77,4.8,2.4,30–40,Tienda,€,"Avenida De Rafaela Ybarra 37,   Madrid",Arganzuela,4.036.433,-371.421
+91,Perla del Pacifico,66,4.1,2.4,40–50,Mediterránea,€,"Avenida De Oporto 14,   Madrid",Arganzuela,4.038.512,-372.238
+92,TROPICALISSIMA,84,4.4,2.4,35–45,Americana,€,"Paseo De Santa María De La Cabeza, 86,   Madrid",Arganzuela,4.039.875,-370.153
+93,Beiben,14,4.2,0.4,25–35,Tapas,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Arganzuela,4.045.069,-367.173
+95,Streat Lab,50,4.6,2.9,50–60,Pollo,€,"Calle Mayor, 38,  Madrid",Arganzuela,4.041.611,-370.831
+96,Popeyes,200,4.3,2.4,55–65,Pollo,€,"Calle Felipe Fraile 5,   Madrid",Arganzuela,403.971,-366.602
+97,On Rush,14,4.8,2.4,50–60,Burritos,€,"Avenida De La Albufera, 40,   Madrid",Arganzuela,4.039.682,-366.662
+99,El Sabroso Albufera,30,3.9,2.9,30–40,Comida rápida,€,"Calle Núñez De Arce, 11,   Madrid",Arganzuela,4.041.537,-370.106
+100,Pizzería Argentina El Trébol,24,4.3,2.99,35–55,Pizza,€,"Calle Dos Hermanas, 22,   Madrid",Arganzuela,4.041.041,-370.607
+101,La Alegría de la Huerta,28,3.1,1.9,30–40,Vegetariano,€,"Travesía De La Parada 6,   Madrid",Arganzuela,4.042.286,-370.803
+103,EL LATÓN GRIS,66,3.7,2.4,70–80,Pollo,€,"Calle Del Mesón De Paredes 52,  Madrid",Arganzuela,4.040.597,-370.127
+104,Mandela 100,28,3.1,1.4,40–50,India,€,"Calle De Mira El Sol 23b,   Madrid",Arganzuela,4.040.763,-370.495
+105,Pollo Rico Al carbón,68,4.5,1.9,40–50,Pollo,€,"Calle De Moncada 122,   Madrid",Arganzuela,4.034.096,-369.201
+106,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle De La Antracita 12,   Madrid",Arganzuela,4.039.295,-368.724
+108,Empanadas Malvón,31,5.0,1.4,25–35,Empanada,€,"Calle Del Dr Cortezo, 7,   Madrid",Arganzuela,4.041.347,-370.389
+109,El Turkito,200,4.1,1.9,40–50,Asiatica,€,"Calle De La Cruz, 20,   Madrid",Arganzuela,4.041.553,-370.175
+110,Galipan,23,4.2,1.9,55–65,Halal,€,"Calle Gran Vía, 16,   Madrid",Arganzuela,4.041.966,-369.894
+112,Steak Burger,168,4.2,2.4,55–65,Americana,€,"Calle De Antonio López 109,   Madrid",Arganzuela,4.038.678,-369.811
+113,Pollo Criollo,28,3.1,1.4,45–55,Pollo,€,"Calle De Núñez De Arce 11,   Madrid",Arganzuela,4.041.538,-370.124
+114,Empanadas BAIRES,28,3.1,2.99,35–55,Empanada,€,"Calle De Tudescos, 4,   Madrid",Arganzuela,403.747,-365.969
+116,Super naan,30,3.1,2.4,65–75,India,€,"Calle De Lavapiés 34,   Madrid",Arganzuela,4.041.107,-370.275
+117,Sonali Indian Restaurante,58,4.1,1.4,30–40,India,€€€,"Calle De Los Donados 2,   Madrid",Arganzuela,4.041.799,-370.834
+118,Cor & Cor,30,3.1,2.4,55–65,Postres,€,"Calle Libertad, 9,  Madrid",Arganzuela,4.042.072,-369.767
+119,Puccias Chueca,30,3.1,2.4,40–50,Americana,€,"Ronda De Valencia, 14,   Madrid",Arganzuela,4.040.547,-370.151
+121,Aloha Poke,200,4.5,1.4,20–30,Poke,€,"Calle De Atocha 98,   Madrid",Arganzuela,4.041.053,-36.958
+122,Capasso Pizza,30,3.1,1.4,35–45,Pizza,€,"Calle De Lavapiés, 34,   Madrid",Arganzuela,4.041.107,-370.275
+123,Shapla Indian,31,4.3,1.4,35–45,Pizza,€,"Calle Arechavaleta 6,   Madrid",Arganzuela,4.040.605,-370.752
+125,Pura Italia,109,3.2,1.9,35–55,Italiana,€,"Plaza Del Comandante Las Morenas 3,   Madrid",Arganzuela,4.041.624,-370.883
+126,Pollo Criollo,30,3.1,1.9,60–70,Pollo,€,"Plaza De La Cebada, 10,   Madrid",Arganzuela,4.041.156,-371.008
+127,Taberna La Buha,24,4.2,1.9,55–65,Tapas,€,"Calle Ariel,15,   Madrid",Arganzuela,4.041.056,-371.352
+129,El Buen Gusto,17,4.5,1.9,45–55,Bar Food,€,"Calle De Palos De La Frontera 38,  Madrid",Arganzuela,4.040.302,-369.613
+130,La Pizza é Bella,12,4.5,1.4,25–35,Pizza,€,"Calle Mayor, 42,   Madrid",Arganzuela,4.041.606,-370.853
+131,Las Muns,30,3.1,2.4,50–60,Panadería,€,"Calle De Atocha, 117,   Madrid",Arganzuela,4.041.013,-369.412
+132,Halal Steak House Grill,30,3.1,1.4,30–40,Carne,€,"Calle De Silva, 25,   Madrid",Arganzuela,4.042.186,-370.571
+134,Home Burger Bar,200,4.3,2.4,60–70,Hamburguesas,€,"Plaza De Puerta Cerrada 6,   Madrid",Arganzuela,4.041.375,-370.816
+135,LaRegustosa,26,4.2,1.9,60–70,Empanada,€,"Calle De Embajadores, 12,  Madrid",Arganzuela,4.040.069,-369.925
+136,TUTTO PASTA!,26,2.8,2.5,40–60,Platos a base de harina,€,"Plaza Del Emperador Carlos V, 10,  Madrid",Retiro,4.040.861,-369.288
+138,Scarlett Real Food,30,3.1,1.4,35–45,Postres,€,"Calle De Cáceres 1,   Madrid",Retiro,4.039.854,-369.618
+139,Comida china yonghe,50,4.3,0.9,25–35,China,€,"Calle Cáceres, 34,  Madrid",Retiro,4.039.879,-36.959
+140,Ristorante Pizzería Dante,61,4.1,2.4,40–60,Pizza,€,"Paseo Del Doctor Vallejo Nágera, 25 ,   Madrid",Retiro,4.040.163,-370.811
+142,Papa John's,200,4.3,0.9,20–30,Pizza,€,"Paseo Delicias, 65,   Madrid",Retiro,4.039.908,-369.435
+143,Domino's,33,4.3,1.0,15–35,Pizza,€,"Calle Azulejo 2,   Madrid",Retiro,4.033.274,-371.905
+144,Pizzería Argentina El Trébol,30,3.1,1.9,40–50,Pizza,€,"Calle De Cáceres 1,   Madrid",Retiro,4.039.854,-369.618
+145,Comida china yonghe,50,4.3,1.9,40–50,China,€€€,"Calle De La Alianza 33,   Madrid",Retiro,4.035.775,-368.689
+147,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Retiro,4.045.069,-367.173
+148,Streat Lab,50,4.6,1.9,40–50,Pollo,€€€,"Calle Azabache, 6,   Madrid",Retiro,4.039.215,-372.487
+149,Super Dog,25,3.7,4.25,30–50,Hamburguesas,€,"Calle Felipe Fraile 5,   Madrid",Retiro,403.971,-366.602
+151,On Rush,14,4.8,1.4,40–50,Burritos,€,"Avenida De La Albufera, 40,  Madrid",Retiro,4.039.682,-366.662
+152,El Sabroso Albufera,30,3.9,1.9,20–30,Comida rápida,€,"Paseo De Santa María De La Cabeza 14,  Madrid",Retiro,4.040.615,-369.478
+153,Arepish,186,4.4,1.9,35–45,Venezolana,€,"Av. De La Albufera, 91,   Madrid",Retiro,403.944,-366.152
+155,Pizz-a-porter,30,3.1,1.9,40–50,Pizza,€€,"Calle De Mira El Sol, 1,   Madrid",Retiro,4.040.781,-370.452
+156,TAMCOC,30,3.1,2.4,55–65,Italiana,€,"Calle Alcala 191,  Madrid",Retiro,4.042.654,-367.232
+157,Pastamore,98,4.6,1.9,30–40,Italiana,€,"Calle Cáceres, 34,  Madrid",Retiro,4.039.879,-36.959
+158,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle Azulejo 2,   Madrid",Retiro,4.033.274,-371.905
+160,Empanadas BAIRES,30,3.1,1.9,45–55,Empanada,€,"Calle De Ayala 28,   Madrid",Retiro,4.042.774,-368.571
+161,SANABRIA,30,3.1,2.4,50–60,Tapas y raciones,€,"Calle Dos Hermanas, 22, 28012 , España,    Madrid",Retiro,4.041.041,-370.607
+162,La Alegría de la Huerta,30,3.1,2.9,40–50,Vegetariano,€,"Calle De Moncada 122,   Madrid",Retiro,4.034.096,-369.201
+164,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle De Narváez, 60,  Madrid",Retiro,4.041.965,-367.588
+165,Empanadas Malvón,35,4.8,1.4,25–35,Empanada,€,"Calle Gran Vía, 16,  Madrid",Retiro,4.041.966,-369.894
+166,Steak Burger,168,4.2,2.4,55–65,Americana,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Retiro,4.045.069,-367.173
+168,Bur Burger,50,4.4,2.4,40–50,Hamburguesas,€,"Calle De Núñez De Arce 11,   Madrid",Retiro,4.041.538,-370.124
+169,Empanadas BAIRES,30,3.1,2.99,35–55,Empanada,€,"Calle De La Cruz, 20,   Madrid",Retiro,4.041.553,-370.175
+170,Galipan,23,4.2,2.4,60–70,Halal,€,"Calle Del Dr Cortezo, 7,   Madrid",Retiro,4.041.347,-370.389
+171,El Turkito,200,4.1,2.4,50–60,Asiatica,€,"Paseo De Santa María De La Cabeza, 86,  Madrid",Retiro,4.039.875,-370.153
+173,Beiben,14,4.2,2.4,35–45,Tapas,€,"Calle Del Mesón De Paredes 52,   Madrid",Retiro,4.040.597,-370.127
+174,Mandela 100,30,3.1,2.4,50–60,India,€,"Calle De Lavapiés 34,  Madrid",Retiro,4.041.107,-370.275
+175,Sonali Indian Restaurante,58,4.1,2.4,40–50,India,€,"Av. De La Albufera, 20,   Madrid",Retiro,4.039.744,-36.679
+177,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Calle De Mira El Sol 23b,  Madrid",Retiro,4.040.763,-370.495
+178,La Cochinita Loca,19,4.3,2.4,45–55,Colombiana,€,"Calle De Las Naciones 5,   Madrid",Retiro,4.042.685,-36.736
+179,PaellaGood,30,3.1,1.9,45–55,Mediterránea,€,"Paseo Del Marqués De Zafra 38,  Madrid",Retiro,4.042.547,-366.303
+181,DIVE`S FOOD,30,3.1,1.9,40–50,Hamburguesas,€€,"Calle Lopez de Hoyos 15,  Madrid",Retiro,4.044.861,-366.712
+182,100 % Sano,30,3.1,1.9,35–45,Saludable,€,"Calle Libertad, 9,  Madrid",Retiro,4.042.072,-369.767
+183,Puccias Chueca,30,3.1,2.4,40–50,Americana,€,"Calle Del Gral. Pardiñas, 32,  Madrid",Retiro,4.042.651,-367.813
+184,Rude Burger,36,4.8,1.9,35–45,Hamburguesas,€€,"Calle Conde De Penalver 35,   Madrid",Retiro,4.042.846,-367.524
+186,Cor & Cor,35,4.3,1.9,45–55,Postres,€,"Av. De La Albufera, 1,  Madrid",Retiro,4.039.833,-366.869
+187,McDonald's,200,4.4,1.4,20–30,Hamburguesas,€,"Calle Del Marqués De Mondéjar, 4,   Madrid",Retiro,4.042.681,-366.684
+188,Thai Zafra,38,4.6,1.9,30–40,Pasta,€,"Calle Ariel,15,   Madrid",Retiro,4.041.056,-371.352
+190,El Buen Gusto,17,4.5,1.9,45–55,Bar Food,€,"Avenida De La Albufera 119,   Madrid",Retiro,4.039.331,-365.945
+191,Kebab Rayo,117,3.8,2.4,35–45,Kebab,€,"Calle De Atocha 98,   Madrid",Retiro,4.041.053,-36.958
+192,Capasso Pizza,30,3.1,1.9,35–45,Pizza,€,"Calle De Lavapiés, 34,  Madrid",Retiro,4.041.107,-370.275
+194,Shapla Indian,31,4.3,2.4,40–50,Comida reconfortante,€,"Calle De Silva, 25,  Madrid",Retiro,4.042.186,-370.571
+195,Home Burger Bar,200,4.3,2.9,60–70,Hamburguesas,€,"Calle Del Dr. Esquerdo, 10,  Madrid",Retiro,4.042.661,-366.826
+196,Empanadas Pampas,30,3.1,1.9,35–45,Empanada,€,"Calle Gran Vía, 22,  Madrid",Retiro,4.042.011,-37.007
+197,TGB,89,3.9,2.4,60–70,Hamburguesas,€,"Calle Hortaleza,6,  Madrid",Retiro,4.042.047,-370.087
+199,Bosforos Turkish Restaurant,34,4.3,2.9,50–60,India,€,"Calle De Atocha, 117,  Madrid",Retiro,4.041.013,-369.412
+200,Halal Steak House Grill,30,2.9,1.9,35–45,Carne,€,"Calle De Barceló 6,  Madrid",Retiro,4.042.659,-370.073
+201,Mad Pollo,45,4.0,1.9,15–35,Pollo,€,"Av. Del Mediterráneo, 30,  Madrid",Retiro,4.040.675,-367.267
+203,Mahalo Poke,30,2.9,2.5,30–50,Poke,€€,"Calle Del Puerto De Balbarán 31,   Madrid",Retiro,4.037.649,-365.629
+204,Kebab Entrevias,43,4.5,2.9,35–45,Kebab,€,"Calle De Santa Isabel, 5,  Madrid",Retiro,4.041.136,-36.987
+205,Moñetes,30,2.9,1.9,35–45,Pizza,€,"Calle De Embajadores, 15,  Madrid",Retiro,4.040.069,-369.925
+207,TUTTO PASTA!,26,2.8,2.5,40–60,Postres,€,"Avda. Felipe II, 17,  Madrid",Salamanca,4.042.413,-367.285
+208,La Tagliatella,38,4.5,1.9,25–35,Pizza,€,"Plaza Del Emperador Carlos V, 10,  Madrid",Salamanca,4.040.861,-369.288
+209,Scarlett Real Food,30,2.9,1.9,35–45,Postres,€,"Calle Del Conde De Peñalver, 13,  Madrid",Salamanca,4.042.635,-367.538
+210,La Cuchara,30,2.9,2.4,40–50,Gourmet,€,"Alcalde Luis De Marichala 3,   Madrid",Salamanca,404.361,-36.722
+212,Papa John's,127,4.1,1.4,35–45,Pizza,€,"Calle De Ángel González Tejedor 5,   Madrid",Salamanca,4.043.173,-365.658
+213,Taco Bell,200,4.2,1.9,25–35,Hamburguesas,€,"Plaza Del Emperador Carlos V, 10,  Madrid",Salamanca,4.040.861,-369.288
+214,Scarlett Real Food,29,2.9,2.4,45–55,Postres,€,"Calle Azulejo 2,   Madrid",Salamanca,4.033.274,-371.905
+216,Pizzería Argentina El Trébol,29,2.9,1.4,30–40,Pizza,€,"Calle De José Ortega Y Gasset 94,  Madrid",Salamanca,4.042.986,-367.176
+217,Empanadas Malvón,48,4.9,0.9,15–25,Empanada,€,"Calle De Luchana 17,   Madrid",Salamanca,40.43,-370.099
+218,Pizzart Luchana,29,2.9,2.4,55–65,Pizza,€,"Calle Alcala 191,   Madrid",Salamanca,4.042.654,-367.232
+220,Pastamore,98,4.6,0.9,15–25,Italiana,€,"Calle De San Andrés, 26,  Madrid",Salamanca,4.042.735,-370.352
+221,Roost Chicken,29,2.9,2.4,50–60,Pollo,€,"Plaza Emperador Carlos V, 11 ,  Madrid",Salamanca,404.085,-369.295
+222,Taco Bell,200,4.2,2.4,35–45,Hamburguesas,€€,"Calle De La Alianza 33,  Madrid",Salamanca,4.035.775,-368.689
+223,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Plaza Bami, 26,  Madrid",Salamanca,4.045.866,-364.638
+225,El Burrito Borracho,29,2.9,1.9,35–45,Burritos,€€,"Calle De Azcona 36,   Madrid",Salamanca,4.038.927,-37.415
+226,Arepish,186,4.6,0.9,25–35,Venezolana,€€€,"Calle De Alcalá, 344,    Madrid",Salamanca,4.044.291,-361.886
+227,Little Caesars Pizza,200,4.5,2.4,30–40,Pizza,€€€,"Calle Azulejo 2,   Madrid",Salamanca,4.033.274,-371.905
+229,Empanadas BAIRES,29,2.9,1.4,35–45,Empanada,€,"Calle De Ayala 28,   Madrid",Salamanca,4.042.774,-368.571
+230,SANABRIA,29,2.9,1.4,50–60,Tapas y raciones,€,"Calle Del Gral. Pardiñas, 32,  Madrid",Salamanca,4.042.651,-367.813
+231,Rude Burger,36,4.8,0.9,25–35,Hamburguesas,€€,"Calle Lopez de Hoyos 15,  Madrid",Salamanca,4.044.861,-366.712
+233,100 % Sano,29,2.9,0.9,20–30,Saludable,€€€,"Calle Conde De Penalver 35,   Madrid",Salamanca,4.042.846,-367.524
+234,Cor & Cor,35,4.3,0.4,35–45,Postres,€,"López De Hoyos , 153,   Madrid",Salamanca,4.044.872,-366.864
+235,Popeyes,200,4.4,2.4,35–45,Pollo,€,"Calle Del Príncipe De Vergara, 210,    Madrid",Salamanca,4.042.562,-367.992
+236,Home Burger Bar,198,4.1,2.4,30–40,Hamburguesas,€,"Calle Maldonado 07,  Madrid",Salamanca,4.043.367,-368.057
+238,Artisan Burger,29,2.9,0.9,40–50,Hamburguesas,€,"Calle Del Marqués De Mondéjar, 4,  Madrid",Salamanca,4.042.681,-366.684
+239,Thai Zafra,38,4.6,0.9,15–25,Everyday Essentials,€,"Calle De Maldonado, 51,  Madrid",Salamanca,4.043.378,-36.789
+240,Tiendas 7x24,140,4.8,0.9,20–30,Saludable,€,"Calle De Velázquez, 118,  Madrid",Salamanca,4.043.525,-368.349
+242,Makan Saj Manoushe,200,4.9,1.4,30–40,India,€,"Paseo Del Marqués De Zafra 38,   Madrid",Salamanca,4.042.547,-366.303
+243,DIVE`S FOOD,29,2.9,1.4,35–45,Hamburguesas,€,"Calle De María De Molina, 44,  Madrid",Salamanca,4.043.794,-368.459
+244,Flame,29,2.9,1.4,40–50,Hamburguesas,€,"Calle De Luchana 13,   Madrid",Salamanca,40.43,-370.099
+246,Freedom Pizza,53,4.5,2.4,45–55,Pizza,€,"Calle Del Espíritu Santo 16,   Madrid",Salamanca,4.042.557,-370.629
+247,MY Pasta Room,59,4.6,2.4,50–60,Italiana,€,"Calle Gran Vía, 16,    Madrid",Salamanca,4.041.966,-369.894
+248,Steak Burger,168,4.2,2.4,55–65,Americana,€,"Calle De Goya, 70,  Madrid",Salamanca,4.042.469,-367.663
+249,McDonald's,200,4.6,0.9,15–25,Hamburguesas,€,"Calle De Las Naciones 5,   Madrid",Salamanca,4.042.685,-36.736
+251,PaellaGood,29,2.9,0.4,30–40,Mediterránea,€,"Calle De Núñez De Arce 11,   Madrid",Salamanca,4.041.538,-370.124
+252,Empanadas BAIRES,29,2.9,2.99,35–55,Empanada,€,"Calle De Carranza 3,   Madrid",Salamanca,4.042.895,-370.276
+253,Tiendas 7x24,70,4.6,2.4,45–55,Comida rápida,€,"Calle Del Dr. Esquerdo, 10,  Madrid",Salamanca,4.042.661,-366.826
+255,Empanadas Pampas,29,2.9,0.9,25–35,Empanada,€,"Calle Esteban Collantes, 31,   Madrid",Salamanca,4.043.166,-364.089
+256,Croqueteria Focos,29,2.9,2.9,35–45,Croquetas,€,"Calle De La Cruz, 20,    Madrid",Salamanca,4.041.553,-370.175
+257,Galipan,23,4.2,2.9,60–70,Halal,€,"Calle De Tudescos, 4,  Madrid",Salamanca,403.747,-365.969
+259,Super naan,29,2.9,2.4,60–70,India,€,"Calle Mateo García, 13,  Madrid",Salamanca,404.316,-365.271
+260,Pollos Gourmet,29,2.9,1.9,30–40,Pollo,€,"Calle De Gonzalo De Berceo 63,   Madrid",Salamanca,4.042.865,-36.399
+261,Asador Perla del Pacifico Ascao,39,4.6,2.9,40–50,Carne,€,"Calle Libertad, 9,  Madrid",Salamanca,4.042.072,-369.767
+262,Puccias Chueca,29,2.9,2.4,40–50,Americana,€,"Calle Del Cardenal Cisneros 1,  Madrid",Salamanca,4.042.965,-370.165
+264,Graal,29,2.9,2.4,60–70,Ramen,€,"Calle De Méjico 20,   Madrid",Salamanca,4.043.736,-367.305
+265,Restaurante Chino Diamante,100,4.0,1.4,25–35,China,€,"Calle De José Abascal 31,  Madrid",Salamanca,4.043.856,-369.891
+266,Junk Burger,31,4.3,1.9,45–55,Hamburguesas,€,"Calle De Hermosilla, 91,  Madrid",Salamanca,4.042.607,-367.616
+268,Esmirna Doner Kebap,48,4.7,0.9,25–35,Kebab,€,"Av. De Felipe II, 8,  Madrid",Salamanca,4.042.385,-36.765
+269,Aloha Poke,200,4.7,0.9,20–30,Poke,€,"Calle Zabaleta 1,   Madrid",Salamanca,4.044.065,-367.537
+270,CHUCK CHUCK CHICKEN,29,2.9,1.4,35–45,Pollo,€,"Calle Gran Vía, 22,  Madrid",Salamanca,4.042.011,-37.007
+272,TGB,89,3.9,2.4,65–75,Hamburguesas,€,"Calle Génova 27,  Madrid",Salamanca,4.046.663,-365.361
+273,VIPS,16,4.8,1.9,50–60,Americana,€,"Calle De Atocha 98,  Madrid",Salamanca,4.041.053,-36.958
+274,Capasso Pizza,29,2.9,2.4,45–55,Pizza,€,"Calle De La Virgen De La Fuencisla, 19,   Madrid",Salamanca,4.039.654,-366.673
+275,HyH Kebab Fried Chicken,23,3.6,1.0,40–60,Pollo,€,"Calle De José Calvo 6,  Madrid",Salamanca,4.045.883,-370.845
+277,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores, 17 ,  Madrid",Chamartín,4.040.069,-369.925
+278,TUTTO PASTA!,26,2.8,2.5,40–60,Postres,€,"Avda. Felipe Ii, 17,  Madrid",Chamartín,4.042.413,-367.285
+279,Papa John's,200,4.5,1.4,30–40,Pizza,€,"Calle Del Conde De Peñalver, 17,  Madrid",Chamartín,4.042.665,-367.583
+281,Papa John's,200,4.3,0.9,25–35,Pizza,€,"Calle Del Conde De Serrallo, 1,  Madrid",Chamartín,4.046.554,-369.196
+282,Taberna Andaluza,25,4.4,1.4,40–50,Tapas,€,"Paseo De La Castellana 191,   Madrid",Chamartín,4.046.807,-368.995
+283,Taco Bell,200,4.1,1.4,25–35,Hamburguesas,€,"Calle Araucaria 19,   Madrid",Chamartín,4.046.046,-370.001
+285,Roost Chicken,123,4.6,1.9,35–45,Pollo,€,"Av. De Brasil, 6,  Madrid",Chamartín,4.045.833,-369.354
+286,La Mordida,25,4.4,1.4,45–55,Mediterránea,€,"Calle Del Príncipe De Vergara, 210,    Madrid",Chamartín,4.042.562,-367.992
+287,Home Burger Bar,198,4.1,0.9,25–35,Hamburguesas,€€€,"Calle De Huesca, 19, Bajo,    Madrid",Chamartín,4.045.804,-369.889
+288,La cabaña de cris,29,2.9,1.9,50–60,Pollo,€€,"Calle De Bravo Murillo 199,   Madrid",Chamartín,4.045.622,-370.204
+290,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De Manuel De Falla 5,   Madrid",Chamartín,4.045.502,-368.811
+291,Limbo Player Two,29,2.9,0.9,45–55,Carne,€€,"Av. De Brasil, 17,  Madrid",Chamartín,4.045.837,-369.289
+292,Ala Sushi,29,2.9,1.4,30–40,Sushi,€€,"Calle De Bravo Murillo, 113,  Madrid",Chamartín,4.044.805,-370.399
+294,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De La Infanta Mercedes, 17,  Madrid",Chamartín,4.045.303,-369.951
+295,Toro Burger Lounge,23,4.1,1.9,55–65,Alcohol,€,"Castellana, 123,  Madrid",Chamartín,4.045.826,-369.067
+296,Popeyes,200,4.0,1.4,30–40,Pollo,€,"Calle Castilla,4   Madrid",Chamartín,4.045.286,-370.425
+298,MANKA,52,4.9,2.4,55–65,Pizza,€,"Paseo De La Castellana 130,  Madrid",Chamartín,404.502,-369.019
+299,Yakitoro,26,4.5,1.4,55–65,Pollo,€,"Calle De Francos Rodríguez, 42,  Madrid",Chamartín,4.045.552,-370.451
+300,EL ASADOR,40,2.9,2.4,60–70,Carne,€,"Calle Del Príncipe De Vergara 256,   Madrid",Chamartín,4.042.562,-367.992
+301,Empanadas Malvón,12,5.0,0.9,20–30,Empanada,€,"Paseo De La Castellana, 210,  Madrid",Chamartín,404.632,-368.894
+303,Taberna del Volapié,40,2.9,1.4,40–50,Tapas,€€€,"Calle De Azcona 36,   Madrid",Chamartín,4.038.927,-37.415
+304,Arepish,186,4.6,2.9,35–45,Venezolana,€€€,"Calle De Bravo Murillo 122,  Madrid",Chamartín,404.491,-370.348
+305,Arepish,53,4.6,2.4,55–65,Venezolana,€,"Calle De San Germán, 64,  Madrid",Chamartín,4.045.729,-370.018
+307,Fast chicken chain,40,2.9,1.9,45–55,Pollo,€,"Av. De Pío Xii, 4,  Madrid",Chamartín,4.047.213,-367.428
+308,McDonald's,150,4.5,0.9,20–30,Hamburguesas,€,"Calle De Raimundo Fernández Villaverde, 33,  Madrid",Chamartín,4.044.705,-370.016
+309,Pizza Central,22,3.1,2.4,50–60,Pizza,€,"Calle De Velázquez, 118,  Madrid",Chamartín,4.043.525,-368.349
+311,Makan Saj Manoushe,200,4.9,2.4,30–40,India,€,"Calle De María De Molina, 44,  Madrid",Chamartín,4.043.794,-368.459
+312,Flame,40,2.9,2.4,45–55,Hamburguesas,€,"Intercambiador De Plaza De Castilla,  Madrid",Chamartín,4.046.847,-368.845
+313,Busburguer,98,4.5,1.4,30–40,Hamburguesas,€,"Calle De Lérida 58,   Madrid",Chamartín,4.045.625,-370.013
+314,Polloco Gourmet,40,2.9,3.0,30–50,Pollo,€,"Calle De Maldonado, 51,  Madrid",Chamartín,4.043.378,-36.789
+316,Tiendas 7x24,140,4.8,2.9,30–40,Opciones para alergias,€,"Calle Maldonado 07,  Madrid",Chamartín,4.043.367,-368.057
+317,Artisan Burger,40,2.9,2.4,45–55,Hamburguesas,€,"Bravo Murillo, 120,   Madrid",Chamartín,4.044.861,-37.035
+318,Pomodoro,87,3.8,2.4,55–65,Italiana,€,"Calle De José Abascal 31,  Madrid",Chamartín,4.043.856,-369.891
+320,Junk Burger,31,4.3,2.4,50–60,Hamburguesas,€,"Calle De María De Molina, 16,  Madrid",Chamartín,4.043.794,-368.459
+321,Aloha Poke,163,4.5,2.4,40–50,Poke,€,"Calle De Barceló 6, 318,   Madrid",Chamartín,4.042.659,-370.073
+322,Mad Pollo,45,4.0,2.4,15–35,Pollo,€,"Calle Zabaleta 1,   Madrid",Chamartín,4.044.065,-367.537
+324,CHUCK CHUCK CHICKEN,40,2.9,1.9,40–50,Pollo,€,"Calle De Arturo Soria, 189,  Madrid",Chamartín,4.045.843,-365.932
+325,Pasteleria Saul,27,4.2,1.9,25–35,Everyday Essentials,€,"Calle Bravo Murillo, 229,  Madrid",Chamartín,4.046.448,-369.484
+326,Galp,19,4.3,1.9,45–55,Tienda,€,"Calle Del Cactus, 42 ,   Madrid",Chamartín,4.046.117,-37.001
+327,Chili House🌶,40,2.9,1.9,45–55,Mexicana,€,"Calle De Méjico, 20,   Madrid",Chamartín,4.043.736,-367.305
+329,Restaurante Chino Diamante,100,4.0,2.4,30–40,China,€,"Plaza Sagrado Corazón De Jesús, 2,  Madrid",Chamartín,4.041.349,-369.582
+330,Foster's Hollywood,65,4.2,1.4,30–40,Americana,€,"Calle Del Príncipe De Vergara 258,   Madrid",Chamartín,4.042.562,-367.992
+331,Empanadas BAIRES,40,2.9,0.9,25–35,Empanada,€,"Calle Zabaleta 1,   Madrid",Chamartín,4.044.065,-367.537
+333,Golat Helados,40,2.9,1.9,35–45,Postres,€,"Calle De San Andrés, 31,  Madrid",Chamartín,4.042.842,-370.346
+334,Pic & Nic,200,4.4,3.4,60–70,Mediterránea,€€€,"Calle Zabaleta 1,   Madrid",Chamartín,4.044.065,-367.537
+335,Frambons,40,2.9,1.9,35–45,Empanada,€,"Calle De Raimundo Fernández Villaverde 33,   Madrid",Chamartín,4.044.705,-370.016
+337,Empanadas BAIRES,13,4.0,2.4,55–65,Empanada,€,"Calle De Cartagena, 131,  Madrid",Chamartín,4.044.257,-367.585
+338,Doner kebap efes,23,4.7,1.9,25–35,Kebab,€€€,"Calle De López De Hoyos 11,   Madrid",Chamartín,4.044.849,-366.731
+339,Crepes & Waffles,19,4.5,2.4,45–55,Postres,€€€,"Calle De López De Hoyos, 139,  Madrid",Chamartín,4.044.849,-366.731
+340,Doner kebap efes,30,4.6,1.9,30–40,Kebab,€,"Calle Bravo Murillo 218,   Madrid",Chamartín,4.046.448,-369.484
+342,Sultán kebab,19,3.0,1.9,30–40,Árabe,€€,"Calle De Bravo Murillo, 215,  Madrid",Chamartín,4.045.761,-370.118
+343,Great Kebab,40,2.9,1.9,40–50,Kebab,€,"Calle De José Calvo 6,   Madrid",Chamartín,4.045.883,-370.845
+344,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores,  Madrid",Tetuán,4.040.069,-369.925
+346,TUTTO PASTA!,26,2.8,2.6,40–60,Española,€,"Calle De José Calvo 10,  Madrid",Tetuán,4.045.883,-370.845
+347,La Tagliatella,61,3.8,1.4,25–35,Pizza,€,"Paseo De La Castellana 191,  Madrid",Tetuán,4.046.807,-368.995
+348,Taco Bell,200,4.1,1.4,20–30,Hamburguesas,€,"Calle De Bravo Murillo 250,   Madrid",Tetuán,4.045.982,-369.898
+350,Empanadas Malvón,25,4.7,0.4,25–35,Empanada,€,"Av. De Brasil, 6,  Madrid",Tetuán,4.045.833,-369.354
+351,La Mordida,25,4.4,0.9,45–55,Mediterránea,€,"Calle De Bravo Murillo, 206,  Madrid",Tetuán,4.045.522,-370.284
+352,Express 88,60,4.6,0.9,30–40,De Latinoamérica,€€€,"Calle De Huesca, 19, Bajo,  Madrid",Tetuán,4.045.804,-369.889
+353,La cabaña de cris,40,3.5,0.9,35–45,Pollo,€€€,"Calle De Bravo Murillo 199,   Madrid",Tetuán,4.045.622,-370.204
+355,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De La Infanta Mercedes 17,  Madrid",Tetuán,4.045.303,-369.951
+356,Toro Burger Lounge,23,4.1,0.9,50–60,Empanada,€,"Calle De Raimundo Fernández Villaverde, 33,  Madrid",Tetuán,4.044.705,-370.016
+357,Pizzería El Trébol 24h,18,4.4,1.4,35–45,Pizza,€€,"Av. De Brasil, 17,  Madrid",Tetuán,4.045.837,-369.289
+359,Ala Sushi,40,3.5,0.9,30–40,Sushi,€,"Calle Castilla,4 ,  Madrid",Tetuán,4.045.286,-370.425
+360,MANKA,52,4.9,0.9,40–50,Pizza,€€€,"Calle De Bravo Murillo, 113,  Madrid",Tetuán,4.044.805,-370.399
+361,Little Caesars Pizza,200,4.6,3.0,15–25,Pizza,€,"Calle De Francos Rodríguez, 42,  Madrid",Tetuán,4.045.552,-370.451
+363,EL ASADOR,40,3.5,0.9,55–65,Carne,€,"Calle De Manuel De Falla 5,   Madrid",Tetuán,4.045.502,-368.811
+364,Limbo Player Two,40,3.5,1.4,45–55,Carne,€,"Castellana, 123,  Madrid",Tetuán,4.045.826,-369.067
+365,Popeyes,200,4.0,0.9,25–35,Pollo,€,"Calle De San Germán, 64,  Madrid",Tetuán,4.045.729,-370.018
+366,Fast chicken chain,40,3.5,0.9,35–45,Pollo,€,"Paseo De La Castellana 130,  Madrid",Tetuán,404.502,-369.019
+368,Yakitoro,26,4.5,1.4,55–65,Comida reconfortante,€,"Calle Del Príncipe De Vergara, 210,  Madrid",Tetuán,4.042.562,-367.992
+369,Home Burger Bar,198,4.1,1.9,35–45,Hamburguesas,€€,"Calle De Bravo Murillo 122,  Madrid",Tetuán,404.491,-370.348
+370,Arepish,53,4.6,1.4,40–50,Venezolana,€,"C.C. La Vaguada, Av. De Monforte De Lemos, 32,  Madrid",Tetuán,4.047.888,-370.657
+372,TGB,66,4.1,2.4,50–60,Hamburguesas,€,"Calle De Galería De Vallehermoso 4,  Madrid",Tetuán,4.043.946,-370.777
+373,Real Fried Chicken,15,4.3,2.4,50–60,Alitas de pollo,€,"Avenida De Monforte De Lemos 36,  Madrid",Tetuán,4.047.932,-37.065
+374,Pollo Criollo,40,3.5,2.4,55–65,Pollo,€,"Calle De Lérida 58,   Madrid",Tetuán,4.045.625,-370.013
+376,Polloco Gourmet,40,3.5,3.0,30–50,Pollo,€,"Paseo De La Castellana, 210,  Madrid",Tetuán,404.632,-368.894
+377,Taberna del Volapié,40,3.5,1.4,40–50,Tapas,€,"Calle De Cea Bermúdez 49,  Madrid",Tetuán,4.043.905,-370.972
+378,Cerveceria Riaño,40,3.5,2.9,40–50,Cerveza,€,"Calle Bravo Murillo, 229,  Madrid",Tetuán,4.046.448,-369.484
+379,Galp,19,4.3,0.9,35–45,Tienda,€,"Calle De Bravo Murillo, 274,  Madrid",Tetuán,4.046.087,-369.813
+381,McDonald's,200,4.2,0.4,20–30,Hamburguesas,€,"Intercambiador De Plaza De Castilla,   Madrid",Tetuán,4.046.847,-368.845
+382,Busburguer,98,4.5,1.4,25–35,Hamburguesas,€,"Calle De José Abascal 31,  Madrid",Tetuán,4.043.856,-369.891
+383,Junk Burger,31,4.3,1.9,45–55,Hamburguesas,€,"Calle Del Cactus 42,   Madrid",Tetuán,4.046.117,-37.001
+385,Chili House🌶,40,3.5,0.9,35–45,Mexicana,€,"Bravo Murillo, 120,   Madrid",Tetuán,4.044.861,-37.035
+386,Pomodoro,87,3.8,1.4,40–50,Italiana,€,"Calle De Galileo, 75,  Madrid",Tetuán,4.043.769,-371.015
+387,Tosty,40,3.5,2.4,50–60,Family Meals,€,"Calle De Barceló 6,   Madrid",Tetuán,4.042.659,-370.073
+389,Mad Pollo,45,4.0,1.4,15–35,Pollo,€,"Calle De María De Molina, 16,  Madrid",Tetuán,4.043.794,-368.459
+390,Aloha Poke,163,4.5,2.4,40–50,Poke,€,"Calle De San Andrés, 31,  Madrid",Tetuán,4.042.842,-370.346
+391,Pic & Nic,200,4.4,2.9,55–65,Mediterránea,€€,"Plaza Sagrado Corazón De Jesús, 2,  Madrid",Tetuán,4.041.349,-369.582
+392,Foster's Hollywood,65,4.2,2.4,35–45,Americana,€€,"Paseo De S. Fco. De Sales, 3,   Madrid",Tetuán,40.44,-371.705
+394,Taste of America,40,3.5,2.4,35–45,Americana,€,"Calle De Raimundo Fernández Villaverde 33,   Madrid",Tetuán,4.044.705,-370.016
+395,Empanadas BAIRES,13,4.0,1.4,45–55,Empanada,€,"Calle Bravo Murillo 218,   Madrid",Tetuán,4.046.448,-369.484
+396,Sultán kebab,19,3.0,0.9,25–35,Árabe,€€,"Calle De Bravo Murillo, 34,  Madrid",Tetuán,4.043.741,-370.402
+398,Astros,40,3.5,2.4,45–55,Family Meals,€,"Calle Del Príncipe De Vergara 258,   Madrid",Tetuán,4.042.562,-367.992
+399,Empanadas BAIRES,40,3.5,1.9,35–45,Empanada,€,"Paseo De S. Fco. De Sales, 17,  Madrid",Tetuán,4.044.103,-371.533
+400,Cherry Pecas,92,4.4,2.4,30–40,Comida rápida,€,"Calle De José Calvo 10,   Madrid",Tetuán,4.045.883,-370.845
+402,Pops ´n Bops,40,3.5,0.9,45–55,Árabe,€€,"Calle De Bravo Murillo, 215,  Madrid",Tetuán,4.045.761,-370.118
+403,Great Kebab,40,3.5,0.9,35–45,Kebab,€,"Calle De Bravo Murillo 193,  Madrid",Tetuán,4.045.457,-370.302
+404,"Real Estambul Pizza, Doner y Kebab",15,3.4,0.9,40–50,Mediterránea,€,"Cc La Vaguada Av Monforte De Lemos 36,   Madrid",Tetuán,4.047.888,-370.657
+405,Willy Factory,40,3.5,2.4,40–50,Opciones para alergias,€,"Av. De Betanzos, 31,   Madrid",Tetuán,4.047.427,-371.128
+407,Kebab Rico Rico,44,4.4,0.9,40–50,Kebab,€,"Calle Federico Sainz De Robles 3,  Madrid",Tetuán,4.039.652,-36.694
+408,Oriental Palace,167,4.4,2.4,40–50,Asiatica,€,"Calle De La Infanta Mercedes, 103,  Madrid",Tetuán,4.046.341,-369.385
+409,Pizzeria Nuns,40,3.5,0.9,40–50,Pizza,€,"Calle De José Calvo 6,  Madrid",Tetuán,4.045.883,-370.845
+411,Badsha India Restaurant,200,4.4,2.4,40–50,India,€,"Calle De José Calvo 10,  Madrid",Chamberí,4.045.883,-370.845
+412,Comida de Pueblo,40,3.5,0.9,25–35,Gourmet,€,"Calle Araucaria 19,   Madrid",Chamberí,4.046.046,-370.001
+413,Papa John's,200,4.2,0.9,30–40,Pizza,€,"Calle Del Conde De Serrallo, 1,  Madrid",Chamberí,4.046.554,-369.196
+415,Taberna Andaluza,25,4.4,1.4,35–45,Tapas,€,"Calle Del Conde De Peñalver, 13,  Madrid",Chamberí,4.042.635,-367.538
+416,Papa John's,200,4.3,0.4,30–40,Pizza,€,"Calle De San Andrés, 26,  Madrid",Chamberí,4.042.735,-370.352
+417,Roost Chicken,40,3.5,0.9,40–50,Pollo,€,"Calle De Toledo 27,   Madrid",Chamberí,4.041.377,-370.737
+418,Fritz Foods,41,4.5,1.9,50–60,Pizza,€,"Calle Araucaria 19,   Madrid",Chamberí,4.046.046,-370.001
+420,Roost Chicken,123,4.6,1.9,40–50,Pollo,€,"Calle De Raimundo Fernández Villaverde, 33,  Madrid",Chamberí,4.044.705,-370.016
+421,Pizzería El Trébol 24h,18,4.4,0.9,35–45,Pizza,€,"Calle De Arriaza, 6,  Madrid",Chamberí,4.042.104,-371.579
+422,El Imperio de la Empanada,40,3.5,1.4,55–65,Empanada,€,"Hilarion Eslava 42,   Madrid",Chamberí,4.043.649,-371.684
+424,CONVEXO,69,4.6,0.9,35–45,Pollo,€,"Calle De Galería De Vallehermoso 4,  Madrid",Chamberí,4.043.946,-370.777
+425,Real Fried Chicken,15,4.3,0.4,40–50,Alitas de pollo,€€,"Calle De La Alianza 33,  Madrid",Chamberí,4.035.775,-368.689
+426,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Av. De Brasil, 6,  Madrid",Chamberí,4.045.833,-369.354
+428,La Mordida,25,4.4,1.4,55–65,Mediterránea,€,"Calle De Carranza 3,   Madrid",Chamberí,4.042.895,-370.276
+429,Tiendas 7x24,70,4.6,0.9,35–45,Pizza,€€,"Calle De Bravo Murillo, 113,  Madrid",Chamberí,4.044.805,-370.399
+430,Little Caesars Pizza,200,4.6,0.9,40–50,Pizza,€€€,"Calle Azabache, 6,  Madrid",Chamberí,4.039.215,-372.487
+431,Super Dog,25,3.7,2.4,40–50,Hamburguesas,€€€,"Calle De Bravo Murillo 199,   Madrid",Chamberí,4.045.622,-370.204
+433,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle Andrés Mellado 43,   Madrid",Chamberí,4.044.112,-371.427
+434,La Bruja del Vesuvio,15,3.5,0.9,35–45,Comida rápida,€,"Calle De Luchana 13,   Madrid",Chamberí,40.43,-370.099
+435,Freedom Pizza,53,4.5,0.4,35–45,Pizza,€€,"Calle De Huesca, 19,  Madrid",Chamberí,4.045.804,-369.889
+437,La cabaña de cris,15,3.5,1.9,50–60,Pollo,€,"P.º De La Florida, 2,  Madrid",Chamberí,4.042.149,-371.954
+438,KFC - Principe Pio,15,3.5,1.9,55–65,Pollo,€,"Calle De La Infanta Mercedes 17,  Madrid",Chamberí,4.045.303,-369.951
+439,Toro Burger Lounge,23,4.1,1.4,55–65,Hamburguesas,€,"Travesía De La Parada 6,   Madrid",Chamberí,4.042.286,-370.803
+441,EL LATÓN GRIS,66,3.7,1.4,55–65,Pollo,€,"Calle De Francos Rodríguez, 42,  Madrid",Chamberí,4.045.565,-370.461
+442,EL ASADOR,15,3.5,1.9,60–70,Carne,€,"Calle Castilla,4 ,  Madrid",Chamberí,4.045.286,-370.425
+443,MANKA,52,4.9,1.4,40–50,Pizza,€,"Calle Del Cardenal Cisneros 1,  Madrid",Chamberí,4.042.965,-370.165
+444,Graal,15,3.5,0.9,45–55,Ramen,€€,"Av. De Brasil, 17,  Madrid",Chamberí,4.045.837,-369.289
+446,Ala Sushi,15,3.5,0.9,40–50,Sushi,€,"Calle De Sta Engracia, 108,  Madrid",Chamberí,4.043.755,-370.008
+447,Home Burger Bar,181,4.1,2.4,40–50,Hamburguesas,€,"Calle De Luchana 3,   Madrid",Chamberí,4.042.927,-370.135
+448,Empanadas Malvón,32,4.8,0.4,30–40,Empanada,€,"Av. De Filipinas, 30,  Madrid",Chamberí,4.044.077,-370.768
+450,Tiendas 7x24,62,4.5,0.4,25–35,Queso,€,"Calle De Ayala 28,   Madrid",Chamberí,4.042.774,-368.571
+451,SANABRIA,15,3.5,1.4,50–60,Tapas y raciones,€,"Calle Del Espíritu Santo 16,  Madrid",Chamberí,4.042.557,-370.629
+452,MY Pasta Room,59,4.6,0.9,35–45,Italiana,€,"Calle De Manuel De Falla 5,   Madrid",Chamberí,4.045.502,-368.811
+454,Limbo Player Two,15,3.5,1.9,50–60,Carne,€,"Calle De José Abascal 31,  Madrid",Chamberí,4.043.856,-369.891
+455,Junk Burger,31,4.3,1.9,50–60,Hamburguesas,€,"Calle De Bravo Murillo, 100,  Madrid",Chamberí,4.044.753,-370.407
+456,Popeyes,200,4.2,0.9,35–45,Pollo,€€,"Calle De Bravo Murillo 122,   Madrid",Chamberí,404.491,-370.348
+457,Arepish,53,4.6,0.9,40–50,Venezolana,€,"Calle De Cea Bermúdez 49,  Madrid",Chamberí,4.043.905,-370.972
+459,Cerveceria Riaño,15,3.5,0.9,30–40,Cerveza,€,"Paseo De La Castellana 130,  Madrid",Chamberí,404.502,-369.019
+460,Yakitoro,26,4.5,1.4,55–65,Con opciones veganas,€,"Calle De Tudescos, 4,  Madrid",Chamberí,403.747,-365.969
+461,Super naan,15,3.5,1.4,60–70,India,€,"Calle Gran Vía, 16,  Madrid",Chamberí,4.041.966,-369.894
+463,Steak Burger,168,4.2,1.9,50–60,Americana,€,"Calle De San Bernardino, 20,  Madrid",Chamberí,4.042.541,-371.112
+464,MILA TOWN,15,3.5,0.9,35–45,Americana,€,"Calle De La Cruz, 20, Local 1,  Madrid",Chamberí,4.041.636,-37.006
+465,Galipan,23,4.2,1.9,70–80,Halal,€,"Calle Gran Vía 74, Local,  Madrid",Chamberí,4.042.146,-37.075
+467,Trek Taco,15,3.5,1.4,45–55,Halal,€,"Calle Del Dr Cortezo, 7,  Madrid",Chamberí,4.041.347,-370.389
+468,El Turkito,200,4.1,1.9,50–60,Asiatica,€,"Calle Maldonado 07,  Madrid",Chamberí,4.043.367,-368.057
+469,Artisan Burger,15,3.5,0.9,45–55,Hamburguesas,€,"Calle De Velázquez, 118,  Madrid",Chamberí,4.043.525,-368.349
+470,Makan Saj Manoushe,200,4.9,1.4,30–40,India,€€,"Calle De Azcona 36,   Madrid",Chamberí,4.038.927,-37.415
+472,Arepish,186,4.6,2.4,35–45,Venezolana,€€€,"Calle De Los Donados 2,   Madrid",Chamberí,4.041.799,-370.834
+473,Cor & Cor,15,3.5,1.4,55–65,Postres,€,"Calle De Galileo, 75,   Madrid",Chamberí,4.043.769,-371.015
+474,Tosty,15,3.5,0.4,40–50,Pollo,€,"Calle De San Germán, 64,  Madrid",Chamberí,4.045.729,-370.018
+476,Fast chicken chain,15,3.5,1.9,45–55,Pollo,€,"Calle De José Calvo 6,  Madrid",Chamberí,4.045.883,-370.845
+477,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle Bravo Murillo 108,  Madrid",Moncloa-Aravaca,4.046.448,-369.484
+478,Taco Bell,200,4.3,0.9,30–40,Hamburguesas,€,"Calle De Embajadores, 13,  Madrid",Moncloa-Aravaca,4.040.069,-369.925
+480,TUTTO PASTA!,26,2.8,2.6,40–60,Española,€,"Calle De José Calvo 10,   Madrid",Moncloa-Aravaca,4.045.883,-370.845
+481,Comida de Pueblo,15,3.5,1.9,35–45,Gourmet,€,"Calle De Isaac Peral, 4,  Madrid",Moncloa-Aravaca,4.043.515,-371.802
+482,Pizzart Luchana,15,3.5,0.4,35–45,Pizza,€,"Calle De Isaac Peral 4,  Madrid",Moncloa-Aravaca,4.043.515,-371.802
+483,Taco Bell,200,4.1,2.4,35–45,Hamburguesas,€,"Hilarion Eslava 42,   Madrid",Moncloa-Aravaca,4.043.649,-371.684
+485,CONVEXO,69,4.6,2.9,35–45,Pollo,€€€,"Calle De Bravo Murillo 199,   Madrid",Moncloa-Aravaca,4.045.622,-370.204
+486,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€€,"Calle De Bravo Murillo, 113,  Madrid",Moncloa-Aravaca,4.044.805,-370.399
+487,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De Francos Rodríguez, 42,   Madrid",Moncloa-Aravaca,4.045.552,-370.451
+489,EL ASADOR,15,3.5,2.9,60–70,Carne,€,"Calle Castilla,4   Madrid",Moncloa-Aravaca,4.045.286,-370.425
+490,MANKA,52,4.9,2.9,55–65,Pizza,€,"Calle De Galería De Vallehermoso 4,  Madrid",Moncloa-Aravaca,4.043.946,-370.777
+491,Real Fried Chicken,15,4.3,2.9,45–55,Alitas de pollo,€,"Calle De La Infanta Mercedes 17,  Madrid",Moncloa-Aravaca,4.045.303,-369.951
+493,Toro Burger Lounge,23,4.1,2.9,60–70,De Latinoamérica,€€,"Calle De Huesca, 19,  Madrid",Moncloa-Aravaca,4.045.804,-369.889
+494,La cabaña de cris,15,3.5,3.4,55–65,Pollo,€,"Calle Andrés Mellado 43,  Madrid",Moncloa-Aravaca,4.044.112,-371.427
+495,La Bruja del Vesuvio,15,3.5,2.9,45–55,Comida rápida,€€,"Calle De Bravo Murillo 122,   Madrid",Moncloa-Aravaca,404.491,-370.348
+496,Arepish,53,4.6,2.9,50–60,Venezolana,€,"Calle De Bravo Murillo, 100,  Madrid",Moncloa-Aravaca,4.044.753,-370.407
+498,Popeyes,200,4.2,2.9,40–50,Pollo,€,"Calle De Cea Bermúdez 49,  Madrid",Moncloa-Aravaca,4.043.905,-370.972
+499,Cerveceria Riaño,15,3.5,2.9,40–50,Cerveza,€,"Calle De San Germán, 64,  Madrid",Moncloa-Aravaca,4.045.729,-370.018
+500,Fast chicken chain,15,3.5,2.9,50–60,Pollo,€,"Calle De Sta Engracia, 108,  Madrid",Moncloa-Aravaca,4.043.755,-370.008
+502,Home Burger Bar,181,4.1,3.4,45–55,Hamburguesas,€,"Calle Hilarión Eslava, 38,  Madrid",Moncloa-Aravaca,4.043.623,-371.605
+503,Empanadas Malvón,21,4.7,2.4,30–40,Empanada,€,"Calle De Galileo, 75,  Madrid",Moncloa-Aravaca,4.043.769,-371.015
+504,Tosty,15,3.5,2.9,45–55,Opciones para alergias,€,"Calle Ferraz 43,   Madrid",Moncloa-Aravaca,404.298,-372.104
+506,Red Roo Australian Restaurant,15,3.5,2.9,45–55,Opciones para alergias,€,"Calle De Lérida 58,   Madrid",Moncloa-Aravaca,4.045.625,-370.013
+507,Polloco Gourmet,26,3.5,3.0,30–50,Pollo,€,"Bravo Murillo, 120,   Madrid",Moncloa-Aravaca,4.044.861,-37.035
+508,Pomodoro,87,3.8,2.9,50–60,Italiana,€,"Av. De Filipinas, 30,  Madrid",Moncloa-Aravaca,4.044.077,-370.768
+509,Tiendas 7x24,62,4.5,2.9,30–40,Family Meals,€,"Calle De Barceló 6, 318,   Madrid",Moncloa-Aravaca,4.042.659,-370.073
+511,Mad Pollo,45,4.0,2.9,15–35,Pollo,€,"Calle De Raimundo Fernández Villaverde 33,   Madrid",Moncloa-Aravaca,4.044.705,-370.016
+512,El trébol empanadas,16,4.5,2.9,45–55,Comida rápida,€,"Calle De San Andrés, 31,  Madrid",Moncloa-Aravaca,4.042.842,-370.346
+513,Pic & Nic,200,4.4,3.4,55–65,Mediterránea,€€,"Paseo De S. Fco. De Sales, 3,  Madrid",Moncloa-Aravaca,40.44,-371.705
+515,Taste of America,26,3.5,2.4,35–45,Americana,€€,"Calle De Bravo Murillo, 34,  Madrid",Moncloa-Aravaca,4.043.741,-370.402
+516,Astros,26,3.0,2.9,45–55,Family Meals,€,"Calle De Guzmán El Bueno, 73,  Madrid",Moncloa-Aravaca,4.043.671,-371.355
+517,Aloha Poke,200,4.7,2.9,25–35,Poke,€,"Calle De Fernández De Los Ríos, 98,  Madrid",Moncloa-Aravaca,4.043.514,-37.113
+519,Doner kebap efes,30,3.8,2.9,35–45,Kebab,€,"C. De La Princesa, 40,  Madrid",Moncloa-Aravaca,4.042.891,-37.155
+520,Starbucks,63,4.3,3.4,35–45,Cafe,€,"Paseo De S. Fco. De Sales, 17,  Madrid",Moncloa-Aravaca,4.044.103,-371.533
+521,Cherry Pecas,92,4.4,2.4,30–40,Comida rápida,€,"Calle De Vallehermoso, 42,  Madrid",Moncloa-Aravaca,40.435,-370.846
+522,Basically Just Burrito Bowls,26,3.0,2.9,45–55,Bar Food,€,"Calle Bravo Murillo 218,   Madrid",Moncloa-Aravaca,4.046.448,-369.484
+524,Sultán kebab,19,3.0,2.9,35–45,Árabe,€€,"Calle De Bravo Murillo, 215,  Madrid",Moncloa-Aravaca,4.045.761,-370.118
+525,Great Kebab,26,3.0,2.9,40–50,Kebab,€,"Calle De Bravo Murillo 193,  Madrid",Moncloa-Aravaca,4.045.457,-370.302
+526,"Real Estambul Pizza, Doner y Kebab",15,3.4,2.9,45–55,Mediterránea,€,"Calle De José Calvo 10,   Madrid",Moncloa-Aravaca,4.045.883,-370.845
+528,Pops ´n Bops,26,3.0,2.4,50–60,China,€,"Calle Federico Sainz De Robles 3,  Madrid",Moncloa-Aravaca,4.039.652,-36.694
+529,Oriental Palace,167,4.4,2.9,45–55,Asiatica,€,"Calle De Galileo 40,   Madrid",Moncloa-Aravaca,404.335,-371.021
+530,Shawarma palace,15,3.5,2.4,50–60,Americana,€,"Plaza Del Descubridor Diego De Ordás, 4,  Madrid",Moncloa-Aravaca,4.044.117,-370.029
+532,Jimbo Smokehouse,68,4.7,2.9,45–55,Napolitana,€,"Calle Jose Calvo 10,   Madrid",Moncloa-Aravaca,4.042.338,-366.482
+533,Napoli Gang by Bel Mondo,26,3.0,2.4,50–60,Pizza,€,"Calle Rodríguez San Pedro 44,   Madrid",Moncloa-Aravaca,4.043.178,-371.615
+534,Soda Bar,26,3.0,2.9,45–55,Comida rápida,€,"C. Del Dr. Ramón Castroviejo, 59,  Madrid",Moncloa-Aravaca,4.042.438,-356.158
+535,Danny’s Jazz,11,4.7,2.4,50–60,Española,€,"Calle Del Aviador Zorita 32,   Madrid",Moncloa-Aravaca,4.045.015,-369.819
+537,Ferreiro,26,3.0,3.4,35–45,Postres,€,"Calle De Almansa 41,   Madrid",Moncloa-Aravaca,4.044.867,-37.046
+538,TeKeS,78,4.8,2.4,30–40,Opciones para alergias,€€€,"Calle De Cándido Mateos 21,   Madrid",Moncloa-Aravaca,404.741,-371.882
+539,Toropikaru Sushi,26,3.0,3.4,35–45,Comfort Food,€,"Calle Sorgo 53, Nave 2,   Madrid",Moncloa-Aravaca,404.683,-370.615
+541,NUBO Rolls,15,4.3,3.4,35–45,Comida rápida,€,"Calle De Santa Engracia 108,   Madrid",Moncloa-Aravaca,4.043.918,-370.038
+542,DITALY,26,3.0,2.4,30–40,Empanada,€,"Calle De Fernández De Los Ríos 85,   Madrid",Moncloa-Aravaca,4.043.514,-37.113
+543,Empanadas BAIRES,26,3.0,3.4,35–45,Empanada,€,"Calle De Ofelia Nieto, 42,  Madrid",Moncloa-Aravaca,4.045.979,-371.009
+545,Massburg,194,4.4,2.4,30–40,Opciones para alergias,€,"Zabaleta 1,   Madrid",Moncloa-Aravaca,4.044.065,-367.537
+546,Nola Smoke,199,4.2,1.0,15–35,Comida rápida,€,"Calle De José Calvo 6,  Madrid",Moncloa-Aravaca,4.045.883,-370.845
+547,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De José Calvo 10,  Madrid",Carabanchel,4.045.883,-370.845
+548,Comida de Pueblo,26,3.0,2.4,35–45,Gourmet,€,"Avenida De La Reina Victoria 68,  Madrid",Carabanchel,4.044.667,-371.199
+550,Papa John's,200,4.4,1.9,35–45,Pizza,€,"Calle Araucaria 19,   Madrid",Carabanchel,4.046.046,-370.001
+551,Roost Chicken,123,4.6,2.9,40–50,Pollo,€,"Calle De Isaac Peral 4,  Madrid",Carabanchel,4.043.515,-371.802
+552,McDonald's,200,4.4,2.9,30–40,Hamburguesas,€,"Calle De Isaac Peral 4,  Madrid",Carabanchel,4.043.515,-371.802
+554,Taco Bell,200,4.1,2.4,35–45,Hamburguesas,€,"Hilarion Eslava 42,   Madrid",Carabanchel,4.043.649,-371.684
+555,CONVEXO,69,4.6,2.9,35–45,Pollo,€€€,"Calle De Bravo Murillo 199,   Madrid",Carabanchel,4.045.622,-370.204
+556,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€€,"Calle De Bravo Murillo, 113,  Madrid",Carabanchel,4.044.805,-370.399
+558,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De Francos Rodríguez, 42,  Madrid",Carabanchel,4.045.565,-370.461
+559,McDonald's,200,4.3,1.9,15–25,Hamburguesas,€,"Paseo De Santa María De La Cabeza, 86,  Madrid",Carabanchel,4.039.875,-370.153
+560,Beiben,14,4.2,2.4,30–40,Tapas,€,"Calle De Mira El Sol 23,  Madrid",Carabanchel,4.040.727,-370.623
+561,La Cochinita Loca,19,4.3,2.4,45–55,Colombiana,€,"Calle De Guetaria 72,   Madrid",Carabanchel,4.036.655,-371.523
+563,Pasta con todo 🍝,26,3.0,2.4,45–55,Italiana,€,"Calle Fragata, 11,   Madrid",Carabanchel,4.039.365,-373.426
+564,Latin kebab,25,4.0,1.4,30–40,Kebab,€,"Calle Arechavaleta 6,   Madrid",Carabanchel,4.040.605,-370.752
+565,Pura Italia,109,3.2,1.9,35–55,Italiana,€,"Calle De Antonio López 109,   Madrid",Carabanchel,4.038.678,-369.811
+567,Pollo Criollo,26,3.0,2.4,50–60,Pollo,€,"Calle De Juan Pascual De Mena 7,  Madrid",Carabanchel,4.040.765,-373.979
+568,Maha Kebab,11,4.3,2.4,20–30,Kebab,€,"Plaza De La Cebada, 10,  Madrid",Carabanchel,4.041.156,-371.008
+569,Taberna La Buha,24,4.2,2.4,60–70,Tapas,€,"Calle Mirasierra, 37,  Madrid",Carabanchel,4.038.842,-370.369
+571,Pizza Mirasierra,17,4.2,2.4,30–40,Pizza,€,"Calle De San Andrés, 31,  Madrid",Carabanchel,4.042.842,-370.346
+572,Pic & Nic,200,4.4,3.9,60–70,Mediterránea,€,"Calle De Marcelo Usera 135,   Madrid",Carabanchel,4.038.506,-371.269
+573,Pizz-a-porter,26,3.0,1.9,30–40,Pizza,€,"Calle De Don Pedro 11,  Madrid",Carabanchel,4.041.164,-371.275
+574,Tabaxo - Don Pedro,26,3.0,2.4,50–60,Sándwich,€,"Paseo De Los Pontones, 24,  Madrid",Carabanchel,4.040.543,-371.415
+576,Taberna Piedra Pinta,26,3.0,1.9,45–55,Halal,€,"Calle Vía Carpetana, 226,  Madrid",Carabanchel,4.039.258,-374.124
+577,Dinos Bar Kebab,26,3.0,2.5,40–60,Kebab,€,"Av. Oporto, 89,  Madrid",Carabanchel,4.038.804,-373.205
+578,Gran Oporto Kebab,29,3.7,1.4,25–35,Kebab,€,"Glorieta De Embajadores 4,  Madrid",Carabanchel,404.045,-370.245
+580,GALAXY KEBAB,17,4.5,2.9,30–40,Kebab,€,"Calle Vía Carpetana 81,   Madrid",Carabanchel,4.039.832,-373.469
+581,Bar y Kebab La Parada,23,3.0,1.4,15–25,Kebab,€,"Calle De Embajadores, 28,  Madrid",Carabanchel,4.040.069,-369.925
+582,Éccolo,28,4.2,2.4,50–60,Tapas y raciones,€,"Calle De La Ruda, 5,  Madrid",Carabanchel,4.041.032,-370.764
+584,Malacatin,19,4.9,1.9,45–55,Pizza,€,"Calle De Melilla, 47,  Madrid",Carabanchel,4.040.113,-370.969
+585,Le Crust,25,4.4,2.5,40–60,Hamburguesas,€,"Paseo De Los Melancólicos 7,   Madrid",Carabanchel,4.040.481,-372.076
+586,Toro Burger Lounge,27,4.1,1.4,25–35,Comida reconfortante,€,"Plaza De Cascorro, 16,   Madrid",Carabanchel,4.041.025,-370.746
+587,Cor & Cor,11,4.3,2.9,30–40,Postres,€,"Calle Campo De La Paloma 32,   Madrid",Carabanchel,4.038.336,-36.475
+589,Arepa Mix,38,3.9,1.4,15–25,Venezolana,€€,"Calle De Ferroviarios 98,   Madrid",Carabanchel,4.038.196,-370.452
+590,Bocadillos Ole,23,3.0,2.4,60–70,Bocadillo,€,"Calle De Dolores Barranco, 88,  Madrid",Carabanchel,403.833,-370.616
+591,IGo Pasta,89,4.5,2.4,30–40,Italiana,€,"Calle De Santa Isabel, 5,  Madrid",Carabanchel,4.041.136,-36.987
+593,Yokaloka,23,3.6,3.9,60–70,Comfort Food,€,"Calle De Jaime Vera 12,   Madrid",Carabanchel,4.041.214,-372.872
+594,Burger Las Vegas,23,3.6,1.9,30–40,Hamburguesas,€€,"Calle De Antonio López 109,   Madrid",Carabanchel,4.038.678,-369.811
+595,Alice Pizza,23,3.6,2.4,50–60,Pizza,€,"Calle De Cáceres 5,  Madrid",Carabanchel,4.039.854,-369.618
+597,Herbívoro,23,3.6,1.9,45–55,Parrilla,€,"Paseo De Los Melancolicos 7,   Madrid",Carabanchel,4.040.481,-372.076
+598,La Manousheria,23,3.6,2.5,40–60,Postres,€,"Calle De Los Yébenes 150,   Madrid",Carabanchel,4.038.979,-375.197
+599,Popizza,23,3.6,0.9,30–40,Pollo,€,"Calle De Marcelo Usera 12,   Madrid",Carabanchel,4.038.728,-370.066
+600,Papa John's,200,4.3,0.9,30–40,Pizza,€,"Calle De Embajadores, 14 ,   Madrid",Usera,4.040.069,-369.925
+602,TUTTO PASTA!,26,2.8,2.5,40–60,Comida rápida,€,"Calle De Matilde Hernández 90,  Madrid",Usera,403.908,-373.382
+603,Restaurante Sabor K-Tracho,23,3.6,1.4,35–45,Alcohol,€,"Calle Del Gral. Ricardos, 92,   Madrid",Usera,4.039.347,-372.325
+604,Autoservicio,77,4.8,0.9,15–25,Tienda,€,"Av. Del Manzanares, 210,  Madrid",Usera,4.039.021,-370.016
+606,Little Caesars Pizza,200,4.6,1.4,40–50,Pizza,€,"Calle De Cáceres 1,   Madrid",Usera,4.039.854,-369.618
+607,Comida china yonghe,50,4.3,2.4,40–50,China,€€€,"Calle De La Alianza 33,   Madrid",Usera,4.035.775,-368.689
+608,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Paseo Del Doctor Vallejo Nágera, 25,  Madrid",Usera,4.040.163,-370.811
+610,Papa John's,200,4.3,2.4,30–40,Pizza,€,"Avenida De Oporto 14,  Madrid",Usera,4.038.512,-372.238
+611,TROPICALISSIMA,84,4.4,1.4,30–40,Alcohol,€€€,"Calle Azabache, 6,  Madrid",Usera,4.039.215,-372.487
+612,Super Dog,25,3.7,1.4,30–50,Hamburguesas,€,"Calle Del Gral. Ricardos, 92,   Madrid",Usera,4.039.347,-372.325
+613,Autoservicio,77,4.8,2.4,30–40,Tienda,€,"Avenida De Orovilla 46,  Madrid",Usera,4.036.029,-368.992
+615,Pollo Rico Al carbón,68,4.5,0.9,40–50,Pollo,€,"Calle Cáceres, 34,  Madrid",Usera,4.039.879,-36.959
+616,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle De Moncada 122,   Madrid",Usera,4.034.096,-369.201
+617,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Paseo De Santa María De La Cabeza, 86,  Madrid",Usera,4.039.875,-370.153
+619,Beiben,14,4.2,1.9,30–40,Tapas,€,"Calle De Guetaria 72,   Madrid",Usera,4.036.655,-371.523
+620,Pasta con todo 🍝,23,3.6,1.4,40–50,Italiana,€,"Calle De Antonio López 109,   Madrid",Usera,4.038.678,-369.811
+621,Pollo Criollo,23,3.6,1.4,45–55,Pollo,€,"Av. De Andalucía, 19,  Madrid",Usera,4.036.621,-369.375
+623,McDonald's,200,4.1,1.9,20–30,Hamburguesas,€,"Calle De La Antracita 12,   Madrid",Usera,4.039.295,-368.724
+624,Empanadas Malvón,31,5.0,1.9,35–45,Empanada,€,"Calle Mirasierra, 37,  Madrid",Usera,4.038.842,-370.369
+625,Pizza Mirasierra,17,4.2,1.4,20–30,Pizza,€,"Calle Arechavaleta 6,   Madrid",Usera,4.040.605,-370.752
+626,Pura Italia,109,3.2,1.9,35–55,Italiana,€,"Travesía Arechavaleta 4,   Madrid",Usera,4.039.818,-362.207
+628,"Aqua, Farina e Forno",17,2.9,1.9,10–30,Pasta,€,"Calle Ariel,15,   Madrid",Usera,4.041.056,-371.352
+629,El Buen Gusto,17,4.5,2.4,50–60,Bar Food,€,"Calle De Marcelo Usera 135,   Madrid",Usera,4.038.506,-371.269
+630,Pizz-a-porter,23,3.6,0.9,25–35,Pizza,€,"Calle De Palos De La Frontera 38,   Madrid",Usera,4.040.302,-369.613
+632,La Pizza é Bella,12,4.5,2.9,40–50,Pizza,€,"Paseo Del Molino, 1,  Madrid",Usera,4.038.987,-369.263
+633,Kebab Nemrut,81,4.3,1.9,25–35,Kebab,€,"Calle Vía Carpetana, 226,  Madrid",Usera,4.039.258,-374.124
+634,Dinos Bar Kebab,23,3.6,2.5,40–60,Kebab,€,"Glorieta De Embajadores 4,  Madrid",Usera,404.045,-370.245
+636,GALAXY KEBAB,17,4.5,2.9,30–40,Kebab,€,"Av. Oporto, 89,  Madrid",Usera,4.038.804,-373.205
+637,Gran Oporto Kebab,29,3.7,2.9,35–45,Kebab,€€,"Calle De José Antonio De Armona 12,   Madrid",Usera,4.040.524,-369.753
+638,Ramen Kagura,23,3.6,1.4,45–55,Comida reconfortante,€,"Calle De Tarragona 36,   Madrid",Usera,4.040.159,-36.962
+639,RAVIOLUZIONE,40,4.2,1.9,20–30,Pizza,€,"Calle De Melilla, 47,  Madrid",Usera,4.040.113,-370.969
+641,Le Crust,25,4.4,1.9,35–45,Hamburguesas,€,"Calle Campo De La Paloma 32,   Madrid",Usera,4.038.336,-36.475
+642,Arepa Mix,38,3.9,1.4,20–30,Venezolana,€,"Centro Comercial Plaza Rio 2,  Madrid",Usera,4.039.114,-370.225
+643,Llaollao,39,4.4,1.9,35–55,Gourmet,€€,"Calle De Ferroviarios 98,   Madrid",Usera,4.038.196,-370.452
+645,Bocadillos Ole,23,3.6,1.9,10–30,Bocadillo,€,"Calle De Dolores Barranco, 88,  Madrid",Usera,403.833,-370.616
+646,IGo Pasta,89,4.5,2.4,50–60,Italiana,€,"Calle De Santa Isabel, 5,  Madrid",Usera,4.041.136,-36.987
+647,Yokaloka,23,3.6,0.9,25–35,Tapas y raciones,€,"Calle De La Antracita, 10,  Madrid",Usera,4.039.007,-368.986
+649,Cantina Canalla,24,4.2,2.9,40–50,De Latinoamérica,€,"Paseo De Santa María De La Cabeza, 60,  Madrid",Usera,404.024,-369.775
+650,Órale burrito,23,3.6,1.9,25–35,Burritos,€€,"Calle De Antonio López 109,   Madrid",Usera,4.038.678,-369.811
+651,Alice Pizza,23,3.6,2.5,40–60,Pizza,€,"Calle De Méndez Álvaro 77,   Madrid",Usera,4.039.602,-368.112
+652,Tasty Poke,178,4.6,2.9,30–40,Poke,€,"Calle De Cáceres 5,  Madrid",Usera,4.039.854,-369.618
+654,Herbívoro,23,3.6,1.4,45–55,Parrilla,€,"Calle De Lillo 1,   Madrid",Usera,4.036.299,-369.517
+655,Abaco Taberna,23,3.6,1.9,20–30,Con opciones veganas,€,"Calle Del Áncora 26,   Madrid",Usera,4.040.308,-369.166
+656,Sésamo,23,3.6,1.9,35–45,Pollo,€,"Calle De Marcelo Usera 12,   Madrid",Usera,4.038.728,-370.066
+658,"Asador de pollos ""LA WISLLA""",23,3.6,1.4,20–30,Carne,€,"Calle De Cardeñosa 42,  Madrid",Usera,4.038.282,-367.238
+659,Mac2Pic2,23,3.6,1.9,35–55,Boliviana,€,"Marcelo Usera 12,  Madrid",Usera,4.038.765,-370.046
+660,Asador de Pollos,23,3.6,1.9,10–30,Pollo,€,"Calle Alférez Juan Usera, 34,   Madrid",Usera,4.039.572,-373.066
+662,Cheff oriental,23,3.6,2.4,50–60,Asiatica,€,"Paseo De Santa María De La Cabeza 32,   Madrid",Usera,404.031,-369.709
+663,Kaleka Poke,23,3.6,0.9,25–35,Kebab,€,"Paseo Molino, 7,  Madrid",Usera,4.039.012,-369.287
+664,Pizzeria Roberto,33,4.2,2.9,40–50,Pizza,€,"Calle De José Antonio De Armona 7,   Madrid",Usera,4.040.455,-36.965
+665,Pui's Thai tapas,43,4.6,1.9,25–35,Comida rápida,€,"Calle Sallaberry, 101,  Madrid",Usera,4.039.279,-372.049
+667,Comida China Feliz,200,4.4,2.5,40–60,China,€,"Avenida De Palomeras 150 ,  Madrid",Usera,4.038.564,-364.871
+668,Merecumbe,100,4.3,2.9,30–40,Venezolana,€,"Calle De Embajadores, 12 ,   Madrid",Usera,4.040.069,-369.925
+669,TUTTO PASTA!,26,2.8,2.9,35–45,Alcohol,€,"Avenida De Rafaela Ybarra 37,   Madrid",Puente de Vallecas,4.036.433,-371.421
+671,Perla del Pacifico,66,4.1,0.9,30–40,Mediterránea,€,"Calle De Matilde Hernández 90,  Madrid",Puente de Vallecas,403.908,-373.382
+672,Restaurante Sabor K-Tracho,23,3.6,2.4,40–50,Pollo,€,"Av. De La Albufera, 91,  Madrid",Puente de Vallecas,403.944,-366.152
+673,Precio Calidad y sabor,17,4.4,2.0,40–60,Bar Food,€€€,"Calle De La Alianza 33,   Madrid",Puente de Vallecas,4.035.775,-368.689
+675,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Felipe Fraile 5,   Madrid",Puente de Vallecas,403.971,-366.602
+676,On Rush,14,4.8,1.4,40–50,Burritos,€€€,"Calle Azabache, 6,  Madrid",Puente de Vallecas,4.039.215,-372.487
+677,Super Dog,25,3.7,2.49,30–50,Hamburguesas,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Puente de Vallecas,4.045.069,-367.173
+678,Bur Burger,50,4.4,2.49,50–70,Hamburguesas,€,"Avenida De La Albufera, 40,   Madrid",Puente de Vallecas,4.039.682,-366.662
+680,El Sabroso Albufera,30,3.9,1.4,20–30,Comida rápida,€,"Calle Monederos 12,   Madrid",Puente de Vallecas,4.038.776,-370.159
+681,Precio Calidad y sabor,17,4.4,2.0,40–60,Bar Food,€,"Avenida De La Albufera 119,   Madrid",Puente de Vallecas,4.039.331,-365.945
+682,Kebab Rayo,117,3.8,0.9,25–35,Kebab,€,"Calle De Moncada 122,   Madrid",Puente de Vallecas,4.034.096,-369.201
+684,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Av. Pablo Neruda, 91,  Madrid",Puente de Vallecas,4.038.117,-366.242
+685,McDonald's,200,4.1,0.9,15–25,Hamburguesas,€,"Av. De La Albufera, 20,  Madrid",Puente de Vallecas,4.039.744,-36.679
+686,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Calle De La Antracita 12,   Madrid",Puente de Vallecas,4.039.295,-368.724
+688,Empanadas Malvón,31,5.0,2.4,40–50,Empanada,€€,"Calle Del Puerto De Balbarán 31,   Madrid",Puente de Vallecas,4.037.649,-365.629
+689,Kebab Entrevias,43,4.5,1.4,25–35,Kebab,€,"Calle Arechavaleta 6,   Madrid",Puente de Vallecas,4.040.605,-370.752
+690,Pura Italia,109,3.2,1.9,35–55,Italiana,€,"Calle Ariel,15,   Madrid",Puente de Vallecas,4.041.056,-371.352
+691,El Buen Gusto,17,4.5,1.9,45–55,Bar Food,€,"Calle De Benjamín Palencia, 32,   Madrid",Puente de Vallecas,4.039.471,-364.814
+693,Poke Ukelele,68,4.2,1.9,45–65,Poke,€,"Av. Del Mediterráneo, 30,  Madrid",Puente de Vallecas,4.040.675,-367.267
+694,Mahalo Poke,23,3.6,2.5,30–50,Poke,€€,"Calle Del Camino De Los Vinateros, 22,  Madrid",Puente de Vallecas,4.041.043,-365.788
+695,Ankara Doner Kebab,38,4.3,2.4,40–50,Kebab,€,"Av. De Entrevías, 58,  Madrid",Puente de Vallecas,4.037.636,-366.082
+697,Shaurma House,26,4.3,1.9,20–30,Pollo,€,"Avenida Del Monte Igueldo 36,   Madrid",Puente de Vallecas,4.039.586,-366.853
+698,Istanbul Kebab Madrid,23,3.6,1.4,30–40,Asiática,€,"Av Del Monte Igueldo, 36,  Madrid",Puente de Vallecas,4.039.618,-366.823
+699,Kebab Vallecano,12,4.0,1.4,30–40,Kebab,€,"Calle De Benadalid 6,   Madrid",Puente de Vallecas,4.038.604,-363.886
+701,Star Kebab Pollo Asado,14,4.1,2.4,35–45,Pollo,€€,"Calle De Peña De La Atalaya, 86,  Madrid",Puente de Vallecas,4.038.579,-366.726
+702,Pizzamarket,30,4.8,1.9,20–30,Pizza,€€,"Av. Del Mediterráneo, 21,  Madrid",Puente de Vallecas,4.040.675,-367.267
+703,Twin Pizza Mediterráneo,17,4.2,1.9,20–30,China,€,"Avenida Pablo Neruda 108,   Madrid",Puente de Vallecas,4.038.315,-364.917
+704,Panda Sushi,133,4.4,1.9,20–30,Saludable,€€,"Calle De Arias Montano, 42,  Madrid",Puente de Vallecas,4.040.985,-367.173
+706,Acqua in Bocca,36,4.3,1.9,20–30,Opciones para alergias,€,"Calle Campo De La Paloma 32,   Madrid",Puente de Vallecas,4.038.336,-36.475
+707,Arepa Mix,38,3.9,1.9,20–30,Venezolana,€,"Calle Felipe Fraile 5,   Madrid",Puente de Vallecas,403.971,-366.602
+708,THE SCHNITZEL BOSS,23,3.6,1.9,20–30,Sudamericana,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Puente de Vallecas,4.045.069,-367.173
+710,Frida Burritos,47,4.5,1.9,20–30,Burritos,€€,"Calle De Ferroviarios 98,   Madrid",Puente de Vallecas,4.038.196,-370.452
+711,Bocadillos Ole,23,3.6,1.9,20–30,Bocadillo,€,"Calle Felipe Fraile 5,   Madrid",Puente de Vallecas,403.971,-366.602
+712,Ceviches Marakaza,23,3.6,1.4,30–40,Peruana,€,"Avenida Pablo Neruda, 96 ,  Madrid",Puente de Vallecas,4.038.315,-364.917
+714,Burger Town,23,3.6,1.4,30–40,Hamburguesas,€,"Calle Del Puerto Canfranc, 42,  Madrid",Puente de Vallecas,365.939,-6.233
+715,Comida Fusión,19,3.7,1.4,30–40,Fusión latina,€,"Avenida De Peña Prieta 22,   Madrid",Puente de Vallecas,4.040.044,-366.657
+716,SUKAO FOOD FUSION,60,3.6,1.4,30–40,Japonesa,€,"Calle De Santa Isabel, 5,  Madrid",Puente de Vallecas,4.041.136,-36.987
+717,Yokaloka,60,3.6,1.4,30–40,Tapas y raciones,€,"Calle De La Antracita, 10,  Madrid",Puente de Vallecas,4.038.927,-37.415
+719,Cantina Canalla,24,4.2,1.4,30–40,De Latinoamérica,€,"Calle De La Cruz Del Sur 5,   Madrid",Puente de Vallecas,4.041.625,-370.064
+720,BURRITOS & TACOS,86,3.5,1.4,25–35,Burritos,€,"Avenida Peña Prieta 50,   Madrid",Puente de Vallecas,4.040.139,-36.655
+721,Asador Delicasa,14,4.0,1.4,25–35,Carne,€,"Calle De Gutenberg 3,  Madrid",Puente de Vallecas,4.040.491,-368.175
+723,Waiwai Fusion Poke Atocha,32,4.7,1.4,25–35,Alcohol,€,"Calle De Méndez Álvaro 77,   Madrid",Puente de Vallecas,4.039.602,-368.112
+724,Tasty Poke,178,4.6,1.4,25–35,Poke,€,"Av. Pablo Neruda, 91,  Madrid",Puente de Vallecas,4.038.117,-366.242
+725,Don Tortilla,24,4.1,1.4,25–35,Saludable,€,"Calle De Cáceres 5,  Madrid",Puente de Vallecas,4.039.854,-369.618
+727,Herbívoro,60,3.8,1.4,25–35,Parrilla,€,"Avenida De Buenos Aires 63,   Madrid",Puente de Vallecas,4.038.641,-365.337
+728,Kebab Turca,60,3.8,1.4,25–35,Kebab,€,"Calle De Cardeñosa 42,  Madrid",Puente de Vallecas,4.038.282,-367.238
+729,Mac2Pic2,60,3.8,1.4,25–35,Boliviana,€,"Av. De La Albufera, 226,  Madrid",Puente de Vallecas,4.039.097,-364.937
+730,Ateshgah Albufera,60,3.8,1.4,25–35,Fritura,€,"Avenida Pablo Neruda, 96 ,  Madrid",Puente de Vallecas,4.038.315,-364.917
+732,Superbestia,60,3.8,1.4,25–35,Pizza,€,"Paseo Molino, 7,  Madrid",Puente de Vallecas,4.039.012,-369.287
+733,Pizzeria Roberto,33,4.2,1.4,25–35,Pizza,€,"Avenida De Palomeras 150 ,  Madrid",Puente de Vallecas,4.038.564,-364.871
+734,Merecumbe,100,4.3,1.4,25–35,Venezolana,€€,"Calle De Ferroviarios 98,   Madrid",Puente de Vallecas,4.038.196,-370.452
+736,Mr Patata,60,3.8,1.4,25–35,Pollo,€,"Calle De Lituania 6,   Madrid",Puente de Vallecas,4.040.931,-366.156
+737,Dragón,60,3.8,1.4,25–35,Pizza,€,"Calle De Embajadores, 12 ,   Madrid",Puente de Vallecas,4.040.069,-369.925
+738,TUTTO PASTA!,26,2.8,2.6,40–60,Comida rápida,€,"Av. De La Albufera, 226,  Madrid",Moratalaz,4.039.097,-364.937
+740,Papa John's,200,4.4,1.4,25–35,Pizza,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Moratalaz,4.045.069,-367.173
+741,Streat Lab,50,4.6,2.49,50–70,Pollo,€,"Av. De La Albufera, 91,  Madrid",Moratalaz,403.944,-366.152
+742,Pizz-a-porter,60,3.8,0.9,35–45,Pizza,€€€,"Calle De La Alianza 33,   Madrid",Moratalaz,4.035.775,-368.689
+743,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Moratalaz,4.045.069,-367.173
+745,Streat Lab,50,4.6,1.9,40–50,Pollo,€,"Calle Felipe Fraile 5,   Madrid",Moratalaz,403.971,-366.602
+746,On Rush,14,4.8,2.4,45–55,Burritos,€,"Av. De La Albufera, 91,  Madrid",Moratalaz,403.944,-366.152
+747,Pizz-a-porter,60,3.8,1.9,45–55,Pizza,€,"Calle De Berastegui 24,   Madrid",Moratalaz,4.043.013,-364.274
+749,Perla del Pacifico,30,4.3,2.4,40–50,Mediterránea,€,"Avenida De La Albufera, 40,   Madrid",Moratalaz,4.039.682,-366.662
+750,El Sabroso Albufera,30,3.9,2.4,25–35,Comida rápida,€,"Calle Manuel Machado, 6,  Madrid",Moratalaz,4.038.916,-366.819
+751,McDonald's,200,4.2,1.9,30–40,Hamburguesas,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Moratalaz,4.045.069,-367.173
+753,Bur Burger,50,4.4,1.9,40–50,Hamburguesas,€€€,"Calle Azulejo 2,   Madrid",Moratalaz,4.033.274,-371.905
+754,Empanadas BAIRES,60,3.8,2.9,45–55,Empanada,€,"Calle Esteban Collantes, 31,   Madrid",Moratalaz,4.043.166,-364.089
+755,Croqueteria Focos,60,3.8,2.9,35–45,Croquetas,€,"Calle De Gonzalo De Berceo 63,   Madrid",Moratalaz,4.042.865,-36.399
+756,Asador Perla del Pacifico Ascao,39,4.6,2.4,40–50,Carne,€,"Av. De La Albufera, 20,  Madrid",Moratalaz,4.039.744,-36.679
+758,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Avenida De La Albufera 119,   Madrid",Moratalaz,4.039.331,-365.945
+759,Kebab Rayo,117,3.8,1.9,35–45,Kebab,€,"Paseo Del Marqués De Zafra 38,  Madrid",Moratalaz,4.042.547,-366.303
+760,DIVE`S FOOD,60,3.8,2.4,45–55,Hamburguesas,€,"Calle De Julián Camarillo 47,   Madrid",Moratalaz,4.043.898,-361.628
+762,Pic & Nic,200,4.5,3.4,30–40,Mediterránea,€,"Calle De Benjamín Palencia, 32,   Madrid",Moratalaz,4.039.471,-364.814
+763,Poke Ukelele,68,4.2,3.4,45–65,Poke,€€€,"Av. De Moratalaz, 137,  Madrid",Moratalaz,4.040.666,-364.674
+764,Kebab moratalaz,60,3.8,1.4,30–40,Kebab,€,"Av. Del Mediterráneo, 30,  Madrid",Moratalaz,4.040.675,-367.267
+766,Mahalo Poke,60,3.8,2.5,30–50,Poke,€,"Av. Del Marqués De Corbera, 40,  Madrid",Moratalaz,4.042.727,-365.018
+767,Bar el castaño,60,3.8,2.4,35–45,Mediterranea,€€,"Calle Del Camino De Los Vinateros, 22,  Madrid",Moratalaz,4.041.043,-365.788
+768,Ankara Doner Kebab,38,4.3,1.9,30–40,Kebab,€,"Avenida Del Monte Igueldo 36,   Madrid",Moratalaz,4.039.586,-366.853
+769,Istanbul Kebab Madrid,60,3.8,2.4,40–50,Kebab,€,"Calle De Benadalid 6,   Madrid",Moratalaz,4.038.604,-363.886
+771,Star Kebab Pollo Asado,14,4.1,2.4,35–45,Pollo,€,"Av Del Monte Igueldo, 36,  Madrid",Moratalaz,4.039.618,-366.823
+772,Kebab Vallecano,12,4.0,2.4,40–50,Kebab,€,"Calle De Ezequiel Solana, 52,  Madrid",Moratalaz,4.043.037,-364.518
+773,Pizzamarket,30,4.8,2.4,40–50,Pizza,€,"Calle De Ricardo Ortiz, 20,  Madrid",Moratalaz,4.042.857,-365.826
+775,Tennessee BBQ,77,4.8,2.4,40–50,Pizza,€,"Calle De Zabaleta 1,  Madrid",Moratalaz,4.044.221,-367.369
+776,Napoli Gang by Bel Mondo,200,4.6,2.4,40–50,Pizza,€€,"Av. Del Mediterráneo, 21,  Madrid",Moratalaz,4.040.675,-367.267
+777,Twin Pizza Mediterráneo,17,4.2,2.4,40–50,India,€€,"Calle Francisco Villaespesa, 6,  Madrid",Moratalaz,4.042.906,-36.488
+779,Mother india,37,4.3,2.4,40–50,China,€,"Avenida Pablo Neruda 108,   Madrid",Moratalaz,4.038.315,-364.917
+780,Panda Sushi,133,4.4,2.4,40–50,Saludable,€,"Calle Del Vizconde De Matamala 5,   Madrid",Moratalaz,4.042.639,-366.425
+781,Clásico Argentino 🇦🇷,41,4.5,2.4,40–50,Empanada,€€,"Calle De Arias Montano, 42,  Madrid",Moratalaz,4.040.985,-367.173
+782,Acqua in Bocca,36,4.3,2.4,40–50,Comida rápida,€,"Calle Buen Gobernador, 6,   Madrid",Moratalaz,4.043.299,-365.425
+784,Happy Burger,90,4.3,2.4,40–50,Hamburguesas,€,"Calle Campo De La Paloma 32,   Madrid",Moratalaz,4.038.336,-36.475
+785,Arepa Mix,38,3.9,2.4,40–50,Venezolana,€,"Calle Felipe Fraile 5,   Madrid",Moratalaz,403.971,-366.602
+786,THE SCHNITZEL BOSS,60,3.8,2.4,40–50,Sudamericana,€,"Calle Del Pico De La Maliciosa 6,   Madrid",Moratalaz,4.045.069,-367.173
+788,Frida Burritos,47,4.5,2.4,40–50,Burritos,€,"Calle De Gandhi 71,  Madrid",Moratalaz,404.958,-36.177
+789,Veg&Bite,12,4.9,2.4,40–50,Postres,€,"Calle Felipe Fraile 5,   Madrid",Moratalaz,403.971,-366.602
+790,Ceviches Marakaza,60,3.8,2.4,40–50,Peruana,€,"Calle Del Vizconde De Matamala 5,   Madrid",Moratalaz,4.042.639,-366.425
+792,Sushi Not Sorry,60,3.8,2.4,40–50,Fusión asiática,€,"Calle De Maiquez 50,   Madrid",Moratalaz,4.042.273,-367.283
+793,Nagasaki Sushi Retiro,60,3.8,2.4,40–50,China,€,"Calle Del Puerto Canfranc, 42,  Madrid",Moratalaz,365.939,-6.233
+794,Comida Fusión,19,3.7,2.4,40–50,Fusión latina,€,"Avenida De Peña Prieta 22,   Madrid",Moratalaz,4.040.044,-366.657
+795,SUKAO FOOD FUSION,60,3.8,2.5,40–60,Japonesa,€,"Zabaleta 1,   Madrid",Moratalaz,4.044.065,-367.537
+797,Nola Smoke,199,4.2,2.5,40–60,Comida rápida,€,"Calle De La Cruz Del Sur 5,   Madrid",Moratalaz,4.041.625,-370.064
+798,BURRITOS & TACOS,86,3.5,2.5,40–60,Burritos,€,"Avenida Peña Prieta 50,   Madrid",Moratalaz,4.040.139,-36.655
+799,Asador Delicasa,14,4.0,2.5,40–60,Carne,€,"Fuente Carrantona 24,  Madrid",Moratalaz,4.040.526,-363.349
+801,TGB,174,3.9,2.5,40–60,Hamburguesas,€,"Avenida Unión Europea 5,   Madrid",Moratalaz,4.040.001,-375.089
+802,Ágora Torrejón,60,3.8,2.5,40–60,Fried Foods,€,"Avenida De Buenos Aires 63,   Madrid",Moratalaz,4.038.641,-365.337
+803,Kebab Turca,60,3.8,2.5,40–60,Kebab,€,"Av. De La Albufera, 226,  Madrid",Moratalaz,4.039.097,-364.937
+805,Ateshgah Albufera,60,3.8,2.5,40–60,Fritura,€,"Avenida Pablo Neruda, 96 ,  Madrid",Moratalaz,4.038.315,-364.917
+806,Superbestia,60,3.8,2.5,40–60,Pizza,€,"Calle De Embajadores, 12 ,   Madrid",Moratalaz,4.040.069,-369.925
+807,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Alcalde Luis De Marichala 3,  Madrid",Ciudad Lineal,404.361,-36.722
+808,Papa John's,127,4.1,1.4,35–45,Pizza,€,"Calle Azulejo 2,   Madrid",Ciudad Lineal,4.033.274,-371.905
+810,Pizzería Argentina El Trébol,60,3.8,2.9,45–55,Pizza,€€,"Calle De La Alianza 33,   Madrid",Ciudad Lineal,4.035.775,-368.689
+811,Chinawokexpress,200,4.2,4.25,30–50,China,€€,"Calle Lopez de Hoyos 15,  Madrid",Ciudad Lineal,4.044.861,-366.712
+812,El Burrito Borracho,60,2.7,2.9,40–50,Burritos,€,"Calle Azulejo 2,   Madrid",Ciudad Lineal,4.033.274,-371.905
+814,Pizzería Argentina El Trébol,60,2.7,1.9,40–50,Pizza,€,"Calle De Berastegui 24,   Madrid",Ciudad Lineal,4.043.013,-364.274
+815,Perla del Pacifico,30,4.3,1.4,35–45,Mediterránea,€€€,"Calle De La Alianza 33,   Madrid",Ciudad Lineal,4.035.775,-368.689
+816,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Plaza Bami, 26,  Madrid",Ciudad Lineal,4.045.866,-364.638
+818,El Burrito Borracho,60,2.7,1.4,30–40,Burritos,€,"Calle De José Ortega Y Gasset 94,  Madrid",Ciudad Lineal,4.042.986,-367.176
+819,Empanadas Malvón,48,4.9,1.9,25–35,Empanada,€€€,"Calle Azulejo 2,   Madrid",Ciudad Lineal,4.033.274,-371.905
+820,Empanadas BAIRES,60,2.7,1.9,40–50,Empanada,€,"López De Hoyos , 153,  Madrid",Ciudad Lineal,4.044.872,-366.864
+821,Popeyes,200,4.4,1.9,35–45,Pollo,€,"Alcala 191,  Madrid",Ciudad Lineal,4.042.768,-366.996
+823,Pastamore,98,4.6,2.4,30–40,Italiana,€,"Calle Esteban Collantes, 31,   Madrid",Ciudad Lineal,4.043.166,-364.089
+824,Croqueteria Focos,60,2.7,1.4,25–35,Croquetas,€,"Calle Del Príncipe De Vergara, 210,  Madrid",Ciudad Lineal,4.042.562,-367.992
+825,Home Burger Bar,198,4.1,2.4,35–45,Hamburguesas,€,"Calle De La Virgen De La Fuencisla, 19,   Madrid",Ciudad Lineal,4.039.654,-366.673
+827,HyH Kebab Fried Chicken,23,3.6,1.0,40–60,Pollo,€,"Calle Mateo García, 13,  Madrid",Ciudad Lineal,404.316,-365.271
+828,Pollos Gourmet,22,2.7,1.4,25–35,Pollo,€€,"Calle De Azcona 36,   Madrid",Ciudad Lineal,4.038.927,-37.415
+829,Arepish,186,4.6,1.9,30–40,Venezolana,€,"Calle De Cronos, 6,  Madrid",Ciudad Lineal,4.043.833,-361.963
+831,Ichibanya,40,4.0,1.9,40–60,Comida rápida,€,"Calle De Gonzalo De Berceo 63,   Madrid",Ciudad Lineal,4.042.865,-36.399
+832,Asador Perla del Pacifico Ascao,39,4.6,1.9,30–40,Carne,€,"Calle De Julián Camarillo 47,   Madrid",Ciudad Lineal,4.043.898,-361.628
+833,Pic & Nic,200,4.5,2.4,25–35,Mediterránea,€,"Paseo Del Marqués De Zafra 38,  Madrid",Ciudad Lineal,4.042.547,-366.303
+834,DIVE`S FOOD,22,2.7,1.9,40–50,Hamburguesas,€,"Calle De Las Naciones 5,   Madrid",Ciudad Lineal,4.042.685,-36.736
+836,PaellaGood,22,2.7,2.4,45–55,Mediterránea,€€,"Calle De Alcalá, 339,  Madrid",Ciudad Lineal,4.044.291,-361.886
+837,Pa Picar,22,2.7,0.9,20–30,Mediterránea,€,"Calle Del Gral. Pardiñas, 32,  Madrid",Ciudad Lineal,4.042.651,-367.813
+838,Rude Burger,36,4.8,2.9,40–50,Hamburguesas,€€,"Calle Lopez de Hoyos 15,  Madrid",Ciudad Lineal,4.044.861,-366.712
+840,100 % Sano,22,2.7,2.9,35–45,Saludable,€,"Calle De San Romualdo, 22,  Madrid",Ciudad Lineal,4.043.824,-362.185
+841,McDonald's,200,4.2,2.4,20–30,Hamburguesas,€,"Calle Del Marqués De Mondéjar, 4,   Madrid",Ciudad Lineal,4.042.681,-366.684
+842,Thai Zafra,38,4.6,1.9,25–35,Opciones para alergias,€,"Calle De María De Molina, 44,  Madrid",Ciudad Lineal,4.043.794,-368.459
+844,Flame,22,2.7,2.4,45–55,Hamburguesas,€€,"Calle Conde De Penalver 35,   Madrid",Ciudad Lineal,4.042.846,-367.524
+845,Cor & Cor,35,4.3,2.4,50–60,Postres,€,"Calle De Maldonado, 51,  Madrid",Ciudad Lineal,4.043.378,-36.789
+846,Tiendas 7x24,140,4.8,2.4,30–40,Fusión asiática,€,"Calle De Méjico 20,   Madrid",Ciudad Lineal,4.043.736,-367.305
+847,Restaurante Chino Diamante,100,4.0,1.9,35–45,China,€,"Calle De Emilio Gastesi Fernández 12,  Madrid",Ciudad Lineal,4.043.697,-364.814
+849,Tienduki,22,2.7,2.99,5–25,Comida rápida,€,"Calle Del Dr. Esquerdo, 10,  Madrid",Ciudad Lineal,4.042.661,-366.826
+850,Empanadas Pampas,22,2.7,2.4,35–45,Empanada,€,"Calle Ferretería, 3,  Madrid",Ciudad Lineal,404.273,-362.271
+851,Make doner,15,3.9,2.4,50–60,Sándwiches,€,"Calle Zabaleta 1,   Madrid",Ciudad Lineal,4.044.065,-367.537
+853,CHUCK CHUCK CHICKEN,22,2.7,2.4,40–50,Pollo,€,"Calle De Mota Del Cuervo, 76,  Madrid",Ciudad Lineal,4.046.491,-362.973
+854,Tim Hortons,36,4.9,1.4,25–35,Comida reconfortante,€,"Calle De Arturo Soria, 189,  Madrid",Ciudad Lineal,4.045.843,-365.932
+855,Pasteleria Saul,27,4.2,2.4,25–35,Postres,€€,"Plaza Sagrado Corazón De Jesús, 2,  Madrid",Ciudad Lineal,4.041.349,-369.582
+857,Foster's Hollywood,65,4.2,2.4,40–50,Americana,€,"Calle De Silvano, 77,  Madrid",Ciudad Lineal,404.629,-36.357
+858,Kebab Bosforos,80,4.5,2.9,40–50,Kebab,€,"Av. Del Marqués De Corbera, 40,  Madrid",Ciudad Lineal,4.042.727,-365.018
+859,Bar el castaño,22,2.7,1.9,30–40,Mediterranea,€,"Calle De Hermosilla, 91,  Madrid",Ciudad Lineal,4.042.607,-367.616
+860,Esmirna Doner Kebap,48,4.7,2.4,35–45,Kebab,€,"Calle Zabaleta 1,   Madrid",Ciudad Lineal,4.044.065,-367.537
+862,Frambons,22,2.7,2.4,35–45,Empanada,€,"Av. Del Mediterráneo, 30,  Madrid",Ciudad Lineal,4.040.675,-367.267
+863,Doner kebap efes,23,4.7,2.4,25–35,Kebab,€,"Calle De López De Hoyos, 139,  Madrid",Ciudad Lineal,4.044.849,-366.731
+864,Doner kebap efes,30,4.6,1.9,30–40,Kebab,€,"Calle De Alcalá 205,  Madrid",Ciudad Lineal,4.044.291,-361.886
+866,Sumo Grill,26,4.5,2.9,60–70,Opciones para alergias,€,"Calle De Ezequiel Solana, 52,  Madrid",Ciudad Lineal,4.043.037,-364.518
+867,Da Yuan,200,4.4,2.9,60–70,Pasta,€,"Calle Del Conde De Peñalver, 66,  Madrid",Ciudad Lineal,4.043.141,-367.496
