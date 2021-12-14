@@ -1,0 +1,691 @@
+,Restaurante,Valoración,Nota,Delivery_Fee,ETA,Tag,Precio,Dirección,Barrio,Tag_
+0,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores,  28045",Centro,India
+1,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Calle De Núñez De Arce, 11, 28012",Centro,Pizza
+2,Pizza Central,31,3.8,2.99,35–55,Pizza,€,"Plaza Del Emperador Carlos V, 10, 28012",Centro,Pizza
+3,Scarlett Real Food,28,3.1,1.9,40–50,Dulce,€,"C/ Preciados 36,  28013",Centro,Dulce
+4,La Tagliatella,15,3.9,0.9,25–35,Pizza,€€,"Calle De Toledo 27,  28012",Centro,Pizza
+5,Fritz Foods,41,4.5,0.4,30–40,Pizza,€,"Calle De Luchana 17,  28010",Centro,Pizza
+6,Pizzart Luchana,28,3.1,1.9,50–60,Pizza,€,"Paseo De La Virgen Del Puerto, 45, 28005",Centro,Pizza
+7,Kahuna,25,4.6,1.4,45–55,Burritos,€,"Calle De La Aduana 25,  28013",Centro,Burritos
+8,Wacamole,50,3.9,0.9,40–50,SouthAmerica,€,"Calle De Arriaza, 6, 28008",Centro,SouthAmerica
+9,El Imperio de la Empanada,28,3.1,0.9,45–55,Empanada,€,"Calle De San Andrés, 26, 28004 ",Centro,Empanada
+10,Roost Chicken,28,3.1,1.4,45–55,Pollo,€,"Calle Mayor, 38, 28013",Centro,Pollo
+11,Popeyes,200,4.3,0.4,30–40,Pollo,€,"Paseo Del Doctor Vallejo Nágera, 25 ,  28005",Centro,Pollo
+12,Papa John's,200,4.3,1.9,30–40,Pizza,€,"Calle De Cáceres 1, 28045",Centro,Pizza
+13,Comida china yonghe,50,4.3,2.4,40–50,China,€,"Calle Preciados, 29 , 28013",Centro,China
+14,Taco Bell,145,4.3,0.9,30–40,Hamburguesa,€,"P.º De La Florida, 2,  28008 ",Centro,Hamburguesa
+15,KFC - Principe Pio,28,3.1,1.4,50–60,Pollo,€,"Travesía De La Parada 6, 28015",Centro,Pollo
+16,EL LATÓN GRIS,66,3.7,0.9,45–55,Pollo,€,"Calle De Mira El Sol, 1, 28005 ",Centro,Pollo
+17,TAMCOC,28,3.1,1.4,40–50,Pizza,€,"Calle De La Alianza 33,  28041",Centro,Pizza
+18,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Dos Hermanas, 22, 28012 ",Centro,China
+19,La Alegría de la Huerta,28,3.1,0.9,25–35,Ensaladas,€,"Calle De Núñez De Arce 11, 28012",Centro,Ensaladas
+20,Empanadas BAIRES,28,3.1,2.99,35–55,Empanada,€,"Atocha, 64, 28012",Centro,Empanada
+21,Domino's,89,4.4,1.0,15–25,Pizza,€,"Calle De Los Donados 2,  28013",Centro,Pizza
+22,Cor & Cor,28,3.1,0.4,30–40,Dulce,€,"Calle De Carranza 3,  28004",Centro,Dulce
+23,Tiendas 7x24,70,4.6,1.9,50–60,Tienda,€,"Calle De Tudescos, 4, 28004",Centro,Tienda
+24,Super naan,28,3.1,0.9,50–60,India,€,"Calle Azabache, 6,  28019",Centro,India
+25,Super Dog,25,3.7,0.9,30–50,Hamburguesa,€,"Calle Gran Vía, 16,  28004",Centro,Hamburguesa
+26,Steak Burger,168,4.2,1.4,45–55,Hamburguesa,€,"Calle De La Cruz, 20,  28012",Centro,Hamburguesa
+27,Galipan,23,4.2,0.9,45–55,India,€,"Calle Del Dr Cortezo, 7,  28012",Centro,India
+28,El Turkito,200,4.1,0.9,30–40,Asiática,€,"Paseo De Santa María De La Cabeza 14,  28012",Centro,Asiática
+29,Arepish,186,4.4,1.9,35–45,SouthAmerica,€,"Hilarion Eslava 42,  28015",Centro,SouthAmerica
+30,CONVEXO,69,4.6,2.4,40–50,Gourmet,€€€,"Calle Del Mesón De Paredes 52,  28012",Centro,Gourmet
+31,Mandela 100,28,3.1,0.9,40–50,India,€,"Calle Del Espíritu Santo 16,  28004",Centro,India
+32,MY Pasta Room,59,4.6,1.4,40–50,Pizza,€,"Calle Cáceres, 34, 28045",Centro,Pizza
+33,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle Gran Vía 74,  28015",Centro,Pizza
+34,Trek Taco,28,3.1,0.9,40–50,SouthAmerica,€,"Calle De San Bernardino, 20,  28015",Centro,SouthAmerica
+35,MILA TOWN,28,3.1,1.4,35–45,Hamburguesa,€,"Plaza Del Comandante Las Morenas 3,  28013",Centro,Hamburguesa
+36,Pollo Criollo,28,3.1,0.4,45–55,Pollo,€,"Paseo De Los Jesuitas 18,  28011",Centro,Pollo
+37,Gourmet Madrid,24,3.3,2.4,60–70,Pizza,€,"Calle De Luchana 13, 28010",Centro,Pizza
+38,Freedom Pizza,53,4.5,1.9,45–55,Pizza,€,"Calle De Mira El Sol 23b,  28005",Centro,Pizza
+39,La Cochinita Loca,19,4.3,1.4,40–50,SouthAmerica,€,"Calle De Lavapiés 34, 28012",Centro,SouthAmerica
+40,Sonali Indian Restaurante,58,4.1,1.4,25–35,India,€€,"Calle De Ayala 28,  28001",Centro,India
+41,SANABRIA,28,3.1,2.4,55–65,Mediterránea,€€€,"Plaza De La Cebada, 10,  28005",Centro,Mediterránea
+42,Taberna La Buha,24,4.2,0.9,45–55,Mediterránea,€,"Calle De Galería De Vallehermoso 4, 28003",Centro,Mediterránea
+43,Real Fried Chicken,15,4.3,2.4,50–60,Pollo,€,"Calle De Moncada 122, 28021",Centro,Pollo
+44,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle Mayor, 42,  28013",Centro,Pollo
+45,Las Muns,28,3.1,0.4,35–45,Carne,€,"Calle Mayor, 31,  28012",Centro,Carne
+46,Chocolateria Tacita de Plata,13,4.1,0.4,35–45,Dulce,€,"Calle Gran Vía, 22,  28004",Centro,Dulce
+47,TGB,89,3.9,1.4,50–60,Hamburguesa,€,"Calle Vergara 3,  28013",Centro,Hamburguesa
+48,Mr. Pizza Madrid,28,3.1,0.9,35–45,Pizza,€,"Calle De Toledo, 63,  28005",Centro,Pizza
+49,McDonald's,200,4.3,0.9,25–35,Hamburguesa,€,"Calle Libertad, 9, 28004",Centro,Hamburguesa
+50,Puccias Chueca,28,3.1,1.4,30–40,Hamburguesa,€,"Paseo De Santa María De La Cabeza, 86,  28045",Centro,Hamburguesa
+51,Beiben,14,4.2,1.9,30–40,Mediterránea,€,"Calle Andrés Mellado 43, 28015",Centro,Mediterránea
+52,La Bruja del Vesuvio,28,3.1,1.9,40–50,Comida rápida,€,"Calle De Cea Bermúdez 49,  28015",Centro,Comida rápida
+53,Cerveceria Riaño,28,3.1,2.9,45–55,Tienda,€,"Calle De José Calvo 6,  28039",Centro,Tienda
+54,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores,  28012",Arganzuela,India
+55,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Calle De Cáceres 1,  28045",Arganzuela,Pizza
+56,Pizza Central,31,3.8,2.99,35–55,Pizza,€,"Calle Cáceres, 34, 28045",Arganzuela,Pizza
+57,Ristorante Pizzería Dante,61,4.1,2.4,40–60,Pizza,€,"Paseo Del Doctor Vallejo Nágera, 25 , 28005",Arganzuela,Pizza
+58,Papa John's,200,4.3,0.9,20–30,Pizza,€,"Paseo Delicias, 65,  28045",Arganzuela,Pizza
+59,Domino's,33,4.3,1.0,15–35,Pizza,€,"Calle De Toledo 27,  28012",Arganzuela,Pizza
+60,Fritz Foods,41,4.5,1.9,45–55,Pizza,€,"Paseo De La Virgen Del Puerto, 45, 28005",Arganzuela,Pizza
+61,Kahuna,25,4.6,2.4,50–60,Burritos,€,"Plaza Emperador Carlos V 11 ,  28012",Arganzuela,Burritos
+62,Taco Bell,200,4.2,1.4,20–30,Hamburguesa,€,"Av. Del Manzanares, 210, 28026",Arganzuela,Hamburguesa
+63,Hamburguesa Nostra,139,4.3,0.9,35–45,Dulce,€,"C/ Preciados 36,  28013",Arganzuela,Dulce
+64,La Tagliatella,15,3.9,2.4,25–35,Pizza,€€,"Paseo De Santa María De La Cabeza 14,  28012",Arganzuela,Pizza
+65,Arepish,186,4.4,1.4,25–35,SouthAmerica,€,"Paseo De Las Acacias, 22, 28005",Arganzuela,SouthAmerica
+66,McDonald's,200,4.4,1.4,15–25,Hamburguesa,€,"Calle Monederos 12,  28026",Arganzuela,Hamburguesa
+67,Precio Calidad y sabor,17,4.4,2.0,40–60,Mediterránea,€,"Calle De Mira El Sol, 1, 28005 ",Arganzuela,Mediterránea
+68,TAMCOC,28,3.1,1.4,45–55,Pizza,€,"Calle De La Alianza 33,  28041",Arganzuela,Pizza
+69,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Azabache, 6,  28019",Arganzuela,China
+70,Super Dog,25,3.7,1.4,30–50,Hamburguesa,€,"Calle Del Gral. Ricardos, 92,  28019",Arganzuela,Hamburguesa
+71,Autoservicio,77,4.8,2.4,30–40,Tienda,€,"Avenida De Rafaela Ybarra 37,  28026",Arganzuela,Tienda
+72,Perla del Pacifico,66,4.1,2.4,40–50,SouthAmerica,€€€,"Avenida De Oporto 14,  28019",Arganzuela,SouthAmerica
+73,TROPICALISSIMA,84,4.4,2.4,35–45,Hamburguesa,€,"Paseo De Santa María De La Cabeza, 86,  28045",Arganzuela,Hamburguesa
+74,Beiben,14,4.2,0.4,25–35,Mediterránea,€,"Calle Del Pico De La Maliciosa 6,  28038",Arganzuela,Mediterránea
+75,Streat Lab,50,4.6,2.9,50–60,Pollo,€,"Calle Mayor, 38, 28013",Arganzuela,Pollo
+76,Popeyes,200,4.3,2.4,55–65,Pollo,€,"Calle Felipe Fraile 5,  28038",Arganzuela,Pollo
+77,On Rush,14,4.8,2.4,50–60,Burritos,€,"Avenida De La Albufera, 40,  28038",Arganzuela,Burritos
+78,El Sabroso Albufera,30,3.9,2.9,30–40,Comida rápida,€,"Calle Núñez De Arce, 11, 28012 ",Arganzuela,Comida rápida
+79,Pizzería Argentina El Trébol,24,4.3,2.99,35–55,Pizza,€,"Calle Dos Hermanas, 22, 28012 ",Arganzuela,Pizza
+80,La Alegría de la Huerta,28,3.1,1.9,30–40,Ensaladas,€,"Travesía De La Parada 6,  28015",Arganzuela,Ensaladas
+81,EL LATÓN GRIS,66,3.7,2.4,70–80,Pollo,€,"Calle Del Mesón De Paredes 52, 28012",Arganzuela,Pollo
+82,Mandela 100,28,3.1,1.4,40–50,India,€,"Calle De Mira El Sol 23b,  28005",Arganzuela,India
+83,La Cochinita Loca,19,4.3,1.4,40–50,SouthAmerica,€,"C/ Ejos 15, 28026",Arganzuela,SouthAmerica
+84,Pollo Rico Al carbón,68,4.5,1.9,40–50,Pollo,€,"Calle De Moncada 122,  28021",Arganzuela,Pollo
+85,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle De La Antracita 12,  28045",Arganzuela,Pollo
+86,Empanadas Malvón,31,5.0,1.4,25–35,Empanada,€,"Calle Del Dr Cortezo, 7,  28012",Arganzuela,Empanada
+87,El Turkito,200,4.1,1.9,40–50,Asiática,€,"Calle De La Cruz, 20,  28012",Arganzuela,Asiática
+88,Galipan,23,4.2,1.9,55–65,India,€,"Calle Gran Vía, 16,  28004",Arganzuela,India
+89,Steak Burger,168,4.2,2.4,55–65,Hamburguesa,€,"Calle De Antonio López 109,  28026",Arganzuela,Hamburguesa
+90,Pollo Criollo,28,3.1,1.4,45–55,Pollo,€,"Calle De Núñez De Arce 11,  28012",Arganzuela,Pollo
+91,Empanadas BAIRES,28,3.1,2.99,35–55,Empanada,€,"Calle De Tudescos, 4,  28004",Arganzuela,Empanada
+92,Super naan,30,3.1,2.4,65–75,India,€,"Calle De Lavapiés 34,  28012",Arganzuela,India
+93,Sonali Indian Restaurante,58,4.1,1.4,30–40,India,€€,"Calle De Los Donados 2,  28013",Arganzuela,India
+94,Cor & Cor,30,3.1,2.4,55–65,Dulce,€,"Calle Libertad, 9, 28004",Arganzuela,Dulce
+95,Puccias Chueca,30,3.1,2.4,40–50,Hamburguesa,€,"Ronda De Valencia, 14,  28012",Arganzuela,Hamburguesa
+96,Aloha Poke,200,4.5,1.4,20–30,Poke,€,"Calle De Atocha 98,  28014",Arganzuela,Poke
+97,Capasso Pizza,30,3.1,1.4,35–45,Pizza,€,"Calle De Lavapiés, 34,  28012",Arganzuela,Pizza
+98,Shapla Indian,31,4.3,1.4,35–45,Pizza,€,"Calle Arechavaleta 6,  28041",Arganzuela,Pizza
+99,Pura Italia,109,3.2,1.9,35–55,Pizza,€,"Plaza Del Comandante Las Morenas 3,  28013",Arganzuela,Pizza
+100,Pollo Criollo,30,3.1,1.9,60–70,Pollo,€,"Plaza De La Cebada, 10,  28005",Arganzuela,Pollo
+101,Taberna La Buha,24,4.2,1.9,55–65,Mediterránea,€,"Calle Ariel,15,  28045",Arganzuela,Mediterránea
+102,El Buen Gusto,17,4.5,1.9,45–55,Mediterránea,€,"Calle De Palos De La Frontera 38, 28045",Arganzuela,Mediterránea
+103,La Pizza é Bella,12,4.5,1.4,25–35,Pizza,€,"Calle Mayor, 42,  28013",Arganzuela,Pizza
+104,Las Muns,30,3.1,2.4,50–60,Carne,€,"Calle De Atocha, 117,  28012",Arganzuela,Carne
+105,Halal Steak House Grill,30,3.1,1.4,30–40,Carne,€,"Calle De Silva, 25,  28004",Arganzuela,Carne
+106,Home Burger Bar,200,4.3,2.4,60–70,Hamburguesa,€,"Plaza De Puerta Cerrada 6,  28005",Arganzuela,Hamburguesa
+107,LaRegustosa,26,4.2,1.9,60–70,Empanada,€,"Calle De Embajadores, 12, 28012",Arganzuela,Empanada
+108,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Plaza Del Emperador Carlos V, 10, 28012",Retiro,Pizza
+109,Scarlett Real Food,30,3.1,1.4,35–45,Dulce,€,"Calle De Cáceres 1,  28045",Retiro,Dulce
+110,Comida china yonghe,50,4.3,0.9,25–35,China,€,"Calle Cáceres, 34, 28045",Retiro,China
+111,Ristorante Pizzería Dante,61,4.1,2.4,40–60,Pizza,€,"Paseo Del Doctor Vallejo Nágera, 25 ,  28005",Retiro,Pizza
+112,Papa John's,200,4.3,0.9,20–30,Pizza,€,"Paseo Delicias, 65,  28045",Retiro,Pizza
+113,Domino's,33,4.3,1.0,15–35,Pizza,€,"Calle Azulejo 2,  28028",Retiro,Pizza
+114,Pizzería Argentina El Trébol,30,3.1,1.9,40–50,Pizza,€,"Calle De Cáceres 1,  28045",Retiro,Pizza
+115,Comida china yonghe,50,4.3,1.9,40–50,China,€€€,"Calle De La Alianza 33,  28041",Retiro,China
+116,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Del Pico De La Maliciosa 6,  28038",Retiro,China
+117,Streat Lab,50,4.6,1.9,40–50,Pollo,€,"Calle Azabache, 6,  28019",Retiro,Pollo
+118,Super Dog,25,3.7,4.25,30–50,Hamburguesa,€,"Calle Felipe Fraile 5,  28038",Retiro,Hamburguesa
+119,On Rush,14,4.8,1.4,40–50,Burritos,€,"Avenida De La Albufera, 40, 28038",Retiro,Burritos
+120,El Sabroso Albufera,30,3.9,1.9,20–30,Comida rápida,€,"Paseo De Santa María De La Cabeza 14, 28012",Retiro,Comida rápida
+121,Arepish,186,4.4,1.9,35–45,SouthAmerica,€,"Av. De La Albufera, 91,  28053",Retiro,SouthAmerica
+122,Pizz-a-porter,30,3.1,1.9,40–50,Pizza,€,"Calle De Mira El Sol, 1, 28005 ",Retiro,Pizza
+123,TAMCOC,30,3.1,2.4,55–65,Pizza,€,"Calle Alcala 191, 28006",Retiro,Pizza
+124,Pastamore,98,4.6,1.9,30–40,Pizza,€,"Calle Cáceres, 34, 28045",Retiro,Pizza
+125,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle Azulejo 2,  28028",Retiro,Pizza
+126,Empanadas BAIRES,30,3.1,1.9,45–55,Empanada,€,"Calle De Ayala 28,  28001",Retiro,Empanada
+127,SANABRIA,30,3.1,2.4,50–60,Mediterránea,€€€,"Calle Dos Hermanas, 22, 28012 , España,   28012",Retiro,Mediterránea
+128,La Alegría de la Huerta,30,3.1,2.9,40–50,Ensaladas,€,"Calle De Moncada 122,  28021",Retiro,Ensaladas
+129,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Calle De Narváez, 60, 28009",Retiro,Pollo
+130,Empanadas Malvón,35,4.8,1.4,25–35,Empanada,€,"Calle Gran Vía, 16, 28004",Retiro,Empanada
+131,Steak Burger,168,4.2,2.4,55–65,Hamburguesa,€,"Calle Del Pico De La Maliciosa 6,  28038",Retiro,Hamburguesa
+132,Bur Burger,50,4.4,2.4,40–50,Hamburguesa,€,"Calle De Núñez De Arce 11,  28012",Retiro,Hamburguesa
+133,Empanadas BAIRES,30,3.1,2.99,35–55,Empanada,€,"Calle De La Cruz, 20,  28012",Retiro,Empanada
+134,Galipan,23,4.2,2.4,60–70,India,€,"Calle Del Dr Cortezo, 7,  28012",Retiro,India
+135,El Turkito,200,4.1,2.4,50–60,Asiática,€,"Paseo De Santa María De La Cabeza, 86, 28045",Retiro,Asiática
+136,Beiben,14,4.2,2.4,35–45,Mediterránea,€,"Calle Del Mesón De Paredes 52,  28012",Retiro,Mediterránea
+137,Mandela 100,30,3.1,2.4,50–60,India,€,"Calle De Lavapiés 34, 28012",Retiro,India
+138,Sonali Indian Restaurante,58,4.1,2.4,40–50,India,€€,"Av. De La Albufera, 20,  28053",Retiro,India
+139,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Calle De Mira El Sol 23b, 28005",Retiro,Pollo
+140,La Cochinita Loca,19,4.3,2.4,45–55,SouthAmerica,€,"Calle De Las Naciones 5,  28006",Retiro,SouthAmerica
+141,PaellaGood,30,3.1,1.9,45–55,Mediterránea,€€,"Paseo Del Marqués De Zafra 38, 28028",Retiro,SouthAmerica
+142,DIVE`S FOOD,30,3.1,1.9,40–50,Hamburguesa,€,"Calle Lopez de Hoyos 15, 28006",Retiro,Hamburguesa
+143,100 % Sano,30,3.1,1.9,35–45,Ensaladas,€€,"Calle Libertad, 9, 28004",Retiro,Ensaladas
+144,Puccias Chueca,30,3.1,2.4,40–50,Hamburguesa,€,"Calle Del Gral. Pardiñas, 32, 28001",Retiro,Hamburguesa
+145,Rude Burger,36,4.8,1.9,35–45,Hamburguesa,€€,"Calle Conde De Penalver 35,  28006",Retiro,Hamburguesa
+146,Cor & Cor,35,4.3,1.9,45–55,Dulce,€,"Av. De La Albufera, 1, 28038",Retiro,Dulce
+147,McDonald's,200,4.4,1.4,20–30,Hamburguesa,€,"Calle Del Marqués De Mondéjar, 4,  28028",Retiro,Hamburguesa
+148,Thai Zafra,38,4.6,1.9,30–40,Pizza,€,"Calle Ariel,15,  28045",Retiro,Pizza
+149,El Buen Gusto,17,4.5,1.9,45–55,Mediterránea,€,"Avenida De La Albufera 119,  28038",Retiro,Mediterránea
+150,Kebab Rayo,117,3.8,2.4,35–45,Kebab,€,"Calle De Atocha 98,  28014",Retiro,Kebab
+151,Capasso Pizza,30,3.1,1.9,35–45,Pizza,€,"Calle De Lavapiés, 34, 28012",Retiro,Pizza
+152,Shapla Indian,31,4.3,2.4,40–50,Ensaladas,€,"Calle De Silva, 25, 28004",Retiro,Ensaladas
+153,Home Burger Bar,200,4.3,2.9,60–70,Hamburguesa,€,"Calle Del Dr. Esquerdo, 10, 28009",Retiro,Hamburguesa
+154,Empanadas Pampas,30,3.1,1.9,35–45,Empanada,€,"Calle Gran Vía, 22, 28004",Retiro,Empanada
+155,TGB,89,3.9,2.4,60–70,Hamburguesa,€,"Calle Hortaleza,6, 28004",Retiro,Hamburguesa
+156,Bosforos Turkish Restaurant,34,4.3,2.9,50–60,India,€,"Calle De Atocha, 117, 28012",Retiro,India
+157,Halal Steak House Grill,30,2.9,1.9,35–45,Carne,€,"Calle De Barceló 6, 28004",Retiro,Carne
+158,Mad Pollo,45,4.0,1.9,15–35,Pollo,€,"Av. Del Mediterráneo, 30, 28007",Retiro,Pollo
+159,Mahalo Poke,30,2.9,2.5,30–50,Poke,€€,"Calle Del Puerto De Balbarán 31,  28018",Retiro,Poke
+160,Kebab Entrevias,43,4.5,2.9,35–45,Kebab,€,"Calle De Santa Isabel, 5, 28012",Retiro,Kebab
+161,Moñetes,30,2.9,1.9,35–45,Pizza,€,"Calle De Embajadores, 15, 28045",Retiro,Pizza
+162,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Avda. Felipe II, 17, 28009",Salamanca,Pizza
+163,La Tagliatella,38,4.5,1.9,25–35,Pizza,€€,"Plaza Del Emperador Carlos V, 10, 28012",Salamanca,Pizza
+164,Scarlett Real Food,30,2.9,1.9,35–45,Dulce,€,"Calle Del Conde De Peñalver, 13, 28006",Salamanca,Dulce
+165,La Cuchara,30,2.9,2.4,40–50,Gourmet,€€€,"Alcalde Luis De Marichala 3,  28030",Salamanca,Gourmet
+166,Papa John's,127,4.1,1.4,35–45,Pizza,€,"Calle De Ángel González Tejedor 5,  28017",Salamanca,Pizza
+167,Taco Bell,200,4.2,1.9,25–35,Hamburguesa,€,"Plaza Del Emperador Carlos V, 10, 28012",Salamanca,Hamburguesa
+168,Scarlett Real Food,29,2.9,2.4,45–55,Dulce,€,"Calle Azulejo 2,  28028",Salamanca,Dulce
+169,Pizzería Argentina El Trébol,29,2.9,1.4,30–40,Pizza,€,"Calle De José Ortega Y Gasset 94, 28006",Salamanca,Pizza
+170,Empanadas Malvón,48,4.9,0.9,15–25,Empanada,€,"Calle De Luchana 17,  28010",Salamanca,Empanada
+171,Pizzart Luchana,29,2.9,2.4,55–65,Pizza,€,"Calle Alcala 191,  28006",Salamanca,Pizza
+172,Pastamore,98,4.6,0.9,15–25,Pizza,€,"Calle De San Andrés, 26, 28004",Salamanca,Pizza
+173,Roost Chicken,29,2.9,2.4,50–60,Pollo,€,"Plaza Emperador Carlos V, 11 , 28012",Salamanca,Pollo
+174,Taco Bell,200,4.2,2.4,35–45,Hamburguesa,€,"Calle De La Alianza 33, 28041",Salamanca,Hamburguesa
+175,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Plaza Bami, 26, 28017",Salamanca,China
+176,El Burrito Borracho,29,2.9,1.9,35–45,Burritos,€,"Calle De Azcona 36,  28028",Salamanca,Burritos
+177,Arepish,186,4.6,0.9,25–35,SouthAmerica,€,"Calle De Alcalá, 344,   28027",Salamanca,SouthAmerica
+178,Little Caesars Pizza,200,4.5,2.4,30–40,Pizza,€,"Calle Azulejo 2,  28028",Salamanca,Pizza
+179,Empanadas BAIRES,29,2.9,1.4,35–45,Empanada,€,"Calle De Ayala 28,  28001",Salamanca,Empanada
+180,SANABRIA,29,2.9,1.4,50–60,Mediterránea,€€€,"Calle Del Gral. Pardiñas, 32, 28001",Salamanca,Mediterránea
+181,Rude Burger,36,4.8,0.9,25–35,Hamburguesa,€€,"Calle Lopez de Hoyos 15, 28006",Salamanca,Hamburguesa
+182,100 % Sano,29,2.9,0.9,20–30,Ensaladas,€€,"Calle Conde De Penalver 35,  28006",Salamanca,Ensaladas
+183,Cor & Cor,35,4.3,0.4,35–45,Dulce,€,"López De Hoyos , 153,  28224",Salamanca,Dulce
+184,Popeyes,200,4.4,2.4,35–45,Pollo,€,"Calle Del Príncipe De Vergara, 210,   28002",Salamanca,Pollo
+185,Home Burger Bar,198,4.1,2.4,30–40,Hamburguesa,€,"Calle Maldonado 07, 28006",Salamanca,Hamburguesa
+186,Artisan Burger,29,2.9,0.9,40–50,Hamburguesa,€,"Calle Del Marqués De Mondéjar, 4, 28028",Salamanca,Hamburguesa
+187,Thai Zafra,38,4.6,0.9,15–25,Tienda,€,"Calle De Maldonado, 51, 28006",Salamanca,Tienda
+188,Tiendas 7x24,140,4.8,0.9,20–30,Tienda,€,"Calle De Velázquez, 118, 28006",Salamanca,Tienda
+189,Makan Saj Manoushe,200,4.9,1.4,30–40,India,€€,"Paseo Del Marqués De Zafra 38,  28028",Salamanca,India
+190,DIVE`S FOOD,29,2.9,1.4,35–45,Hamburguesa,€,"Calle De María De Molina, 44, 28006",Salamanca,Hamburguesa
+191,Flame,29,2.9,1.4,40–50,Hamburguesa,€,"Calle De Luchana 13,  28010",Salamanca,Hamburguesa
+192,Freedom Pizza,53,4.5,2.4,45–55,Pizza,€,"Calle Del Espíritu Santo 16,  28004",Salamanca,Pizza
+193,MY Pasta Room,59,4.6,2.4,50–60,Pizza,€,"Calle Gran Vía, 16,   28004",Salamanca,Pizza
+194,Steak Burger,168,4.2,2.4,55–65,Hamburguesa,€,"Calle De Goya, 70, 28001",Salamanca,Hamburguesa
+195,McDonald's,200,4.6,0.9,15–25,Hamburguesa,€,"Calle De Las Naciones 5,  28006",Salamanca,Hamburguesa
+196,PaellaGood,29,2.9,0.4,30–40,Mediterránea,€€,"Calle De Núñez De Arce 11,  28012",Salamanca,SouthAmerica
+197,Empanadas BAIRES,29,2.9,2.99,35–55,Empanada,€,"Calle De Carranza 3,  28004",Salamanca,Empanada
+198,Tiendas 7x24,70,4.6,2.4,45–55,Tienda,€,"Calle Del Dr. Esquerdo, 10, 28028",Salamanca,Tienda
+199,Empanadas Pampas,29,2.9,0.9,25–35,Empanada,€,"Calle Esteban Collantes, 31,  28017",Salamanca,Empanada
+200,Croqueteria Focos,29,2.9,2.9,35–45,Mediterránea,€,"Calle De La Cruz, 20,   28012",Salamanca,Mediterránea
+201,Galipan,23,4.2,2.9,60–70,India,€,"Calle De Tudescos, 4, 28004",Salamanca,India
+202,Super naan,29,2.9,2.4,60–70,India,€,"Calle Mateo García, 13, 28017",Salamanca,India
+203,Pollos Gourmet,29,2.9,1.9,30–40,Pollo,€,"Calle De Gonzalo De Berceo 63,  28017",Salamanca,Pollo
+204,Asador Perla del Pacifico Ascao,39,4.6,2.9,40–50,Carne,€,"Calle Libertad, 9, 28004",Salamanca,Carne
+205,Puccias Chueca,29,2.9,2.4,40–50,Hamburguesa,€,"Calle Del Cardenal Cisneros 1, 28010",Salamanca,Hamburguesa
+206,Graal,29,2.9,2.4,60–70,Kebab,€,"Calle De Méjico 20,  28028",Salamanca,Kebab
+207,Restaurante Chino Diamante,100,4.0,1.4,25–35,China,€,"Calle De José Abascal 31, 28003",Salamanca,China
+208,Junk Burger,31,4.3,1.9,45–55,Hamburguesa,€,"Calle De Hermosilla, 91, 28001",Salamanca,Hamburguesa
+209,Esmirna Doner Kebap,48,4.7,0.9,25–35,Kebab,€,"Av. De Felipe II, 8, 28009",Salamanca,Kebab
+210,Aloha Poke,200,4.7,0.9,20–30,Poke,€,"Calle Zabaleta 1,  28002",Salamanca,Poke
+211,CHUCK CHUCK CHICKEN,29,2.9,1.4,35–45,Pollo,€,"Calle Gran Vía, 22, 28004",Salamanca,Pollo
+212,TGB,89,3.9,2.4,65–75,Hamburguesa,€,"Calle Génova 27, 28010",Salamanca,Hamburguesa
+213,VIPS,16,4.8,1.9,50–60,Hamburguesa,€,"Calle De Atocha 98, 28014",Salamanca,Hamburguesa
+214,Capasso Pizza,29,2.9,2.4,45–55,Pizza,€,"Calle De La Virgen De La Fuencisla, 19,  28027",Salamanca,Pizza
+215,HyH Kebab Fried Chicken,23,3.6,1.0,40–60,Pollo,€,"Calle De José Calvo 6, 28039",Salamanca,Pollo
+216,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores, 17 , 28012",Chamartín,India
+217,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Avda. Felipe Ii, 17, 28009",Chamartín,Pizza
+218,La Tagliatella,38,4.5,0.9,25–35,Pizza,€€,"C/ Orense, 11, , Spain, Spain 28020",Chamartín,Pizza
+219,Papa John's,200,4.5,1.4,30–40,Pizza,€,"Calle Del Conde De Peñalver, 17, 28006",Chamartín,Pizza
+220,La Cuchara,29,2.9,2.9,40–50,Gourmet,€€€,"C/ Serrano, 203 , 28016",Chamartín,Gourmet
+221,Papa John's,200,4.3,0.9,25–35,Pizza,€,"Calle Del Conde De Serrallo, 1, 28029",Chamartín,Pizza
+222,Taberna Andaluza,25,4.4,1.4,40–50,Mediterránea,€,"Paseo De La Castellana 191,  28046",Chamartín,Mediterránea
+223,Taco Bell,200,4.1,1.4,25–35,Hamburguesa,€,"Calle Araucaria 19,  28039",Chamartín,Hamburguesa
+224,Roost Chicken,123,4.6,1.9,35–45,Pollo,€,"Av. De Brasil, 6, 28020",Chamartín,Pollo
+225,La Mordida,25,4.4,1.4,45–55,SouthAmerica,€,"Calle Del Príncipe De Vergara, 210,   28002",Chamartín,SouthAmerica
+226,Home Burger Bar,198,4.1,0.9,25–35,Hamburguesa,€,"Calle De Huesca, 19, Bajo,   28020",Chamartín,Hamburguesa
+227,La cabaña de cris,29,2.9,1.9,50–60,Mediterránea,€€€,"Calle De Bravo Murillo 199,  28039",Chamartín,Pollo
+228,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De Manuel De Falla 5,  28036",Chamartín,Pollo
+229,Limbo Player Two,29,2.9,0.9,45–55,Carne,€€,"Av. De Brasil, 17, 28020",Chamartín,Carne
+230,Ala Sushi,29,2.9,1.4,30–40,Asiática,€€,"Calle De Bravo Murillo, 113, 28039",Chamartín,Asiática
+231,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De La Infanta Mercedes, 17, 28020",Chamartín,Pizza
+232,Toro Burger Lounge,23,4.1,1.9,55–65,Hamburguesa,€,"Castellana, 123, 28046",Chamartín,Hamburguesa
+233,Popeyes,200,4.0,1.4,30–40,Pollo,€,"Calle Castilla,4 ,28039",Chamartín,Pollo
+234,MANKA,52,4.9,2.4,55–65,Pizza,€,"Paseo De La Castellana 130, 28046",Chamartín,Pizza
+235,Yakitoro,26,4.5,1.4,55–65,Asiática,€€€,"Calle De Francos Rodríguez, 42, 28039",Chamartín,Asiática
+236,EL ASADOR,40,2.9,2.4,60–70,Carne,€€€,"Calle Del Príncipe De Vergara 256,  28016",Chamartín,Carne
+237,Empanadas Malvón,12,5.0,0.9,20–30,Empanada,€,"Paseo De La Castellana, 210, 28036",Chamartín,Empanada
+238,Taberna del Volapié,40,2.9,1.4,40–50,Mediterránea,€€,"Calle De Azcona 36,  28028",Chamartín,Mediterránea
+239,Arepish,186,4.6,2.9,35–45,SouthAmerica,€,"Calle De Bravo Murillo 122, 28020",Chamartín,SouthAmerica
+240,Arepish,53,4.6,2.4,55–65,SouthAmerica,€,"Calle De San Germán, 64, 28020",Chamartín,SouthAmerica
+241,Fast chicken chain,40,2.9,1.9,45–55,Pollo,€,"Av. De Pío Xii, 4, 28016",Chamartín,Pollo
+242,McDonald's,150,4.5,0.9,20–30,Hamburguesa,€,"Calle De Raimundo Fernández Villaverde, 33, 28020",Chamartín,Hamburguesa
+243,Pizza Central,22,3.1,2.4,50–60,Pizza,€,"Calle De Velázquez, 118, 28006",Chamartín,Pizza
+244,Makan Saj Manoushe,200,4.9,2.4,30–40,India,€€,"Calle De María De Molina, 44, 28006",Chamartín,India
+245,Flame,40,2.9,2.4,45–55,Hamburguesa,€,"Intercambiador De Plaza De Castilla, 28046",Chamartín,Hamburguesa
+246,Busburguer,98,4.5,1.4,30–40,Hamburguesa,€,"Calle De Lérida 58,  28020",Chamartín,Hamburguesa
+247,Polloco Gourmet,40,2.9,3.0,30–50,Pollo,€,"Calle De Maldonado, 51, 28006",Chamartín,Pollo
+248,Tiendas 7x24,140,4.8,2.9,30–40,Tienda,€,"Calle Maldonado 07, 28006",Chamartín,Tienda
+249,Artisan Burger,40,2.9,2.4,45–55,Hamburguesa,€,"Bravo Murillo, 120,  28020",Chamartín,Hamburguesa
+250,Pomodoro,87,3.8,2.4,55–65,Pizza,€,"Calle De José Abascal 31, 28003",Chamartín,Pizza
+251,Junk Burger,31,4.3,2.4,50–60,Hamburguesa,€,"Calle De María De Molina, 16, 28006",Chamartín,Hamburguesa
+252,Aloha Poke,163,4.5,2.4,40–50,Poke,€,"Calle De Barceló 6, 318,  28004",Chamartín,Poke
+253,Mad Pollo,45,4.0,2.4,15–35,Pollo,€,"Calle Zabaleta 1,  28002",Chamartín,Pollo
+254,CHUCK CHUCK CHICKEN,40,2.9,1.9,40–50,Pollo,€,"Calle De Arturo Soria, 189, 28043",Chamartín,Pollo
+255,Pasteleria Saul,27,4.2,1.9,25–35,Tienda,€,"Calle Bravo Murillo, 229, 28020",Chamartín,Tienda
+256,Galp,19,4.3,1.9,45–55,Tienda,€,"Calle Del Cactus, 42 ,  28039",Chamartín,Tienda
+257,Chili House🌶,40,2.9,1.9,45–55,SouthAmerica,€,"Calle De Méjico, 20,  28028",Chamartín,SouthAmerica
+258,Restaurante Chino Diamante,100,4.0,2.4,30–40,China,€,"Plaza Sagrado Corazón De Jesús, 2, 28002",Chamartín,China
+259,Foster's Hollywood,65,4.2,1.4,30–40,Hamburguesa,€€,"Calle Del Príncipe De Vergara 258,  28016",Chamartín,Hamburguesa
+260,Empanadas BAIRES,40,2.9,0.9,25–35,Empanada,€,"Calle Zabaleta 1,  28002",Chamartín,Empanada
+261,Golat Helados,40,2.9,1.9,35–45,Dulce,€,"Calle De San Andrés, 31, 28004",Chamartín,Dulce
+262,Pic & Nic,200,4.4,3.4,60–70,SouthAmerica,€,"Calle Zabaleta 1,  28002",Chamartín,SouthAmerica
+263,Frambons,40,2.9,1.9,35–45,Empanada,€,"Calle De Raimundo Fernández Villaverde 33,  28020",Chamartín,Empanada
+264,Empanadas BAIRES,13,4.0,2.4,55–65,Empanada,€,"Calle De Cartagena, 131, 28002",Chamartín,Empanada
+265,Doner kebap efes,23,4.7,1.9,25–35,Kebab,€,"Calle De López De Hoyos 11,  28006",Chamartín,Kebab
+266,Crepes & Waffles,19,4.5,2.4,45–55,Dulce,€,"Calle De López De Hoyos, 139, 28002",Chamartín,Dulce
+267,Doner kebap efes,30,4.6,1.9,30–40,Kebab,€,"Calle Bravo Murillo 218,  28020",Chamartín,Kebab
+268,Sultán kebab,19,3.0,1.9,30–40,Kebab,€,"Calle De Bravo Murillo, 215, 28020",Chamartín,Kebab
+269,Great Kebab,40,2.9,1.9,40–50,Kebab,€,"Calle De José Calvo 6,  28039",Chamartín,Kebab
+270,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De Embajadores, 28012",Tetuán,India
+271,TUTTO PASTA!,26,2.8,2.6,40–60,Pizza,€,"Calle De José Calvo 10, 28039",Tetuán,Pizza
+272,Comida de Pueblo,40,3.5,2.4,40–50,Gourmet,€€,"C/ Orense, 11, 28020",Tetuán,Gourmet
+273,La Tagliatella,61,4.2,1.9,25–35,Pizza,€€,"C/ Orense, 11, 28020",Tetuán,Pizza
+274,La Cuchara,40,3.5,2.9,40–50,Gourmet,€€€,"C/ Orense, 11, 28020",Tetuán,Gourmet
+275,La Tagliatella,61,3.8,1.4,25–35,Pizza,€€,"Paseo De La Castellana 191, 28046",Tetuán,Pizza
+276,Taco Bell,200,4.1,1.4,20–30,Hamburguesa,€,"Calle De Bravo Murillo 250,  28020",Tetuán,Hamburguesa
+277,Empanadas Malvón,25,4.7,0.4,25–35,Empanada,€,"Av. De Brasil, 6, 28020",Tetuán,Empanada
+278,La Mordida,25,4.4,0.9,45–55,SouthAmerica,€,"Calle De Bravo Murillo, 206, 28020",Tetuán,SouthAmerica
+279,Express 88,60,4.6,0.9,30–40,SouthAmerica,€,"Calle De Huesca, 19, Bajo, 28020",Tetuán,SouthAmerica
+280,La cabaña de cris,40,3.5,0.9,35–45,Mediterránea,€€€,"Calle De Bravo Murillo 199,  28039",Tetuán,Pollo
+281,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De La Infanta Mercedes 17, 28020",Tetuán,Pollo
+282,Toro Burger Lounge,23,4.1,0.9,50–60,Hamburguesa,€,"Calle De Raimundo Fernández Villaverde, 33, 28020",Tetuán,Hamburguesa
+283,Pizzería El Trébol 24h,18,4.4,1.4,35–45,Pizza,€,"Av. De Brasil, 17, 28020",Tetuán,Pizza
+284,Ala Sushi,40,3.5,0.9,30–40,Asiática,€€,"Calle Castilla,4 , 28039",Tetuán,Asiática
+285,MANKA,52,4.9,0.9,40–50,Pizza,€,"Calle De Bravo Murillo, 113, 28039",Tetuán,Pizza
+286,Little Caesars Pizza,200,4.6,3.0,15–25,Pizza,€,"Calle De Francos Rodríguez, 42, 28039",Tetuán,Pizza
+287,EL ASADOR,40,3.5,0.9,55–65,Carne,€€€,"Calle De Manuel De Falla 5,  28036",Tetuán,Carne
+288,Limbo Player Two,40,3.5,1.4,45–55,Carne,€€,"Castellana, 123, 28046",Tetuán,Carne
+289,Popeyes,200,4.0,0.9,25–35,Pollo,€,"Calle De San Germán, 64, 28020",Tetuán,Pollo
+290,Fast chicken chain,40,3.5,0.9,35–45,Pollo,€,"Paseo De La Castellana 130, 28046",Tetuán,Pollo
+291,Yakitoro,26,4.5,1.4,55–65,Asiática,€€€,"Calle Del Príncipe De Vergara, 210, 28002",Tetuán,Asiática
+292,Home Burger Bar,198,4.1,1.9,35–45,Hamburguesa,€,"Calle De Bravo Murillo 122, 28020",Tetuán,Hamburguesa
+293,Arepish,53,4.6,1.4,40–50,SouthAmerica,€,"C.C. La Vaguada, Av. De Monforte De Lemos, 32, 28029",Tetuán,SouthAmerica
+294,TGB,66,4.1,2.4,50–60,Hamburguesa,€,"Calle De Galería De Vallehermoso 4, 28003",Tetuán,Hamburguesa
+295,Real Fried Chicken,15,4.3,2.4,50–60,Pollo,€,"Avenida De Monforte De Lemos 36, 28029",Tetuán,Pollo
+296,Pollo Criollo,40,3.5,2.4,55–65,Pollo,€,"Calle De Lérida 58,  28020",Tetuán,Pollo
+297,Polloco Gourmet,40,3.5,3.0,30–50,Pollo,€,"Paseo De La Castellana, 210, 28036",Tetuán,Pollo
+298,Taberna del Volapié,40,3.5,1.4,40–50,Mediterránea,€€,"Calle De Cea Bermúdez 49, 28015",Tetuán,Mediterránea
+299,Cerveceria Riaño,40,3.5,2.9,40–50,Tienda,€,"Calle Bravo Murillo, 229, 28020",Tetuán,Tienda
+300,Galp,19,4.3,0.9,35–45,Tienda,€,"Calle De Bravo Murillo, 274, 28020",Tetuán,Tienda
+301,McDonald's,200,4.2,0.4,20–30,Hamburguesa,€,"Intercambiador De Plaza De Castilla, 28046 ",Tetuán,Hamburguesa
+302,Busburguer,98,4.5,1.4,25–35,Hamburguesa,€,"Calle De José Abascal 31, 28003",Tetuán,Hamburguesa
+303,Junk Burger,31,4.3,1.9,45–55,Hamburguesa,€,"Calle Del Cactus 42,  28039",Tetuán,Hamburguesa
+304,Chili House🌶,40,3.5,0.9,35–45,SouthAmerica,€,"Bravo Murillo, 120,  28020",Tetuán,SouthAmerica
+305,Pomodoro,87,3.8,1.4,40–50,Pizza,€,"Calle De Galileo, 75, 28015",Tetuán,Pizza
+306,Tosty,40,3.5,2.4,50–60,Pollo,€,"Calle De Barceló 6,  28004",Tetuán,Pollo
+307,Mad Pollo,45,4.0,1.4,15–35,Pollo,€,"Calle De María De Molina, 16, 28006",Tetuán,Pollo
+308,Aloha Poke,163,4.5,2.4,40–50,Poke,€,"Calle De San Andrés, 31, 28004",Tetuán,Poke
+309,Pic & Nic,200,4.4,2.9,55–65,SouthAmerica,€,"Plaza Sagrado Corazón De Jesús, 2, 28002",Tetuán,SouthAmerica
+310,Foster's Hollywood,65,4.2,2.4,35–45,Hamburguesa,€€,"Paseo De S. Fco. De Sales, 3, 28003 ",Tetuán,Hamburguesa
+311,Taste of America,40,3.5,2.4,35–45,Tienda,€€,"Calle De Raimundo Fernández Villaverde 33,  28020",Tetuán,Hamburguesa
+312,Empanadas BAIRES,13,4.0,1.4,45–55,Empanada,€,"Calle Bravo Murillo 218,  28020",Tetuán,Empanada
+313,Sultán kebab,19,3.0,0.9,25–35,Kebab,€,"Calle De Bravo Murillo, 34, 28015",Tetuán,Kebab
+314,Astros,40,3.5,2.4,45–55,Comida rápida,€,"Calle Del Príncipe De Vergara 258,  28016",Tetuán,Comida rápida
+315,Empanadas BAIRES,40,3.5,1.9,35–45,Empanada,€,"Paseo De S. Fco. De Sales, 17, 28003",Tetuán,Empanada
+316,Cherry Pecas,92,4.4,2.4,30–40,Comida rápida,€,"Calle De José Calvo 10,  28039",Tetuán,Comida rápida
+317,Pops ´n Bops,40,3.5,0.9,45–55,Asiática,€,"Calle De Bravo Murillo, 215, 28020",Tetuán,Asiática
+318,Great Kebab,40,3.5,0.9,35–45,Kebab,€,"Calle De Bravo Murillo 193, 28039",Tetuán,Kebab
+319,"Real Estambul Pizza, Doner y Kebab",15,3.4,0.9,40–50,SouthAmerica,€,"Cc La Vaguada Av Monforte De Lemos 36,  28029",Tetuán,SouthAmerica
+320,Willy Factory,40,3.5,2.4,40–50,Tienda,€,"Av. De Betanzos, 31, 28029 ",Tetuán,Tienda
+321,Kebab Rico Rico,44,4.4,0.9,40–50,Kebab,€,"Calle Federico Sainz De Robles 3, 28035",Tetuán,Kebab
+322,Oriental Palace,167,4.4,2.4,40–50,Asiática,€€€,"Calle De La Infanta Mercedes, 103, 28020",Tetuán,Asiática
+323,Pizzeria Nuns,40,3.5,0.9,40–50,Pizza,€,"Calle De José Calvo 6, 28039",Tetuán,Pizza
+324,Badsha India Restaurant,200,4.4,2.4,40–50,India,€,"Calle De José Calvo 10, 28039",Chamberí,India
+325,Comida de Pueblo,40,3.5,0.9,25–35,Gourmet,€€,"Calle Araucaria 19,  28039",Chamberí,Gourmet
+326,Roost Chicken,123,4.6,0.4,25–35,Pollo,€,"C/ Marqués De Viana, 76 , 28039",Chamberí,Pollo
+327,Papa John's,200,4.2,0.9,30–40,Pizza,€,"Calle Del Conde De Serrallo, 1, 28029",Chamberí,Pizza
+328,Taberna Andaluza,25,4.4,1.4,35–45,Mediterránea,€,"Calle Del Conde De Peñalver, 13, 28006",Chamberí,Mediterránea
+329,La Tagliatella,61,4.2,1.4,25–35,Pizza,€€,"C/ Orense, 11, 28020",Chamberí,Pizza
+330,La Tagliatella,61,4.2,0.9,25–35,Pizza,€€,"C/ Galileo, 15 , 28015",Chamberí,Pizza
+331,Papa John's,200,4.3,0.4,30–40,Pizza,€,"Calle De San Andrés, 26, 28004",Chamberí,Pizza
+332,Roost Chicken,40,3.5,0.9,40–50,Pollo,€,"Calle De Toledo 27,  28012",Chamberí,Pollo
+333,Fritz Foods,41,4.5,1.9,50–60,Pizza,€,"Calle Araucaria 19,  28039",Chamberí,Pizza
+334,Roost Chicken,123,4.6,1.9,40–50,Pollo,€,"Calle De Raimundo Fernández Villaverde, 33, 28020",Chamberí,Pollo
+335,Pizzería El Trébol 24h,18,4.4,0.9,35–45,Pizza,€,"Calle De Arriaza, 6, 28008",Chamberí,Pizza
+336,El Imperio de la Empanada,40,3.5,1.4,55–65,Empanada,€,"Hilarion Eslava 42,  28015",Chamberí,Empanada
+337,CONVEXO,69,4.6,0.9,35–45,Gourmet,€€€,"Calle De Galería De Vallehermoso 4, 28003",Chamberí,Gourmet
+338,Real Fried Chicken,15,4.3,0.4,40–50,Pollo,€,"Calle De La Alianza 33, 28041",Chamberí,Pollo
+339,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Av. De Brasil, 6, 28020",Chamberí,China
+340,La Mordida,25,4.4,1.4,55–65,SouthAmerica,€,"Calle De Carranza 3,  28004",Chamberí,SouthAmerica
+341,Tiendas 7x24,70,4.6,0.9,35–45,Tienda,€,"Calle De Bravo Murillo, 113, 28039",Chamberí,Tienda
+342,Little Caesars Pizza,200,4.6,0.9,40–50,Pizza,€,"Calle Azabache, 6, 28019",Chamberí,Pizza
+343,Super Dog,25,3.7,2.4,40–50,Hamburguesa,€,"Calle De Bravo Murillo 199,  28039",Chamberí,Hamburguesa
+344,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle Andrés Mellado 43,  28015",Chamberí,Pollo
+345,La Bruja del Vesuvio,15,3.5,0.9,35–45,Comida rápida,€,"Calle De Luchana 13,  28010",Chamberí,Comida rápida
+346,Freedom Pizza,53,4.5,0.4,35–45,Pizza,€,"Calle De Huesca, 19, 28020",Chamberí,Pizza
+347,La cabaña de cris,15,3.5,1.9,50–60,Mediterránea,€€€,"P.º De La Florida, 2, 28008",Chamberí,Pollo
+348,KFC - Principe Pio,15,3.5,1.9,55–65,Pollo,€,"Calle De La Infanta Mercedes 17, 28020",Chamberí,Pollo
+349,Toro Burger Lounge,23,4.1,1.4,55–65,Hamburguesa,€,"Travesía De La Parada 6,  28015",Chamberí,Hamburguesa
+350,EL LATÓN GRIS,66,3.7,1.4,55–65,Pollo,€,"Calle De Francos Rodríguez, 42, 28039",Chamberí,Pollo
+351,EL ASADOR,15,3.5,1.9,60–70,Carne,€€€,"Calle Castilla,4 , 28039",Chamberí,Carne
+352,MANKA,52,4.9,1.4,40–50,Pizza,€,"Calle Del Cardenal Cisneros 1, 28010",Chamberí,Pizza
+353,Graal,15,3.5,0.9,45–55,Kebab,€,"Av. De Brasil, 17, 28020",Chamberí,Kebab
+354,Ala Sushi,15,3.5,0.9,40–50,Asiática,€€,"Calle De Sta Engracia, 108, 28003",Chamberí,Asiática
+355,Home Burger Bar,181,4.1,2.4,40–50,Hamburguesa,€,"Calle De Luchana 3,  28010",Chamberí,Hamburguesa
+356,Empanadas Malvón,32,4.8,0.4,30–40,Empanada,€,"Av. De Filipinas, 30, 28003",Chamberí,Empanada
+357,Tiendas 7x24,62,4.5,0.4,25–35,Tienda,€,"Calle De Ayala 28,  28001",Chamberí,Tienda
+358,SANABRIA,15,3.5,1.4,50–60,Mediterránea,€€€,"Calle Del Espíritu Santo 16, 28004",Chamberí,Mediterránea
+359,MY Pasta Room,59,4.6,0.9,35–45,Pizza,€,"Calle De Manuel De Falla 5,  28036",Chamberí,Pizza
+360,Limbo Player Two,15,3.5,1.9,50–60,Carne,€,"Calle De José Abascal 31, 28003",Chamberí,Carne
+361,Junk Burger,31,4.3,1.9,50–60,Hamburguesa,€,"Calle De Bravo Murillo, 100, 28020",Chamberí,Hamburguesa
+362,Popeyes,200,4.2,0.9,35–45,Pollo,€,"Calle De Bravo Murillo 122,  28020",Chamberí,Pollo
+363,Arepish,53,4.6,0.9,40–50,SouthAmerica,€,"Calle De Cea Bermúdez 49, 28015",Chamberí,SouthAmerica
+364,Cerveceria Riaño,15,3.5,0.9,30–40,Tienda,€,"Paseo De La Castellana 130, 28046",Chamberí,Tienda
+365,Yakitoro,26,4.5,1.4,55–65,Asiática,€€€,"Calle De Tudescos, 4, 28004",Chamberí,Asiática
+366,Super naan,15,3.5,1.4,60–70,India,€,"Calle Gran Vía, 16, 28004",Chamberí,India
+367,Steak Burger,168,4.2,1.9,50–60,Hamburguesa,€,"Calle De San Bernardino, 20, 28015",Chamberí,Hamburguesa
+368,MILA TOWN,15,3.5,0.9,35–45,Hamburguesa,€,"Calle De La Cruz, 20, Local 1, 28012",Chamberí,Hamburguesa
+369,Galipan,23,4.2,1.9,70–80,India,€,"Calle Gran Vía 74, Local, 28015",Chamberí,India
+370,Trek Taco,15,3.5,1.4,45–55,SouthAmerica,€,"Calle Del Dr Cortezo, 7, 28012",Chamberí,SouthAmerica
+371,El Turkito,200,4.1,1.9,50–60,Asiática,€,"Calle Maldonado 07, 28006",Chamberí,Asiática
+372,Artisan Burger,15,3.5,0.9,45–55,Hamburguesa,€,"Calle De Velázquez, 118, 28006",Chamberí,Hamburguesa
+373,Makan Saj Manoushe,200,4.9,1.4,30–40,India,€€,"Calle De Azcona 36,  28028",Chamberí,India
+374,Arepish,186,4.6,2.4,35–45,SouthAmerica,€,"Calle De Los Donados 2,  28013",Chamberí,SouthAmerica
+375,Cor & Cor,15,3.5,1.4,55–65,Dulce,€,"Calle De Galileo, 75,  28015",Chamberí,Dulce
+376,Tosty,15,3.5,0.4,40–50,Pollo,€,"Calle De San Germán, 64, 28020",Chamberí,Pollo
+377,Fast chicken chain,15,3.5,1.9,45–55,Pollo,€,"Calle De José Calvo 6, 28039",Chamberí,Pollo
+378,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle Bravo Murillo 108, 28020",Moncloa-Aravaca,India
+379,Taco Bell,200,4.3,0.9,30–40,Hamburguesa,€,"Calle De Embajadores, 13, 28012",Moncloa-Aravaca,Hamburguesa
+380,TUTTO PASTA!,26,2.8,2.6,40–60,Pizza,€,"Calle De José Calvo 10,  28039",Moncloa-Aravaca,Pizza
+381,Comida de Pueblo,15,3.5,1.9,35–45,Gourmet,€€,"Calle De Isaac Peral, 4, 28015",Moncloa-Aravaca,Gourmet
+382,Pizzart Luchana,15,3.5,0.4,35–45,Pizza,€,"Calle De Isaac Peral 4, 28015",Moncloa-Aravaca,Pizza
+383,Taco Bell,200,4.1,2.4,35–45,Hamburguesa,€,"Hilarion Eslava 42,  28015",Moncloa-Aravaca,Hamburguesa
+384,CONVEXO,69,4.6,2.9,35–45,Gourmet,€€€,"Calle De Bravo Murillo 199,  28039",Moncloa-Aravaca,Gourmet
+385,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De Bravo Murillo, 113, 28039",Moncloa-Aravaca,Pollo
+386,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De Francos Rodríguez, 42,  28039",Moncloa-Aravaca,Pizza
+387,EL ASADOR,15,3.5,2.9,60–70,Carne,€€€,"Calle Castilla,4 ,28039",Moncloa-Aravaca,Carne
+388,MANKA,52,4.9,2.9,55–65,Pizza,€,"Calle De Galería De Vallehermoso 4, 28003",Moncloa-Aravaca,Pizza
+389,Real Fried Chicken,15,4.3,2.9,45–55,Pollo,€,"Calle De La Infanta Mercedes 17, 28020",Moncloa-Aravaca,Pollo
+390,Toro Burger Lounge,23,4.1,2.9,60–70,Hamburguesa,€,"Calle De Huesca, 19, 28020",Moncloa-Aravaca,Hamburguesa
+391,La cabaña de cris,15,3.5,3.4,55–65,Mediterránea,€€€,"Calle Andrés Mellado 43, 28015",Moncloa-Aravaca,Pollo
+392,La Bruja del Vesuvio,15,3.5,2.9,45–55,Comida rápida,€,"Calle De Bravo Murillo 122,  28020",Moncloa-Aravaca,Comida rápida
+393,Arepish,53,4.6,2.9,50–60,SouthAmerica,€,"Calle De Bravo Murillo, 100, 28020",Moncloa-Aravaca,SouthAmerica
+394,Popeyes,200,4.2,2.9,40–50,Pollo,€,"Calle De Cea Bermúdez 49, 28015",Moncloa-Aravaca,Pollo
+395,Cerveceria Riaño,15,3.5,2.9,40–50,Tienda,€,"Calle De San Germán, 64, 28020",Moncloa-Aravaca,Tienda
+396,Fast chicken chain,15,3.5,2.9,50–60,Pollo,€,"Calle De Sta Engracia, 108, 28003",Moncloa-Aravaca,Pollo
+397,Home Burger Bar,181,4.1,3.4,45–55,Hamburguesa,€,"Calle Hilarión Eslava, 38, 28015",Moncloa-Aravaca,Hamburguesa
+398,Empanadas Malvón,21,4.7,2.4,30–40,Empanada,€,"Calle De Galileo, 75, 28015",Moncloa-Aravaca,Empanada
+399,Tosty,15,3.5,2.9,45–55,Pollo,€,"Calle Ferraz 43,  28008",Moncloa-Aravaca,Pollo
+400,Red Roo Australian Restaurant,15,3.5,2.9,45–55,Carne,€,"Calle De Lérida 58,  28020",Moncloa-Aravaca,Carne
+401,Polloco Gourmet,26,3.5,3.0,30–50,Pollo,€,"Bravo Murillo, 120,  28020",Moncloa-Aravaca,Pollo
+402,Pomodoro,87,3.8,2.9,50–60,Pizza,€,"Av. De Filipinas, 30, 28003",Moncloa-Aravaca,Pizza
+403,Tiendas 7x24,62,4.5,2.9,30–40,Tienda,€,"Calle De Barceló 6, 318,  28004",Moncloa-Aravaca,Tienda
+404,Mad Pollo,45,4.0,2.9,15–35,Pollo,€,"Calle De Raimundo Fernández Villaverde 33,  28020",Moncloa-Aravaca,Pollo
+405,El trébol empanadas,16,4.5,2.9,45–55,Comida rápida,€,"Calle De San Andrés, 31, 28004",Moncloa-Aravaca,Comida rápida
+406,Pic & Nic,200,4.4,3.4,55–65,SouthAmerica,€,"Paseo De S. Fco. De Sales, 3, 28003",Moncloa-Aravaca,SouthAmerica
+407,Taste of America,26,3.5,2.4,35–45,Tienda,€€,"Calle De Bravo Murillo, 34, 28015",Moncloa-Aravaca,Hamburguesa
+408,Astros,26,3.0,2.9,45–55,Comida rápida,€,"Calle De Guzmán El Bueno, 73, 28015",Moncloa-Aravaca,Comida rápida
+409,Aloha Poke,200,4.7,2.9,25–35,Poke,€,"Calle De Fernández De Los Ríos, 98, 28015",Moncloa-Aravaca,Poke
+410,Doner kebap efes,30,3.8,2.9,35–45,Kebab,€,"C. De La Princesa, 40, 28008",Moncloa-Aravaca,Kebab
+411,Starbucks,63,4.3,3.4,35–45,Dulce,€,"Paseo De S. Fco. De Sales, 17, 28003",Moncloa-Aravaca,Dulce
+412,Cherry Pecas,92,4.4,2.4,30–40,Comida rápida,€,"Calle De Vallehermoso, 42, 28015",Moncloa-Aravaca,Comida rápida
+413,Basically Just Burrito Bowls,26,3.0,2.9,45–55,Comida rápida,€,"Calle Bravo Murillo 218,  28020",Moncloa-Aravaca,Comida rápida
+414,Sultán kebab,19,3.0,2.9,35–45,Kebab,€,"Calle De Bravo Murillo, 215, 28020",Moncloa-Aravaca,Kebab
+415,Great Kebab,26,3.0,2.9,40–50,Kebab,€,"Calle De Bravo Murillo 193, 28039",Moncloa-Aravaca,Kebab
+416,"Real Estambul Pizza, Doner y Kebab",15,3.4,2.9,45–55,SouthAmerica,€,"Calle De José Calvo 10,  28039",Moncloa-Aravaca,SouthAmerica
+417,Pops ´n Bops,26,3.0,2.4,50–60,China,€,"Calle Federico Sainz De Robles 3, 28035",Moncloa-Aravaca,China
+418,Oriental Palace,167,4.4,2.9,45–55,Asiática,€€€,"Calle De Galileo 40,  28015",Moncloa-Aravaca,Asiática
+419,Shawarma palace,15,3.5,2.4,50–60,Hamburguesa,€,"Plaza Del Descubridor Diego De Ordás, 4, 28003",Moncloa-Aravaca,Hamburguesa
+420,Jimbo Smokehouse,68,4.7,2.9,45–55,Dulce,€,"Calle Jose Calvo 10,  28039",Moncloa-Aravaca,Dulce
+421,Napoli Gang by Bel Mondo,26,3.0,2.4,50–60,Pizza,€,"Calle Rodríguez San Pedro 44,  28015",Moncloa-Aravaca,Pizza
+422,Soda Bar,26,3.0,2.9,45–55,Comida rápida,€,"C. Del Dr. Ramón Castroviejo, 59, 28035",Moncloa-Aravaca,Comida rápida
+423,Danny’s Jazz,11,4.7,2.4,50–60,Mediterránea,€,"Calle Del Aviador Zorita 32,  28020",Moncloa-Aravaca,Mediterránea
+424,Ferreiro,26,3.0,3.4,35–45,Dulce,€,"Calle De Almansa 41,  28039",Moncloa-Aravaca,Dulce
+425,TeKeS,78,4.8,2.4,30–40,SouthAmerica,€,"Calle De Cándido Mateos 21,  28035",Moncloa-Aravaca,SouthAmerica
+426,Toropikaru Sushi,26,3.0,3.4,35–45,Pollo,€,"Calle Sorgo 53, Nave 2,  28029",Moncloa-Aravaca,Pollo
+427,NUBO Rolls,15,4.3,3.4,35–45,Comida rápida,€,"Calle De Santa Engracia 108,  28003",Moncloa-Aravaca,Comida rápida
+428,DITALY,26,3.0,2.4,30–40,Empanada,€,"Calle De Fernández De Los Ríos 85,  28015",Moncloa-Aravaca,Empanada
+429,Empanadas BAIRES,26,3.0,3.4,35–45,Empanada,€,"Calle De Ofelia Nieto, 42, 28039",Moncloa-Aravaca,Empanada
+430,Massburg,194,4.4,2.4,30–40,Hamburguesa,€,"Zabaleta 1,  28002",Moncloa-Aravaca,Hamburguesa
+431,Nola Smoke,199,4.2,1.0,15–35,Comida rápida,€,"Calle De José Calvo 6, 28039",Moncloa-Aravaca,Comida rápida
+432,Badsha India Restaurant,200,4.4,1.0,15–35,India,€,"Calle De José Calvo 10, 28039",Carabanchel,India
+433,Comida de Pueblo,26,3.0,2.4,35–45,Gourmet,€€,"Avenida De La Reina Victoria 68, 28040",Carabanchel,Gourmet
+434,Papa John's,200,4.4,1.9,35–45,Pizza,€,"Calle Araucaria 19,  28039",Carabanchel,Pizza
+435,Roost Chicken,123,4.6,2.9,40–50,Pollo,€,"Calle De Isaac Peral 4, 28015",Carabanchel,Pollo
+436,McDonald's,200,4.4,2.9,30–40,Hamburguesa,€,"Calle De Isaac Peral 4, 28015",Carabanchel,Hamburguesa
+437,Taco Bell,200,4.1,2.4,35–45,Hamburguesa,€,"Hilarion Eslava 42,  28015",Carabanchel,Hamburguesa
+438,CONVEXO,69,4.6,2.9,35–45,Gourmet,€€€,"Calle De Bravo Murillo 199,  28039",Carabanchel,Gourmet
+439,Pollos al Carbón,21,3.6,5.0,15–35,Pollo,€,"Calle De Bravo Murillo, 113, 28039",Carabanchel,Pollo
+440,Little Caesars Pizza,200,4.6,3.0,5–25,Pizza,€,"Calle De Francos Rodríguez, 42, 28039",Carabanchel,Pizza
+453,McDonald's,200,4.3,1.9,15–25,Hamburguesa,€,"Paseo De Santa María De La Cabeza, 86, 28045",Carabanchel,Hamburguesa
+454,Beiben,14,4.2,2.4,30–40,Mediterránea,€,"Calle De Mira El Sol 23, 28005",Carabanchel,Mediterránea
+455,La Cochinita Loca,19,4.3,2.4,45–55,SouthAmerica,€,"Calle De Guetaria 72,  28041",Carabanchel,SouthAmerica
+456,Pasta con todo 🍝,26,3.0,2.4,45–55,Pizza,€,"Calle Fragata, 11,  28019",Carabanchel,Pizza
+457,Latin kebab,25,4.0,1.4,30–40,Kebab,€,"Calle Arechavaleta 6,  28041",Carabanchel,Kebab
+458,Pura Italia,109,3.2,1.9,35–55,Pizza,€,"Calle De Antonio López 109,  28026",Carabanchel,Pizza
+459,Pollo Criollo,26,3.0,2.4,50–60,Pollo,€,"Calle De Juan Pascual De Mena 7, 28011",Carabanchel,Pollo
+460,Maha Kebab,11,4.3,2.4,20–30,Kebab,€,"Plaza De La Cebada, 10, 28005",Carabanchel,Kebab
+461,Taberna La Buha,24,4.2,2.4,60–70,Mediterránea,€,"Calle Mirasierra, 37, 28026",Carabanchel,Mediterránea
+462,Pizza Mirasierra,17,4.2,2.4,30–40,Pizza,€,"Calle De San Andrés, 31, 28004",Carabanchel,Pizza
+463,Pic & Nic,200,4.4,3.9,60–70,SouthAmerica,€,"Calle De Marcelo Usera 135,  28026",Carabanchel,SouthAmerica
+464,Pizz-a-porter,26,3.0,1.9,30–40,Pizza,€,"Calle De Don Pedro 11, 28005",Carabanchel,Pizza
+465,Tabaxo - Don Pedro,26,3.0,2.4,50–60,Dulce,€,"Paseo De Los Pontones, 24, 28005",Carabanchel,Dulce
+466,Taberna Piedra Pinta,26,3.0,1.9,45–55,India,€,"Calle Vía Carpetana, 226, 28047",Carabanchel,India
+467,Dinos Bar Kebab,26,3.0,2.5,40–60,Kebab,€,"Av. Oporto, 89, 28025",Carabanchel,Kebab
+468,Gran Oporto Kebab,29,3.7,1.4,25–35,Kebab,€,"Glorieta De Embajadores 4, 28012",Carabanchel,Kebab
+469,GALAXY KEBAB,17,4.5,2.9,30–40,Kebab,€,"Calle Vía Carpetana 81,  28047",Carabanchel,Kebab
+470,Bar y Kebab La Parada,23,3.0,1.4,15–25,Kebab,€,"Calle De Embajadores, 28, 28012",Carabanchel,Kebab
+471,Éccolo,28,4.2,2.4,50–60,Mediterránea,€,"Calle De La Ruda, 5, 28005",Carabanchel,Mediterránea
+472,Malacatin,19,4.9,1.9,45–55,Pizza,€,"Calle De Melilla, 47, 28005",Carabanchel,Pizza
+473,Le Crust,25,4.4,2.5,40–60,Hamburguesa,€,"Paseo De Los Melancólicos 7,  28005",Carabanchel,Hamburguesa
+474,Toro Burger Lounge,27,4.1,1.4,25–35,Hamburguesa,€,"Plaza De Cascorro, 16,  28005",Carabanchel,Hamburguesa
+475,Cor & Cor,11,4.3,2.9,30–40,Dulce,€,"Calle Campo De La Paloma 32,  28018",Carabanchel,Dulce
+476,Arepa Mix,38,3.9,1.4,15–25,SouthAmerica,€,"Calle De Ferroviarios 98,  28026",Carabanchel,SouthAmerica
+477,Bocadillos Ole,23,3.0,2.4,60–70,Mediterránea,€,"Calle De Dolores Barranco, 88, 28026",Carabanchel,Mediterránea
+478,IGo Pasta,89,4.5,2.4,30–40,Pizza,€€,"Calle De Santa Isabel, 5, 28012",Carabanchel,Pizza
+479,Yokaloka,23,3.6,3.9,60–70,Asiática,€€€,"Calle De Jaime Vera 12,  28011",Carabanchel,Asiática
+480,Burger Las Vegas,23,3.6,1.9,30–40,Hamburguesa,€,"Calle De Antonio López 109,  28026",Carabanchel,Hamburguesa
+481,Alice Pizza,23,3.6,2.4,50–60,Pizza,€,"Calle De Cáceres 5, 28045",Carabanchel,Pizza
+482,Herbívoro,23,3.6,1.9,45–55,Carne,€€€,"Paseo De Los Melancolicos 7,  28005",Carabanchel,Carne
+483,La Manousheria,23,3.6,2.5,40–60,Dulce,€,"Calle De Los Yébenes 150,  28047",Carabanchel,Dulce
+484,Popizza,23,3.6,0.9,30–40,Pollo,€,"Calle De Marcelo Usera 12,  28026",Carabanchel,Pollo
+485,Asador de Pollos,23,3.6,2.5,40–60,Pollo,€,"C/ General Ricardos, 159 , 28025",Carabanchel,Pollo
+486,Papa John's,200,4.3,0.9,30–40,Pizza,€,"Calle De Embajadores, 14 ,  28012",Usera,Pizza
+487,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Calle De Matilde Hernández 90, 28025",Usera,Pizza
+488,Restaurante Sabor K-Tracho,23,3.6,1.4,35–45,Tienda,€,"Calle Del Gral. Ricardos, 92,  28019",Usera,Tienda
+489,Autoservicio,77,4.8,0.9,15–25,Tienda,€,"Av. Del Manzanares, 210, 28026",Usera,Tienda
+490,Little Caesars Pizza,200,4.6,1.4,40–50,Pizza,€,"Calle De Cáceres 1,  28045",Usera,Pizza
+491,Comida china yonghe,50,4.3,2.4,40–50,China,€€€,"Calle De La Alianza 33,  28041",Usera,China
+492,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Paseo Del Doctor Vallejo Nágera, 25, 28005",Usera,China
+493,Papa John's,200,4.3,2.4,30–40,Pizza,€,"Avenida De Oporto 14, 28019",Usera,Pizza
+494,TROPICALISSIMA,84,4.4,1.4,30–40,Hamburguesa,€,"Calle Azabache, 6, 28019",Usera,Hamburguesa
+495,Super Dog,25,3.7,1.4,30–50,Hamburguesa,€,"Calle Del Gral. Ricardos, 92,  28019",Usera,Hamburguesa
+496,Autoservicio,77,4.8,2.4,30–40,Tienda,€,"Avenida De Orovilla 46, 28041",Usera,Tienda
+497,Burger 123,15,4.3,2.4,45–55,Hamburguesa,€,"C/ Ejos 15, 28026",Usera,Hamburguesa
+498,Pollo Rico Al carbón,68,4.5,0.9,40–50,Pollo,€,"Calle Cáceres, 34, 28045",Usera,Pollo
+499,Ristorante Pizzería Dante,61,4.1,2.4,45–55,Pizza,€,"Calle De Moncada 122,  28021",Usera,Pizza
+500,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Paseo De Santa María De La Cabeza, 86, 28045",Usera,Pollo
+501,Beiben,14,4.2,1.9,30–40,Mediterránea,€,"Calle De Guetaria 72,  28041",Usera,Mediterránea
+502,Pasta con todo 🍝,23,3.6,1.4,40–50,Pizza,€,"Calle De Antonio López 109,  28026",Usera,Pizza
+503,Pollo Criollo,23,3.6,1.4,45–55,Pollo,€,"Av. De Andalucía, 19, 28041",Usera,Pollo
+504,McDonald's,200,4.1,1.9,20–30,Hamburguesa,€,"Calle De La Antracita 12,  28045",Usera,Hamburguesa
+505,Empanadas Malvón,31,5.0,1.9,35–45,Empanada,€,"Calle Mirasierra, 37, 28026",Usera,Empanada
+506,Pizza Mirasierra,17,4.2,1.4,20–30,Pizza,€,"Calle Arechavaleta 6,  28041",Usera,Pizza
+507,Pura Italia,109,3.2,1.9,35–55,Pizza,€,"Travesía Arechavaleta 4,  28041",Usera,Pizza
+508,"Aqua, Farina e Forno",17,2.9,1.9,10–30,Pizza,€,"Calle Ariel,15,  28045",Usera,Pizza
+509,El Buen Gusto,17,4.5,2.4,50–60,Mediterránea,€,"Calle De Marcelo Usera 135,  28026",Usera,Mediterránea
+510,Pizz-a-porter,23,3.6,0.9,25–35,Pizza,€,"Calle De Palos De La Frontera 38,  28045",Usera,Pizza
+511,La Pizza é Bella,12,4.5,2.9,40–50,Pizza,€,"Paseo Del Molino, 1, 28045",Usera,Pizza
+512,Kebab Nemrut,81,4.3,1.9,25–35,Kebab,€,"Calle Vía Carpetana, 226, 28047",Usera,Kebab
+513,Dinos Bar Kebab,23,3.6,2.5,40–60,Kebab,€,"Glorieta De Embajadores 4, 28012",Usera,Kebab
+514,GALAXY KEBAB,17,4.5,2.9,30–40,Kebab,€,"Av. Oporto, 89, 28025",Usera,Kebab
+515,Gran Oporto Kebab,29,3.7,2.9,35–45,Kebab,€,"Calle De José Antonio De Armona 12,  28012",Usera,Kebab
+516,Ramen Kagura,23,3.6,1.4,45–55,Ensaladas,€,"Calle De Tarragona 36,  28045",Usera,Ensaladas
+517,RAVIOLUZIONE,40,4.2,1.9,20–30,Pizza,€,"Calle De Melilla, 47, 28005",Usera,Pizza
+518,Le Crust,25,4.4,1.9,35–45,Hamburguesa,€,"Calle Campo De La Paloma 32,  28018",Usera,Hamburguesa
+519,Arepa Mix,38,3.9,1.4,20–30,SouthAmerica,€,"Centro Comercial Plaza Rio 2, 28026",Usera,SouthAmerica
+520,Llaollao,39,4.4,1.9,35–55,Gourmet,€,"Calle De Ferroviarios 98,  28026",Usera,Gourmet
+521,Bocadillos Ole,23,3.6,1.9,10–30,Mediterránea,€,"Calle De Dolores Barranco, 88, 28026",Usera,Mediterránea
+522,IGo Pasta,89,4.5,2.4,50–60,Pizza,€€,"Calle De Santa Isabel, 5, 28012",Usera,Pizza
+523,Yokaloka,23,3.6,0.9,25–35,Asiática,€€€,"Calle De La Antracita, 10, 28045",Usera,Asiática
+524,Cantina Canalla,24,4.2,2.9,40–50,SouthAmerica,€,"Paseo De Santa María De La Cabeza, 60, 28012",Usera,SouthAmerica
+525,Órale burrito,23,3.6,1.9,25–35,Burritos,€,"Calle De Antonio López 109,  28026",Usera,Burritos
+526,Alice Pizza,23,3.6,2.5,40–60,Pizza,€,"Calle De Méndez Álvaro 77,  28045",Usera,Pizza
+527,Tasty Poke,178,4.6,2.9,30–40,Poke,€,"Calle De Cáceres 5, 28045",Usera,Poke
+528,Herbívoro,23,3.6,1.4,45–55,Carne,€€€,"Calle De Lillo 1,  28041",Usera,Carne
+529,Abaco Taberna,23,3.6,1.9,20–30,Ensaladas,€,"Calle Del Áncora 26,  28045",Usera,Ensaladas
+530,Sésamo,23,3.6,1.9,35–45,Pollo,€,"Calle De Marcelo Usera 12,  28026",Usera,Pollo
+531,Asador de Pollos,23,3.6,1.4,20–30,Pollo,€,"Calle De Cardeñosa 42, 28053",Usera,Pollo
+532,Mac2Pic2,23,3.6,1.9,35–55,SouthAmerica,€,"Marcelo Usera 12, 28026",Usera,SouthAmerica
+533,Asador de Pollos,23,3.6,1.9,10–30,Pollo,€,"Calle Alférez Juan Usera, 34,  28019",Usera,Pollo
+534,Cheff oriental,23,3.6,2.4,50–60,SouthAmerica,€,"Paseo De Santa María De La Cabeza 32,  28045",Usera,SouthAmerica
+535,Kaleka Poke,23,3.6,0.9,25–35,Kebab,€,"Paseo Molino, 7, 28045",Usera,Kebab
+536,Pizzeria Roberto,33,4.2,2.9,40–50,Pizza,€,"Calle De José Antonio De Armona 7,  28012",Usera,Pizza
+537,Pui's Thai tapas,43,4.6,1.9,25–35,Comida rápida,€,"Calle Sallaberry, 101, 28019",Usera,Comida rápida
+538,Comida China Feliz,200,4.4,2.5,40–60,China,€,"Avenida De Palomeras 150 , 28018",Usera,China
+539,Merecumbe,100,4.3,2.9,30–40,SouthAmerica,€,"Calle De Embajadores, 12 ,  28045",Usera,SouthAmerica
+540,TUTTO PASTA!,26,2.8,2.9,35–45,Pizza,€,"Avenida De Rafaela Ybarra 37,  28026",Puente de Vallecas,Pizza
+541,Perla del Pacifico,66,4.1,0.9,30–40,SouthAmerica,€€€,"Calle De Matilde Hernández 90, 28025",Puente de Vallecas,SouthAmerica
+542,Restaurante Sabor K-Tracho,23,3.6,2.4,40–50,Pollo,€,"Av. De La Albufera, 91, 28053",Puente de Vallecas,Pollo
+543,Precio Calidad y sabor,17,4.4,2.0,40–60,Mediterránea,€,"Calle De La Alianza 33,  28041",Puente de Vallecas,Mediterránea
+544,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Felipe Fraile 5,  28038",Puente de Vallecas,China
+545,On Rush,14,4.8,1.4,40–50,Burritos,€,"Calle Azabache, 6, 28019",Puente de Vallecas,Burritos
+546,Super Dog,25,3.7,2.49,30–50,Hamburguesa,€,"Calle Del Pico De La Maliciosa 6,  28038",Puente de Vallecas,Hamburguesa
+547,Bur Burger,50,4.4,2.49,50–70,Hamburguesa,€,"Avenida De La Albufera, 40,  28038",Puente de Vallecas,Hamburguesa
+548,El Sabroso Albufera,30,3.9,1.4,20–30,Comida rápida,€,"Calle Monederos 12,  28026",Puente de Vallecas,Comida rápida
+549,Precio Calidad y sabor,17,4.4,2.0,40–60,Mediterránea,€,"Avenida De La Albufera 119,  28038",Puente de Vallecas,Mediterránea
+550,Kebab Rayo,117,3.8,0.9,25–35,Kebab,€,"Calle De Moncada 122,  28021",Puente de Vallecas,Kebab
+551,Pollos a la brasa el Corral,31,4.6,3.0,30–50,Pollo,€,"Av. Pablo Neruda, 91, 28018",Puente de Vallecas,Pollo
+552,McDonald's,200,4.1,0.9,15–25,Hamburguesa,€,"Av. De La Albufera, 20, 28053",Puente de Vallecas,Hamburguesa
+553,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Calle De La Antracita 12,  28045",Puente de Vallecas,Pollo
+554,Empanadas Malvón,31,5.0,2.4,40–50,Empanada,€,"Calle Del Puerto De Balbarán 31,  28018",Puente de Vallecas,Empanada
+555,Kebab Entrevias,43,4.5,1.4,25–35,Kebab,€,"Calle Arechavaleta 6,  28041",Puente de Vallecas,Kebab
+556,Pura Italia,109,3.2,1.9,35–55,Pizza,€,"Calle Ariel,15,  28045",Puente de Vallecas,Pizza
+557,El Buen Gusto,17,4.5,1.9,45–55,Mediterránea,€,"Calle De Benjamín Palencia, 32,  28038",Puente de Vallecas,Mediterránea
+558,Poke Ukelele,68,4.2,1.9,45–65,Poke,€,"Av. Del Mediterráneo, 30, 28009",Puente de Vallecas,Poke
+559,Mahalo Poke,23,3.6,2.5,30–50,Poke,€€,"Calle Del Camino De Los Vinateros, 22, 28030",Puente de Vallecas,Poke
+560,Ankara Doner Kebab,38,4.3,2.4,40–50,Kebab,€,"Av. De Entrevías, 58, 28053",Puente de Vallecas,Kebab
+561,Shaurma House,26,4.3,1.9,20–30,Pollo,€,"Avenida Del Monte Igueldo 36,  28053",Puente de Vallecas,Pollo
+562,Istanbul Kebab Madrid,23,3.6,1.4,30–40,Kebab,€,"Av Del Monte Igueldo, 36, 28053",Puente de Vallecas,Kebab
+563,Kebab Vallecano,12,4.0,1.4,30–40,Kebab,€,"Calle De Benadalid 6,  28018",Puente de Vallecas,Kebab
+564,Star Kebab Pollo Asado,14,4.1,2.4,35–45,Pollo,€,"Calle De Peña De La Atalaya, 86, 28053",Puente de Vallecas,Pollo
+565,Entrecarbón,23,3.6,1.9,20–30,Carne,€€€,C/ Felipe Fraile 5 28038,Puente de Vallecas,Carne
+566,Pizzamarket,30,4.8,1.9,20–30,Pizza,€,"Av. Del Mediterráneo, 21, 28007",Puente de Vallecas,Pizza
+567,Twin Pizza Mediterráneo,17,4.2,1.9,20–30,India,€,"Avenida Pablo Neruda 108,  28018",Puente de Vallecas,India
+568,Panda Sushi,133,4.4,1.9,20–30,Asiática,€€,"Calle De Arias Montano, 42, 28007",Puente de Vallecas,Ensaladas
+569,Acqua in Bocca,36,4.3,1.9,20–30,Comida rápida,€,"Calle Campo De La Paloma 32,  28018",Puente de Vallecas,Comida rápida
+570,Arepa Mix,38,3.9,1.9,20–30,SouthAmerica,€,"Calle Felipe Fraile 5,  28038",Puente de Vallecas,SouthAmerica
+571,THE SCHNITZEL BOSS,23,3.6,1.9,20–30,SouthAmerica,€,"Calle Del Pico De La Maliciosa 6,  28038",Puente de Vallecas,SouthAmerica
+572,Frida Burritos,47,4.5,1.9,20–30,Burritos,€,"Calle De Ferroviarios 98,  28026",Puente de Vallecas,Burritos
+573,Bocadillos Ole,23,3.6,1.9,20–30,Mediterránea,€,"Calle Felipe Fraile 5,  28038",Puente de Vallecas,Mediterránea
+574,Ceviches Marakaza,23,3.6,1.4,30–40,SouthAmerica,€,"Avenida Pablo Neruda, 96 , 28018",Puente de Vallecas,SouthAmerica
+575,Burger Town,23,3.6,1.4,30–40,Hamburguesa,€,"Calle Del Puerto Canfranc, 42, 28038",Puente de Vallecas,Hamburguesa
+576,Comida Fusión,19,3.7,1.4,30–40,Gourmet,€€€,"Avenida De Peña Prieta 22,  28038",Puente de Vallecas,Gourmet
+577,SUKAO FOOD FUSION,60,3.6,1.4,30–40,Asiática,€€€,"Calle De Santa Isabel, 5, 28012",Puente de Vallecas,Asiática
+578,Yokaloka,60,3.6,1.4,30–40,Asiática,€€€,"Calle De La Antracita, 10, 28045",Puente de Vallecas,Asiática
+579,Cantina Canalla,24,4.2,1.4,30–40,SouthAmerica,€,"Calle De La Cruz Del Sur 5,  28007",Puente de Vallecas,SouthAmerica
+580,BURRITOS & TACOS,86,3.5,1.4,25–35,Burritos,€,"Avenida Peña Prieta 50,  28038",Puente de Vallecas,Burritos
+581,Asador Delicasa,14,4.0,1.4,25–35,Carne,€,"Calle De Gutenberg 3, 28014",Puente de Vallecas,Carne
+582,Waiwai Fusion Poke Atocha,32,4.7,1.4,25–35,Tienda,€,"Calle De Méndez Álvaro 77,  28045",Puente de Vallecas,Tienda
+583,Tasty Poke,178,4.6,1.4,25–35,Poke,€,"Av. Pablo Neruda, 91, 28018",Puente de Vallecas,Poke
+584,Don Tortilla,24,4.1,1.4,25–35,Ensaladas,€,"Calle De Cáceres 5, 28045",Puente de Vallecas,Ensaladas
+585,Herbívoro,60,3.8,1.4,25–35,Carne,€€€,"Avenida De Buenos Aires 63,  28018",Puente de Vallecas,Carne
+586,Kebab Turca,60,3.8,1.4,25–35,Kebab,€,"Calle De Cardeñosa 42, 28053",Puente de Vallecas,Kebab
+587,Mac2Pic2,60,3.8,1.4,25–35,SouthAmerica,€,"Av. De La Albufera, 226, 28018",Puente de Vallecas,SouthAmerica
+588,Ateshgah Albufera,60,3.8,1.4,25–35,Mediterránea,€,"Avenida Pablo Neruda, 96 , 28018",Puente de Vallecas,Mediterránea
+589,Superbestia,60,3.8,1.4,25–35,Pizza,€,"Paseo Molino, 7, 28045",Puente de Vallecas,Pizza
+590,Pizzeria Roberto,33,4.2,1.4,25–35,Pizza,€,"Avenida De Palomeras 150 , 28018",Puente de Vallecas,Pizza
+591,Merecumbe,100,4.3,1.4,25–35,SouthAmerica,€,"Calle De Ferroviarios 98,  28026",Puente de Vallecas,SouthAmerica
+592,Mr Patata,60,3.8,1.4,25–35,Pollo,€,"Calle De Lituania 6,  28030",Puente de Vallecas,Pollo
+593,Dragón,60,3.8,1.4,25–35,Pizza,€,"Calle De Embajadores, 12 ,  28045",Puente de Vallecas,Pizza
+594,TUTTO PASTA!,26,2.8,2.6,40–60,Pizza,€,"Av. De La Albufera, 226, 28018",Moratalaz,Pizza
+595,Papa John's,200,4.4,1.4,25–35,Pizza,€,"Calle Del Pico De La Maliciosa 6,  28038",Moratalaz,Pizza
+596,Streat Lab,50,4.6,2.49,50–70,Pollo,€,"Av. De La Albufera, 91, 28053",Moratalaz,Pollo
+597,Pizz-a-porter,60,3.8,0.9,35–45,Pizza,€,"Calle De La Alianza 33,  28041",Moratalaz,Pizza
+598,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Del Pico De La Maliciosa 6,  28038",Moratalaz,China
+599,Streat Lab,50,4.6,1.9,40–50,Pollo,€,"Calle Felipe Fraile 5,  28038",Moratalaz,Pollo
+600,On Rush,14,4.8,2.4,45–55,Burritos,€,"Av. De La Albufera, 91, 28053",Moratalaz,Burritos
+601,Pizz-a-porter,60,3.8,1.9,45–55,Pizza,€,"Calle De Berastegui 24,  28017",Moratalaz,Pizza
+602,Perla del Pacifico,30,4.3,2.4,40–50,SouthAmerica,€€€,"Avenida De La Albufera, 40,  28038",Moratalaz,SouthAmerica
+603,El Sabroso Albufera,30,3.9,2.4,25–35,Comida rápida,€,"Calle Manuel Machado, 6, 28030",Moratalaz,Comida rápida
+604,McDonald's,200,4.2,1.9,30–40,Hamburguesa,€,"Calle Del Pico De La Maliciosa 6,  28038",Moratalaz,Hamburguesa
+605,Bur Burger,50,4.4,1.9,40–50,Hamburguesa,€,"Calle Azulejo 2,  28028",Moratalaz,Hamburguesa
+606,Empanadas BAIRES,60,3.8,2.9,45–55,Empanada,€,"Calle Esteban Collantes, 31,  28017",Moratalaz,Empanada
+607,Croqueteria Focos,60,3.8,2.9,35–45,Mediterránea,€,"Calle De Gonzalo De Berceo 63,  28017",Moratalaz,Mediterránea
+608,Asador Perla del Pacifico Ascao,39,4.6,2.4,40–50,Carne,€,"Av. De La Albufera, 20, 28053",Moratalaz,Carne
+609,Popeyes,187,4.1,1.99,20–40,Pollo,€,"Avenida De La Albufera 119,  28038",Moratalaz,Pollo
+610,Kebab Rayo,117,3.8,1.9,35–45,Kebab,€,"Paseo Del Marqués De Zafra 38, 28028",Moratalaz,Kebab
+611,DIVE`S FOOD,60,3.8,2.4,45–55,Hamburguesa,€,"Calle De Julián Camarillo 47,  28037",Moratalaz,Hamburguesa
+612,Pic & Nic,200,4.5,3.4,30–40,SouthAmerica,€,"Calle De Benjamín Palencia, 32,  28038",Moratalaz,SouthAmerica
+613,Poke Ukelele,68,4.2,3.4,45–65,Poke,€,"Av. De Moratalaz, 137, 28030",Moratalaz,Poke
+614,Kebab moratalaz,60,3.8,1.4,30–40,Kebab,€,"Av. Del Mediterráneo, 30, 28009",Moratalaz,Kebab
+615,Mahalo Poke,60,3.8,2.5,30–50,Poke,€€,"Av. Del Marqués De Corbera, 40, 28017",Moratalaz,Poke
+616,Bar el castaño,60,3.8,2.4,35–45,Mediterránea,€,"Calle Del Camino De Los Vinateros, 22, 28030",Moratalaz,Mediterránea
+617,Ankara Doner Kebab,38,4.3,1.9,30–40,Kebab,€,"Avenida Del Monte Igueldo 36,  28053",Moratalaz,Kebab
+618,Istanbul Kebab Madrid,60,3.8,2.4,40–50,Kebab,€,"Calle De Benadalid 6,  28018",Moratalaz,Kebab
+619,Star Kebab Pollo Asado,14,4.1,2.4,35–45,Pollo,€,"Av Del Monte Igueldo, 36, 28053",Moratalaz,Pollo
+620,Kebab Vallecano,12,4.0,2.4,40–50,Kebab,€,"Calle De Ezequiel Solana, 52, 28017",Moratalaz,Kebab
+621,Da Yuan,200,4.4,2.4,40–50,Comida rápida,€,C/ Felipe Fraile 5 28038,Moratalaz,Comida rápida
+622,Pizzamarket,30,4.8,2.4,40–50,Pizza,€,"Calle De Ricardo Ortiz, 20, 28017",Moratalaz,Pizza
+623,Tennessee BBQ,77,4.8,2.4,40–50,Pizza,€,"Calle De Zabaleta 1, 28002",Moratalaz,Pizza
+624,Napoli Gang by Bel Mondo,200,4.6,2.4,40–50,Pizza,€,"Av. Del Mediterráneo, 21, 28008",Moratalaz,Pizza
+625,Twin Pizza Mediterráneo,17,4.2,2.4,40–50,India,€,"Calle Francisco Villaespesa, 6, 28017",Moratalaz,India
+626,Mother india,37,4.3,2.4,40–50,China,€,"Avenida Pablo Neruda 108,  28018",Moratalaz,China
+627,Panda Sushi,133,4.4,2.4,40–50,Asiática,€,"Calle Del Vizconde De Matamala 5,  28028",Moratalaz,Ensaladas
+628,Clásico Argentino 🇦🇷,41,4.5,2.4,40–50,Empanada,€€,"Calle De Arias Montano, 42, 28007",Moratalaz,Empanada
+629,Acqua in Bocca,36,4.3,2.4,40–50,Comida rápida,€,"Calle Buen Gobernador, 6,  28027",Moratalaz,Comida rápida
+630,Happy Burger,90,4.3,2.4,40–50,Hamburguesa,€,"Calle Campo De La Paloma 32,  28018",Moratalaz,Hamburguesa
+631,Arepa Mix,38,3.9,2.4,40–50,SouthAmerica,€,"Calle Felipe Fraile 5,  28038",Moratalaz,SouthAmerica
+632,THE SCHNITZEL BOSS,60,3.8,2.4,40–50,SouthAmerica,€,"Calle Del Pico De La Maliciosa 6,  28038",Moratalaz,SouthAmerica
+633,Frida Burritos,47,4.5,2.4,40–50,Burritos,€,"Calle De Gandhi 71, 28017",Moratalaz,Burritos
+634,Veg&Bite,12,4.9,2.4,40–50,Dulce,€,"Calle Felipe Fraile 5,  28038",Moratalaz,Dulce
+635,Ceviches Marakaza,60,3.8,2.4,40–50,SouthAmerica,€,"Calle Del Vizconde De Matamala 5,  28028",Moratalaz,SouthAmerica
+636,Sushi Not Sorry,60,3.8,2.4,40–50,Asiática,€,"Calle De Maiquez 50,  28009",Moratalaz,Asiática
+637,Nagasaki Sushi Retiro,60,3.8,2.4,40–50,China,€,"Calle Del Puerto Canfranc, 42, 28038",Moratalaz,China
+638,Comida Fusión,19,3.7,2.4,40–50,Gourmet,€€€,"Avenida De Peña Prieta 22,  28038",Moratalaz,Gourmet
+639,SUKAO FOOD FUSION,60,3.8,2.5,40–60,Asiática,€€€,"Zabaleta 1,  28002",Moratalaz,Asiática
+640,Nola Smoke,199,4.2,2.5,40–60,Comida rápida,€,"Calle De La Cruz Del Sur 5,  28007",Moratalaz,Comida rápida
+641,BURRITOS & TACOS,86,3.5,2.5,40–60,Burritos,€,"Avenida Peña Prieta 50,  28038",Moratalaz,Burritos
+642,Asador Delicasa,14,4.0,2.5,40–60,Carne,€,"Fuente Carrantona 24, 28030",Moratalaz,Carne
+643,TGB,174,3.9,2.5,40–60,Hamburguesa,€,"Avenida Unión Europea 5,  28850",Moratalaz,Hamburguesa
+644,Ágora Torrejón,60,3.8,2.5,40–60,Asiática,€,"Avenida De Buenos Aires 63,  28018",Moratalaz,Asiática
+645,Kebab Turca,60,3.8,2.5,40–60,Kebab,€,"Av. De La Albufera, 226, 28018",Moratalaz,Kebab
+646,Ateshgah Albufera,60,3.8,2.5,40–60,Mediterránea,€,"Avenida Pablo Neruda, 96 , 28018",Moratalaz,Mediterránea
+647,Superbestia,60,3.8,2.5,40–60,Pizza,€,"Calle De Embajadores, 12 ,  28045",Moratalaz,Pizza
+648,TUTTO PASTA!,26,2.8,2.5,40–60,Pizza,€,"Alcalde Luis De Marichala 3, 28030",Ciudad Lineal,Pizza
+649,Papa John's,127,4.1,1.4,35–45,Pizza,€,"Calle Azulejo 2,  28028",Ciudad Lineal,Pizza
+650,Pizzería Argentina El Trébol,60,3.8,2.9,45–55,Pizza,€,"Calle De La Alianza 33,  28041",Ciudad Lineal,Pizza
+651,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Calle Lopez de Hoyos 15, 28006",Ciudad Lineal,China
+652,El Burrito Borracho,60,2.7,2.9,40–50,Burritos,€,"Calle Azulejo 2,  28028",Ciudad Lineal,Burritos
+653,Pizzería Argentina El Trébol,60,2.7,1.9,40–50,Pizza,€,"Calle De Berastegui 24,  28017",Ciudad Lineal,Pizza
+654,Perla del Pacifico,30,4.3,1.4,35–45,SouthAmerica,€€€,"Calle De La Alianza 33,  28041",Ciudad Lineal,SouthAmerica
+655,Chinawokexpress,200,4.2,4.25,30–50,China,€,"Plaza Bami, 26, 28017",Ciudad Lineal,China
+656,El Burrito Borracho,60,2.7,1.4,30–40,Burritos,€,"Calle De José Ortega Y Gasset 94, 28006",Ciudad Lineal,Burritos
+657,Empanadas Malvón,48,4.9,1.9,25–35,Empanada,€,"Calle Azulejo 2,  28028",Ciudad Lineal,Empanada
+658,Empanadas BAIRES,60,2.7,1.9,40–50,Empanada,€,"López De Hoyos , 153, 28224",Ciudad Lineal,Empanada
+659,Popeyes,200,4.4,1.9,35–45,Pollo,€,"Alcala 191, 28006",Ciudad Lineal,Pollo
+660,Pastamore,98,4.6,2.4,30–40,Pizza,€,"Calle Esteban Collantes, 31,  28017",Ciudad Lineal,Pizza
+661,Croqueteria Focos,60,2.7,1.4,25–35,Mediterránea,€,"Calle Del Príncipe De Vergara, 210, 28002",Ciudad Lineal,Mediterránea
+662,Home Burger Bar,198,4.1,2.4,35–45,Hamburguesa,€,"Calle De La Virgen De La Fuencisla, 19,  28027",Ciudad Lineal,Hamburguesa
+663,HyH Kebab Fried Chicken,23,3.6,1.0,40–60,Pollo,€,"Calle Mateo García, 13, 28017",Ciudad Lineal,Pollo
+664,Pollos Gourmet,22,2.7,1.4,25–35,Pollo,€,"Calle De Azcona 36,  28028",Ciudad Lineal,Pollo
+665,Arepish,186,4.6,1.9,30–40,SouthAmerica,€,"Calle De Cronos, 6, 28037",Ciudad Lineal,SouthAmerica
+666,Ichibanya,40,4.0,1.9,40–60,Comida rápida,€,"Calle De Gonzalo De Berceo 63,  28017",Ciudad Lineal,Comida rápida
+667,Asador Perla del Pacifico Ascao,39,4.6,1.9,30–40,Carne,€,"Calle De Julián Camarillo 47,  28037",Ciudad Lineal,Carne
+668,Pic & Nic,200,4.5,2.4,25–35,SouthAmerica,€,"Paseo Del Marqués De Zafra 38, 28028",Ciudad Lineal,SouthAmerica
+669,DIVE`S FOOD,22,2.7,1.9,40–50,Hamburguesa,€,"Calle De Las Naciones 5,  28006",Ciudad Lineal,Hamburguesa
+670,PaellaGood,22,2.7,2.4,45–55,Mediterránea,€€,"Calle De Alcalá, 339, 28027",Ciudad Lineal,SouthAmerica
+671,Pa Picar,22,2.7,0.9,20–30,SouthAmerica,€,"Calle Del Gral. Pardiñas, 32, 28001",Ciudad Lineal,SouthAmerica
+672,Rude Burger,36,4.8,2.9,40–50,Hamburguesa,€€,"Calle Lopez de Hoyos 15, 28006",Ciudad Lineal,Hamburguesa
+673,100 % Sano,22,2.7,2.9,35–45,Ensaladas,€€,"Calle De San Romualdo, 22, 28037",Ciudad Lineal,Ensaladas
+674,McDonald's,200,4.2,2.4,20–30,Hamburguesa,€,"Calle Del Marqués De Mondéjar, 4,  28028",Ciudad Lineal,Hamburguesa
+675,Thai Zafra,38,4.6,1.9,25–35,Tienda,€,"Calle De María De Molina, 44, 28006",Ciudad Lineal,Tienda
+676,Flame,22,2.7,2.4,45–55,Hamburguesa,€,"Calle Conde De Penalver 35,  28006",Ciudad Lineal,Hamburguesa
+677,Cor & Cor,35,4.3,2.4,50–60,Dulce,€,"Calle De Maldonado, 51, 28006",Ciudad Lineal,Dulce
+678,Tiendas 7x24,140,4.8,2.4,30–40,Tienda,€,"Calle De Méjico 20,  28028",Ciudad Lineal,Tienda
+679,Restaurante Chino Diamante,100,4.0,1.9,35–45,China,€,"Calle De Emilio Gastesi Fernández 12, 28027",Ciudad Lineal,China
+680,Tienduki,22,2.7,2.99,5–25,Tienda,€,"Calle Del Dr. Esquerdo, 10, 28028",Ciudad Lineal,Tienda
+681,Empanadas Pampas,22,2.7,2.4,35–45,Empanada,€,"Calle Ferretería, 3, 28037",Ciudad Lineal,Empanada
+682,Make doner,15,3.9,2.4,50–60,Dulce,€,"Calle Zabaleta 1,  28002",Ciudad Lineal,Dulce
+683,CHUCK CHUCK CHICKEN,22,2.7,2.4,40–50,Pollo,€,"Calle De Mota Del Cuervo, 76, 28043",Ciudad Lineal,Pollo
+684,El Nuevo Yantar,22,2.7,3.9,45–55,Dulce,€,"C/ Alcala 232, 28017",Ciudad Lineal,Dulce
+685,Tim Hortons,36,4.9,1.4,25–35,Ensaladas,€,"Calle De Arturo Soria, 189, 28043",Ciudad Lineal,Ensaladas
+686,Pasteleria Saul,27,4.2,2.4,25–35,Dulce,€,"Plaza Sagrado Corazón De Jesús, 2, 28002",Ciudad Lineal,Dulce
+687,Foster's Hollywood,65,4.2,2.4,40–50,Hamburguesa,€€,"Calle De Silvano, 77, 28043",Ciudad Lineal,Hamburguesa
+688,Kebab Bosforos,80,4.5,2.9,40–50,Kebab,€,"Av. Del Marqués De Corbera, 40, 28017",Ciudad Lineal,Kebab
+689,Bar el castaño,22,2.7,1.9,30–40,Mediterránea,€,"Calle De Hermosilla, 91, 28001",Ciudad Lineal,Mediterránea
+690,Esmirna Doner Kebap,48,4.7,2.4,35–45,Kebab,€,"Calle Zabaleta 1,  28002",Ciudad Lineal,Kebab
+691,Golat Helados,22,2.7,2.4,35–45,Dulce,€,"Calle Zabaleta 1,  28002",Ciudad Lineal,Dulce
+692,Frambons,22,2.7,2.4,35–45,Empanada,€,"Av. Del Mediterráneo, 30, 28009",Ciudad Lineal,Empanada
+693,Mahalo Poke,22,2.7,2.5,30–50,Poke,€€,"Calle De Cartagena, 131, 28002",Ciudad Lineal,Poke
+694,Doner kebap efes,23,4.7,2.4,25–35,Kebab,€,"Calle De López De Hoyos, 139, 28002",Ciudad Lineal,Kebab
+695,Doner kebap efes,30,4.6,1.9,30–40,Kebab,€,"Calle De Alcalá 205, 28028",Ciudad Lineal,Kebab
+696,100 Montaditos,22,2.7,1.9,35–45,Mediterránea,€,"Calle Del Conde De Peñalver 43,   28006",Ciudad Lineal,Mediterránea
+697,CHOCOLATES VALOR,12,4.1,2.9,60–70,Dulce,€,"Calle De Francisco Silvela 63,  28006",Ciudad Lineal,Dulce
+698,Sumo Grill,26,4.5,2.9,60–70,Kebab,€,"Calle De Ezequiel Solana, 52, 28017",Ciudad Lineal,Kebab
+699,Da Yuan,200,4.4,2.9,60–70,Pizza,€,"Calle Del Conde De Peñalver, 66, 28006",Ciudad Lineal,Pizza
+700,Filippo Pizza,22,2.7,2.9,60–70,Hamburguesa,€,"Calle De Ricardo Ortiz, 20, 28017",Ciudad Lineal,Hamburguesa
+701,Tennessee BBQ,77,4.8,2.9,60–70,Hamburguesa,€,"Calle Lopez de Hoyos 15, 28006",Ciudad Lineal,Hamburguesa
